@@ -1,0 +1,151 @@
+﻿id,gold_cluster,pred_cluster,text
+SYN-0001,mon_refund,18,{SERVICE}에서 실수로 결제가 돼버렸는데 이거 바로 환불 가능할까요? 금액이 좀 커서 그런데 확인하는 대로 최대한 빨리 처리 좀 부탁드립니다.
+SYN-0002,etc_praise,2,{SERVICE} 이번 업데이트 진짜 대박이네요!! UI가 훨씬 편해져서 너무 좋음ㅋㅋ 고생 많으셨어요~
+SYN-0003,com_cheat,34,{SERVICE}에서 매크로 돌리는 유저들이 너무 많아서 도저히 게임 진행이 안 되네요ㅠ 빠른 확인이랑 조치 좀 부탁드립니다.
+SYN-0004,bal_nerf,27,아니 {SERVICE} 무기 밸런스 진짜 왜 이럼;; 내 무기 성능 왜 이렇게까지 깎은 거임? 진짜 너무하네...
+SYN-0005,payment_missing,20,아 진짜 {SERVICE} 결제했는데 재화 왜 안 들어오냐고;; 지금 단톡방에서도 다들 안 들어온다는데 이거 오류임? 빨리 확인 좀 해줘요 진짜;;;
+SYN-0006,payment_missing,20,{SERVICE}에서 결제했는데 왜 재화가 안 들어오는 거임;; 지금 당장 써야 되는데 확인 좀 빨리 해줘요 진짜 짜증나네...
+SYN-0007,login_fail,16,{SERVICE} 지금 로그인이 아예 안 되네요.. 주변에서도 다들 접속 안 된다고 하는데 확인 좀 부탁드려요ㅜㅜ
+SYN-0008,bal_matching,26,{SERVICE} 매칭 실력 차이 실화냐... 우리 팀은 뉴비들뿐인데 상대는 다 고인물이라 게임이 안 됨ㅠ 밸런스 좀 신경 좀 써주세요.
+SYN-0009,ui_overlap,33,{SERVICE} UI에서 글자가 겹쳐 보이는 부분이 좀 있네요.. 확인 한번 해주시면 좋을 것 같아요.
+SYN-0010,payment_missing,20,{SERVICE} 결제 완료했는데 아직도 currency가 안 들어와서요.. 요즘 가챠 rate도 너무 low한데 payment bug까지 생기니 좀 당황스러운데 ASAP으로 check 좀 부탁드려요ㅜ
+SYN-0011,bal_easy,30,{SERVICE} 초반 난이도가 너무 쉬워서 그런지 금방 깨지네요.. 난이도 조절이 조금 더 필요할 것 같아요.
+SYN-0012,etc_inquiry,1,{SERVICE} 계정 transfer 어떻게 하는지 좀 알려주실 수 있나요? 어디 메뉴에 있는지 궁금해서요..
+SYN-0013,mon_package,24,아니 {SERVICE} 패키지 구성 실화냐요;; 가격은 비싼데 들어있는 거 보면 진짜 어이없네ㅡㅡ
+SYN-0014,bal_boss_hard,32,{SERVICE} 보스 난이도 진짜 헬인데 balance 좀 부탁드려요;; 이거 그냥 과금 없으면 못 깨는 P2W 게임인가요? 가챠 확률도 별로인데 진짜 노답이네요..
+SYN-0015,crash_battle,10,{SERVICE} 전투 중에 자꾸 앱이 튕기네요.. 중요한 순간에 계속 꺼지니까 너무 당황스러운데 확인 좀 부탁드려요 ㅜㅜ
+SYN-0016,bal_matching,26,{SERVICE} 매칭 실력 차이 너무 심한 거 아님? 매번 한쪽으로 몰려서 게임할 맛 안나네 진짜...
+SYN-0017,com_sanction,13,{SERVICE} 운영 진짜 노답이네.. 저번에 갑자기 정지 먹었는데 저 진짜 아무것도 안 했거든요? 그냥 게임 버그 때문에 꼬인 거 같은데 왜 커뮤니티 규정 위반으로 잡는지 이해 안 가네;; 진짜 억울하다..
+SYN-0018,payment_missing,20,{SERVICE} 결제했는데 재화가 안 들어오네요.. 지금 커뮤니티에서도 다들 안 들어온다고 문의가 계속 올라오는데 확인 좀 부탁드려요.
+SYN-0019,mon_rate_suspect,29,이 게임 확률이 좀 이상한 것 같아서 계속 신경 쓰이네요.. 밸런스도 지금 이 상태면 나중에 제대로 플레이하기 힘들 것 같은데 운영진이 제대로 확인 좀 해주셨으면 좋겠어요;;
+SYN-0020,ui_overlap,33,{SERVICE} UI 글씨 자꾸 겹쳐서 보이는데 이거 좀 수정해 주시면 안 될까요? 읽기가 너무 불편하네요 ㅜㅜ
+SYN-0021,mon_gacha_rate,29,아 {SERVICE} 확률 실화냐고;; 돈은 돈대로 쓰고 아무것도 안 나오는데 이거 진짜 너무한 거 아님? 당장 확률 상향 안해주면 진짜 바로 접을 거임ㅡㅡ
+SYN-0022,mon_gacha_rate,29,아 {SERVICE} 확률 진짜 너무 극악인 거 아님? 돈은 돈대로 날리고 아무것도 안 나오는데 당장 확률 공개하고 수정해라 진짜;;
+SYN-0023,bal_strong_char,29,{SERVICE} 이번 캐릭터 밸런스 진짜 실화냐요;; 너무 사기라 못 뽑으면 게임 못할 수준인데 확률은 왜 이 모양인지... 진짜 돈 아깝게 스트레스 받네;;
+SYN-0024,mon_package,24,{SERVICE} 패키지 구성이 price 대비 좀 lacking한 느낌이라 가성비가 안 맞는 것 같네요.. 다음번엔 구성이 조금 더 좋아지면 좋겠어요.
+SYN-0025,mon_rate_suspect,29,아니 {SERVICE} 확률 조작 아니냐고 진짜... 돌린 거 보니까 확률 조작 냄새 진동하는데 이거 당장 공지 내고 제대로 해명해라 진짜;;
+SYN-0026,com_cheat,34,{SERVICE}에서 어떤 유저가 움직이는 게 좀 이상하던데 이거 매크로 쓰는 건가요? 아니면 그냥 게임 버그 같은 건지도 확인 한번 부탁드려요..
+SYN-0027,login_fail,16,{SERVICE} 지금 로그인이 아예 안 되는데 다른 분들도 그러신가요? 접속 오류 계속 뜨고 아무것도 안 되네요.. 확인 좀 부탁드려요ㅠ
+SYN-0028,bal_matching,26,{SERVICE} 매칭 진짜 실화냐;; Skill gap이 너무 심해서 게임할 맛 안나네.. 좀 고쳐주셈.
+SYN-0029,mon_sub,23,{SERVICE} 월정액 benefits이 좀 부족한 것 같아요.. 다른 게임들에 비해서 rewards가 좀 더 늘어나면 좋을 듯요ㅠ
+SYN-0030,login_fail,16,{SERVICE} 로그인 안되는데 저만 그런 건가요.. 주변에서도 다들 안된다고 하네요ㅠㅠ 확인 좀 부탁드려요.
+SYN-0031,mon_refund,18,{SERVICE} 이거 실수로 결제됐는데 환불 좀 해주세요 ㅜㅜ UI가 좀 헷갈려서 잘못 누른건데 진짜 아쉽네요..
+SYN-0032,com_scam,19,방금 {SERVICE} 거래하다가 사기당했는데 확인 좀 부탁드려요.. 아이템이랑 재화 다 날아간 상태라 최대한 빨리 처리해주시면 감사하겠습니다 ㅜㅜ
+SYN-0033,ops_event_period,14,"The event duration in {SERVICE} is so confusing, I can't tell when it's actually ending. Please fix the info because it's honestly so annoying. 🙄"
+SYN-0034,etc_suggest,3,{SERVICE} 진짜 재밌게 즐기고 있어요! 나중에 여유 되실 때 친구들이랑 같이 할 수 있는 협동 콘텐츠 같은 것도 생기면 너무 좋을 것 같아요ㅎㅎ
+SYN-0035,bal_easy,30,{SERVICE} 초반 난이도가 너무 쉬운 거 아님? 그냥 한 손으로도 깰 수준이라 긴장감이 좀 없네요;;
+SYN-0036,etc_suggest,3,{SERVICE} 이번 업데이트도 너무 재밌게 즐기고 있어요! 나중에 시간 될 때 친구들이랑 같이 할 수 있는 소규모 미니게임 같은 것도 추가되면 진짜 좋을 것 같아요ㅎㅎ
+SYN-0037,etc_praise,2,이번 {SERVICE} 업데이트 진짜 대박이네요ㅋㅋㅋ UI 훨씬 편해진거 같아서 넘 좋음!! 고생하셨어요~
+SYN-0038,etc_inquiry,1,"I'm really enjoying {SERVICE} so far! Just wondering how the account transfer works when I'm ready to do it? No rush at all, just curious! :)"
+SYN-0039,com_abuse,4,아니 {SERVICE} 채팅 매너 왜 이래 진짜... 욕설 신고해도 바로바로 처리가 안 되는 거랑 가끔 렉 걸려서 멈추는 거 이거 같이 좀 봐주면 안 돼요? 짜증나서 못하겠네;;;
+SYN-0040,mon_package,24,{SERVICE} 이번 패키지 구성이 가격 대비 좀 아쉬운 것 같아요.. 구성품이 조금만 더 알찼으면 좋겠네요ㅠ
+SYN-0041,bal_matching,26,{SERVICE} 매칭 실력 차이가 너무 심해서 게임하기 좀 힘드네요.. 가끔은 과금해서 뽑은 캐릭 성능 때문인가 싶기도 하고 확률도 좀 의심되는 부분이라 전반적으로 밸런스 조정 좀 부탁드려요ㅠ
+SYN-0042,com_abuse,4,{SERVICE} 채팅창에 욕하는 애들 왜 안 막음? 신고해도 아무 반응 없는데 운영 좀 제대로 해주세요 진짜;;
+SYN-0043,payment_missing,20,{SERVICE} 결제했는데 재화 왜 안 들어옴;; 이거 지금 저뿐만 아니라 다들 안된다고 난리인데 빨리 확인 좀 해주세요 진짜 화나네 ㅜㅜ
+SYN-0044,mon_gacha_rate,29,아 진짜 {SERVICE} 확률 실화냐고;; 돈은 돈대로 쓰고 아무것도 안 나오니까 좀 빡치네.. 확률 조정 좀 해주세요 진짜ㅠ
+SYN-0045,etc_suggest,3,{SERVICE} 진짜 재밌어서 계속 하는 중인데 나중에 new content로 미니게임 같은 거 추가되면 넘 좋을 것 같아요!! Please add some more! ㅎㅎ
+SYN-0046,ui_overlap,33,{SERVICE} ui 글씨 자꾸 겹쳐 보이는데.. 이거 좀 신경 써서 수정 부탁드려요 ㅠㅠ
+SYN-0047,mon_package,25,The new pack in {SERVICE} is a total rip-off lol. The items are barely worth half the price they're asking for... 🙄
+SYN-0048,mon_gacha_rate,29,{SERVICE} 확률이 생각보다 너무 안 나오는 느낌이라 좀 아쉽네요.. 확률 개선 한번 고려해주시면 좋을 것 같아요 ㅠㅠ
+SYN-0049,loading_stuck,8,{SERVICE} 로딩 화면에서 계속 멈춰있는데 재접속해도 계속 이러네요.. 이거 어떻게 해결해야 하나요? ㅜㅜ
+SYN-0050,com_cheat,34,{SERVICE}에서 계속 같은 루트만 도는 유저 있는데 이거 macro 쓰는 건가요? 아니면 maybe some bug?? 패턴이 너무 고정적이라 좀 weird하네요.. 확인 한번만 부탁드려요.
+SYN-0051,loading_stuck,8,"{SERVICE} 로딩 화면에서 계속 stuck 상태라 진행이 안 되는데.. Please fix this ASAP, 지금 바로 접속해야 해서요 ㅜ"
+SYN-0052,com_abuse,4,채팅 욕설 신고를 계속해도 아무 반응이 없는데 이거 왜 이래요? {SERVICE} 운영 좀 제대로 해주세요 진짜 짜증나네...
+SYN-0053,ui_overlap,33,{SERVICE} ui 글씨가 자꾸 서로 겹쳐서 보이는데 이거 좀 고쳐주세요.. 읽기 너무 불편해서 겜하기 힘드네여 ㅠ
+SYN-0054,bal_easy,30,{SERVICE} 초반 난이도가 너무 easy해서 밸런스가 좀 아쉬운듯요.. 근데 가챠 확률도 같이 좀 check 해주셨으면 좋겠네요.
+SYN-0055,com_scam,7,omg i just got totally scammed in {SERVICE} and lost everything i worked for... someone PLEASE help me fix this right now before i lose my mind!! 😭💔
+SYN-0056,login_fail,16,{SERVICE} 지금 서버 터진 건가요? 접속이 아예 안 되는데 다들 안 된다고 난리네요... 아 진짜 중요한 거 해야 되는데 빨리 좀 고쳐주세요;;ㅠㅠ
+SYN-0057,payment_missing,20,{SERVICE} 아 진짜 결제했는데 재화 왜 안 들어오냐고;; 지금 당장 써야 되는데 한참째 안 들어오네 빨리 확인 좀 해줘 진짜 화나네ㅡㅡ
+SYN-0058,bal_easy,30,{SERVICE} 초반 난이도 너무 쉬운거 아님? 금방 끝내버려서 좀 노잼임.. 밸런스 좀 신경 써주셈ㅠ
+SYN-0059,ops_note_mismatch,12,{SERVICE} 업데이트 노트에는 분명히 수정된다고 써있는데 왜 실제로는 그대로임? 공지랑 내용이랑 너무 다른데 확인 좀 해주세요ㅡㅡ
+SYN-0060,mon_gacha_rate,29,{SERVICE} 확률이 너무 낮게 느껴져서 계속 뽑기만 하는데 결과가 너무 안 나오네요.. 이대로면 게임을 계속하기 힘들 것 같은데 확률 조정 좀 부탁드립니다.
+SYN-0061,ui_overlap,33,{SERVICE} UI 글자 겹쳐 보이는 거 좀 거슬리네요;; 가독성 너무 떨어짐 ㅠㅠ
+SYN-0062,crash_battle,11,아니 {SERVICE} 진짜 개노답이네 ㅡㅡ 보스 잡는 중이었는데 툭 꺼져서 멘붕왔음... 이거 당장 고쳐주세요 진짜 짜증나네.
+SYN-0063,bal_nerf,27,{SERVICE} 이번 패치 무기 성능 왜 이리 깎았냐.. 밸런스 진짜 노답이네;; 이거 완전 신캐 무기 뽑으라고 유도하는 거 아님? 확률도 안 좋은데 진짜 너무하다ㅠ
+SYN-0064,crash_battle,10,{SERVICE} 아 진짜 전투 중에 자꾸 튕겨서 못해먹겠네요;; 보스 잡기 직전인데 튕기면 어떡하라고요 당장 고쳐주세요ㅡㅡ
+SYN-0065,com_sanction,35,{SERVICE} 갑자기 제재를 받았는데 제가 규정 위반을 한 건 없는 것 같아서요.. 확인 한번만 다시 부탁드려도 될까요?
+SYN-0066,quest_block,22,{SERVICE}에서 퀘스트 완료했는데 체크 표시가 안 떠서 다음으로 못 넘어가고 있어요ㅜ 확인 한번만 부탁드려요.
+SYN-0067,com_scam,19,{SERVICE}에서 거래하다가 아이템이 안 들어왔는데 이거 시스템 오류인지 사기인지 확인 좀 부탁드려요.. 중요한 거라 최대한 빨리 처리해주시면 좋겠네요ㅠㅠ
+SYN-0068,mon_package,24,{SERVICE} 이번 패키지 구성 실화냐... 진짜 value 너무 별로임;; 가격은 혜자라더니 템 구성도 너무 tight하고 밸런스도 좀 꼬인 느낌이라 솔직히 좀 아쉬워요.
+SYN-0069,ops_note_mismatch,12,이번 {SERVICE} 업데이트 노트랑 실제 content가 좀 mismatch 되는 것 같아서 확인 부탁드려요.. 그리고 과금 관련해서 확률 부분도 공지랑 좀 다른 느낌이라 살짝 헷갈리네요.
+SYN-0070,ops_reward_missing,21,Finished the event in {SERVICE} but it looks like the rewards are missing. Could you please check on this for me?
+SYN-0071,bal_boss_hard,31,{SERVICE} 보스 난이도 진짜 실화인가요.. 몇 번을 도전해도 계속 막히니까 너무 스트레스 받네요 ㅠㅠ 난이도 좀 적당히 조절 좀 해주세요.
+SYN-0072,crash_battle,9,{SERVICE} keeps crashing right in the middle of combat and I'm losing all my progress every time. Pls look into this as soon as possible because it's making it impossible to play.
+SYN-0073,etc_inquiry,1,{SERVICE} 계정 이전 방법이 어떻게 되는지 궁금해서요.. 시간 되실 때 확인 부탁드려요!
+SYN-0074,bal_strong_char,28,아 진짜 {SERVICE} 밸런스 왜 이래;; 특정 캐릭터 하나가 너무 사기라 다른 애들 쓸 맛이 안 나네..
+SYN-0075,etc_praise,2,이번 {SERVICE} 업데이트 진짜 대박이에요ㅋㅋ UI 훨씬 편해진 거 같아서 너무 좋네요!!
+SYN-0076,mon_rate_suspect,7,"I'm seriously done with {SERVICE}, the rates are clearly rigged and I'm losing my mind here. Fix this garbage system right now or everyone's gonna quit."
+SYN-0077,surge_notice_time_error,15,Omg why is {SERVICE} still down?? The notice said it would be finished by 3pm but it's literally 5pm now and I've been waiting for nothing. Fix this mess and give us some actual compensation for wasting our time!! 😤
+SYN-0078,surge_notice_time_error,15,"{SERVICE} 점검 공지 실화냐고;; 공지엔 오후 3시라더니 실제는 5시인데 아직도 접속 안댐... I've been waiting for so long, please fix this and give us proper compensation ASAP!!!"
+SYN-0079,surge_notice_time_error,15,아니 {SERVICE} 점검 공지 3시라길래 기다렸는데 아직도 안 열리네요;; 대체 몇 시에 끝나는 건데... 사람들 다 기다리고 있는데 공지 이따위로 하면 어떡함?? 보상 제대로 내놓으세요 진짜루.
+SYN-0080,bal_matching,26,{SERVICE} 매칭할 때 skill gap이 너무 크게 느껴지는데 balance 조정 좀 부탁드려요..ㅠㅠ
+SYN-0081,surge_notice_time_error,15,아니 {SERVICE} 공지 진짜 실화임?? 오후 3시 종료라고 해서 기다렸는데 아직도 접속 안 됨;; 5시 넘었는데 왜 이러는 거임? 아 진짜 짜증나는데 정정 공지랑 보상 좀 당장 내놓으셈;;
+SYN-0082,surge_notice_time_error,15,{SERVICE} 운영 진짜 실화냐요.. 공지엔 오후 3시 종료라더니 실제는 5시라니 대체 왜 이렇게 속여요ㅠㅠ 시간 맞춰 기다렸는데 접속도 안 되고 진짜 화나네.. 공지 빨리 수정하고 보상 제대로 좀 주세요!!
+SYN-0083,surge_notice_time_error,15,{SERVICE} 점검 종료 공지가 3시라고 돼 있어서 기다렸는데 실제로는 5시까지 접속이 안 되네요.. Time error 때문에 헛걸음해서 좀 당황스러운데 확인 부탁드리고 compensation도 좀 챙겨주세요ㅠㅠ
+SYN-0084,surge_notice_time_error,15,{SERVICE} 공지에는 오후 3시 종료라고 되어있어서 계속 기다렸는데 왜 아직도 접속이 안 되는 건가요? 지금 오후 5시 넘었는데 시간 낭비 실화냐 진짜 너무하네... 보상 제대로 챙겨주고 공지 당장 수정하세요ㅡㅡ
+SYN-0085,surge_notice_time_error,15,{SERVICE} 점검 종료 공지가 오후 3시라고 되어 있어서 기다렸는데 아직도 접속이 안 되네요.. 실제로는 5시 넘어서나 되는 것 같은데 유저들 많이 기다리고 있으니 공지 수정이랑 보상 관련해서 빠른 답변 부탁드립니다.
+SYN-0086,surge_notice_time_error,15,아니 {SERVICE} 점검 공지 실화임? 3시 종료라고 해서 계속 기다렸는데 왜 아직도 안 들어와져요;; 5시 넘은 거 진짜 어이없네.. 피해자들 보상 제대로 해라 진짜ㅡㅡ
+SYN-0087,loading_stuck,8,fix {SERVICE} pls its stuck on loading screen for like 10 mins now i need to get in fast!!
+SYN-0088,surge_notice_time_error,15,점검 종료 공지는 오후 3시라더니 실제로는 5시에 끝나서 한참 기다렸다가 허탕 쳤네요.. 공지 오류 확인해주시고 보상이랑 정정 처리 좀 빨리 부탁드려요ㅜㅜ
+SYN-0089,surge_notice_time_error,15,아 진짜 {SERVICE} 운영 실화냐요;; 공지엔 오후 3시 종료라더니 왜 아직도 안 열려요?? 시간 날린 거 생각하면 보상 제대로 안 해주면 진짜 못 참음;; 빨리 확인 좀 하셈.
+SYN-0090,surge_notice_time_error,15,아니 {SERVICE} 공지에는 분명 오후 3시 종료라고 되어 있었는데 왜 아직도 접속이 안 되는 건가요.. 지금 5시인데 시간만 버리고 진짜 화나니까 빨리 정정하고 보상 제대로 좀 주세요.
+SYN-0091,surge_notice_time_error,15,{SERVICE} 점검 공지에는 오후 3시에 종료라고 되어 있어서 기다렸는데 아직도 접속이 안 되네요.. 공지랑 실제 시간이 너무 달라서 당황스러운데 다른 분들도 기다리시는 것 같으니 확인이랑 보상 안내 좀 부탁드립니다.
+SYN-0092,mon_sub,23,{SERVICE} 월정액 혜택이 좀 빈약한 느낌이네요.. 이 정도면 돈 아까운 수준이라 다음엔 고민 좀 해봐야 할듯 ㅜㅜ
+SYN-0093,surge_notice_time_error,15,{SERVICE} 점검 공지 왜 이래요 진짜... 공지엔 오후 3시 끝난다더니 왜 아직도 안 들어가지임;; 결국 5시 넘어서야 열리는데 시간 날린 거 보상이랑 공지 정정 제대로 좀 해주세요 ㅡㅡ
+SYN-0094,surge_notice_time_error,15,{SERVICE} 점검 공지 왜 이럼요?? 분명 오후 3시 종료라고 해서 기다렸는데 5시 넘어서야 열리는데 진짜 어이없네;; 보상 제대로 챙겨주고 공지 똑바로 수정하세요ㅡㅡ
+SYN-0095,surge_notice_time_error,15,"{SERVICE} 점검 공지 실화냐요.. 3시 종료라고 해서 계속 기다렸는데 아직도 안 열리는거 진짜 개빡침;; This is so ridiculous, 보상이랑 정정 공지 좀 빨리빨리 올려주세요!!"
+SYN-0096,surge_notice_time_error,15,아니 점검 공지 왜 이래요?? 오후 3시 종료라고 해서 계속 기다렸는데 5시 넘어도 접속 안 돼서 진짜 짜증나네요;; 이거 기다린 사람 엄청 많을 텐데 빨리 정정하고 제대로 된 보상 좀 주세요.
+SYN-0097,surge_notice_time_error,15,{SERVICE} 점검 공지 오류 때문에 시간 낭비 진짜 너무하네요;; 공지엔 3시 종료라더니 왜 5시까지 접속 안 되는 건데요? 이거 제대로 보상 안 해주시면 진짜 못 참겠음..
+SYN-0098,surge_notice_time_error,15,아니 점검 공지에는 3시 종료라고 되어있어서 기다렸는데 왜 아직도 접속 안대냐고;; 지금 5시 넘었는데 이거 보상 제대로 해주고 공지부터 빨리 수정하세요 진짜 짜증나네;;
+SYN-0099,surge_notice_time_error,15,아니 {SERVICE} 점검 시각 공지 왜 이럼? 2시 종료라고 해서 기다렸는데 4시 넘어서야 열려서 시간만 버렸네요;; 이거 제대로 보상해 주시고 공지 똑바로 수정 좀 해주세요!!
+SYN-0100,surge_notice_time_error,15,{SERVICE} 점검 공지에는 3시 종료라고 되어 있었는데 실제로는 5시에 끝나서 한참이나 허탕 쳤네요.. 이거 공지 오류인 것 같은데 빨리 정정해 주시고 보상도 꼭 챙겨주세요.
+SYN-0101,com_abuse,6,{SERVICE} 채팅방에서 swear 하는 유저들 좀 report 확인 부탁드려요. 계속 신경 쓰이는데 좀 check 해주시면 감사하겠습니다..
+SYN-0102,surge_notice_time_error,15,{SERVICE} 점검 공지에는 오후 3시라고 되어 있어서 기다렸는데 실제로는 5시 넘어서나 열려서 너무 당황스럽네요.. 시간 낭비한 부분에 대해서 공지 수정이랑 보상 좀 확실하게 해주세요 ㅜㅜ
+SYN-0103,loading_stuck,8,{SERVICE} 로딩 화면에서 계속 멈춰있어서 진행이 안 되는데.. 지금 바로 해야 하는 거라 확인 좀 부탁드릴게요 ㅠㅠ
+SYN-0104,surge_notice_time_error,15,{SERVICE}아 점검 공지 진짜 왜 이럼?? 공지에 3시 끝난다고 해서 기다렸는데 아직도 접속 안 돼서 어이없네;; 지금 5시 넘었는데 당장 수정하고 제대로 된 보상이나 챙겨주세요 진짜 짜증나네
+SYN-0105,surge_notice_time_error,15,are u guys serious?? the notice said 3pm but i still couldnt login until 5pm. i wasted my entire afternoon waiting for {SERVICE} for nothing... i want a real compensation for this mess pls!!
+SYN-0106,surge_notice_time_error,15,아니 {SERVICE} 공지에는 오후 3시 종료라고 해놓고 왜 아직도 접속 안 됨;; 시간 낭비 오지게 했는데 보상 제대로 안 해주면 진짜 안 할 거임... 빨리 답변 좀요!!
+SYN-0107,ui_overlap,33,"The UI text in {SERVICE} is overlapping so much i can barely read anything... and honestly, the gacha rates are starting to feel pretty scammy for the amount i spent. fix it."
+SYN-0108,mon_refund,18,{SERVICE} 아 진짜 실수로 결제됐는데 이거 당장 환불 좀 해주세요 진짜 급함;; 밸런스도 개판이라 짜증 나는데 결제까지 이러면 진짜 못하겠네;;
+SYN-0109,payment_missing,20,아 진짜 {SERVICE} 결제했는데 왜 아직도 재화 안 들어오는 건데;; 지금 이벤트 기간이라 급한데 다들 안 들어온다고 난리던데 운영 뭐함? 빨리 좀 해결해줘요 진짜;;
+SYN-0110,bal_boss_hard,31,{SERVICE} 보스 난이도 진짜 너무 에바인듯;; 이거 깨느라 시간 너무 낭비되는데 좀 조정 좀 해주세요 ㅠㅠ
+SYN-0111,ui_overlap,33,{SERVICE} UI 글자가 자꾸 겹쳐 보이는데... 별로 급한 건 아니지만 좀 거슬리네요 ㅜㅜ
+SYN-0112,bal_matching,26,{SERVICE} 매칭 실력차 실화냐;; 한쪽은 그냥 압살당하고 한쪽은 학살당하고.. 밸런스 좀 제대로 잡아주셈ㅠ
+SYN-0113,ops_reward_missing,21,{SERVICE} 이벤트 보상이 아직도 안 들어왔는데 확인 좀 부탁드려요.. 이번에 뽑기 하느라 과금도 꽤 했는데 보상까지 누락되니까 좀 당황스럽네요ㅠㅠ
+SYN-0114,com_sanction,13,아니 {SERVICE} 제재 진짜 왜 이럼ㅡㅡ 억울해 죽겠는데 뭐 때문에 정지인지도 안 알려주네;; 빨리 확인 좀 해주세요...
+SYN-0115,login_fail,16,아니 {SERVICE} 지금 서버 터진건가요?? 아무리 눌러도 로그인이 안되는데 다들 안되는거 맞죠;; 지금 이벤트 중이라 개급한데 빨리 좀 고쳐주세요 아 진짜 빡치네;;
+SYN-0116,mon_sub,23,honestly the monthly sub in {SERVICE} is kinda a joke lol... the rewards are way too low for the price. pls fix this.
+SYN-0117,etc_suggest,3,{SERVICE} 요즘 진짜 재밌게 즐기고 있어요ㅋㅋ 나중에 여유 되실 때 친구들이랑 같이 할 수 있는 간단한 미니게임 같은 거 하나만 추가해 주시면 진짜 좋을 것 같아요!
+SYN-0118,com_abuse,5,{SERVICE} 채팅 매너 진짜 헬인데 리포트 기능이 왜 이렇게 안 먹히는거죠.. Toxic한 애들 좀 잘 잡아주세요 ㅜㅜ
+SYN-0119,bal_nerf,27,{SERVICE} 아 이번 패치 무기 너프 실화냐.. 성능 너무 많이 깎은 거 같아서 진짜 짜증나네 ㅠㅠ
+SYN-0120,mon_rate_suspect,29,아 진짜 확률 조작 아니면 설명이 안 됨;; 이번에 쓴 돈 돌려내고 당장 제대로 조사해서 공지 올려라 진짜 화나네ㅡㅡ
+SYN-0121,mon_rate_suspect,29,아 진짜 {SERVICE} 확률 조작 수준 실화냐;; 돈은 돈대로 깨지는데 뽑기는 안 나오고 밸런스까지 이따위로 개판이면 진짜 게임 못 하겠음.
+SYN-0122,data_loss,17,아니 {SERVICE} 저장 데이터 왜 갑자기 다 날아갔음;; 나 이거 진짜 중요한데 지금 당장 복구 안 해주면 진짜 어쩔 거임 빨리 좀 확인해줘요ㅠㅠ
+SYN-0123,quest_block,22,{SERVICE} 아 진짜 킹받네 퀘스트 다 깨고도 완료 표시가 안 떠서 진행이 안 되는데 이거 언제 고쳐줌? 이럴 거면 유료 뽑기 확률은 또 왜 이따구인지 진짜 노답이네;;
+SYN-0124,ui_overlap,33,{SERVICE} UI 글자 왜 자꾸 겹쳐 보여요;; 읽기 너무 불편한데 수정 좀 해주세요ㅠㅠ
+SYN-0125,payment_missing,20,아 진짜 {SERVICE} 결제했는데 재화 왜 안 들어오는거임;; 지금 이벤트 중이라 개급한데 확인 좀 빨리빨리 해주세요 진짜루;;
+SYN-0126,etc_inquiry,1,{SERVICE} 재밌게 잘 즐기고 있습니다ㅎㅎ 나중에 기기 변경할 때 계정 이전은 어떻게 하는 건지 궁금해서요! 시간 나실 때 답변 부탁드려요~
+SYN-0127,ops_note_mismatch,12,아니 {SERVICE} 이번 업데이트 노트에 고쳐준다고 써놓은 건 왜 그대로임? 진짜 노답이네;;
+SYN-0128,crash_battle,9,so annoying how {SERVICE} keeps crashing mid-battle. pls fix this soon it's ruining my progress 🙄
+SYN-0129,com_abuse,4,채팅방에서 욕설 진짜 너무 심한데 신고해도 아무런 조치가 안 내려오네요;; {SERVICE} 운영팀 진짜 뭐하는 건지... 제발 좀 제대로 관리 좀 해주세요 ㅠㅠ
+SYN-0130,ops_reward_rule,21,{SERVICE} 이벤트 참여했는데 보상이 아직 안 들어온 것 같아서요.. 혹시 보상 지급 기준이 어떻게 되는지 확인 좀 부탁드려도 될까요?
+SYN-0131,mon_sub,23,{SERVICE} 월정액 혜택 진짜 별로임;; 가성비 너무 low한거 아님? 좀 제대로 update 해주세요ㅠ
+SYN-0132,bal_boss_hard,31,{SERVICE} 보스 난이도 실화냐 진짜... 너무 빡센데 좀 nerf 좀 해주세요 ㅠㅠ
+SYN-0133,etc_suggest,3,{SERVICE}에 casual하게 즐길 수 있는 mini-game 모드 같은 거 좀 더 추가해주시면 좋을 것 같아요.. ㅎㅎ 지금도 좋지만 variety가 좀 더 있으면 더 재밌을 듯요.
+SYN-0134,etc_suggest,3,{SERVICE} 요즘 너무 재밌게 하고 있어요ㅎㅎ 나중에 여유 되실 때 마을에서 할 수 있는 낚시 같은 소소한 미니게임 하나만 추가해주시면 진짜 좋을 것 같아요!
+SYN-0135,mon_package,24,아니 {SERVICE} 패키지 구성 실화냐.. 가격은 비싼데 들어있는 거 보면 진짜 돈 아까움ㅠ
+SYN-0136,mon_gacha_rate,29,아 진짜 {SERVICE} 가챠 Rate 너무 Low해서 화나네;; 당장 확률 상향 안하면 진짜 Game quit 할거임.
+SYN-0137,bal_matching,26,{SERVICE} 매칭 실력 차이 실화인가요?? 진짜 한쪽은 고수고 한쪽은 너무 못해서 게임이 안됨;; 매칭 좀 제대로 잡아주세요...
+SYN-0138,bal_matching,26,{SERVICE} 매칭 진짜 에바임.. Matchmaking why so bad? 실력 차이 너무 심해서 게임 진행이 안됨 ㅜㅜ
+SYN-0139,ops_note_mismatch,12,{SERVICE} 업데이트 노트랑 실제 내용이랑 너무 다른 거 아님? 이번 패치 내용 literally 뻥이라 진짜 실망임;; ㅡㅡ
+SYN-0140,login_fail,16,{SERVICE} 로그인이 계속 안 되는데.. 지금 바로 해야 할 게 있어서 그러는데 확인 좀 부탁드려요ㅜㅜ
+SYN-0141,ops_reward_missing,21,I finished all the event tasks but still haven't gotten my rewards... is this game broken?? Fix it pls.
+SYN-0142,loading_stuck,8,{SERVICE} 로딩 화면에서 멈춘 상태인데 계속 stuck 이네요.. 지금 당장 플레이해야 하는데 확인 좀 부탁드려요 ㅜㅜ
+SYN-0143,etc_praise,2,이번 {SERVICE} 업데이트 진짜 고생 많으셨어요ㅜㅜ 이번에 추가된 내용 너무 재밌어서 시간 가는 줄 모르고 하는 중ㅋㅋ 진짜 최고예요!
+SYN-0144,ops_event_period,14,{SERVICE} 이벤트 기간이 왜 이렇게 애매하게 써있어요;; 종료 시간도 제대로 안 나와서 보상 놓칠까봐 계속 확인하게 되는데 공지 좀 똑바로 수정해주세요 ㅜ
+SYN-0145,bal_strong_char,28,{SERVICE} 이번 캐릭터 성능이 좀 과한 것 같네요.. 밸런스 조절 한번 부탁드려요ㅜ
+SYN-0146,etc_suggest,3,{SERVICE} 진짜 재밌게 하고 있어요ㅋㅋ 나중에 시간 날 때 소소하게 즐길 수 있는 낚시 같은 미니게임도 추가되면 넘 좋을듯요!!
+SYN-0147,bal_nerf,27,{SERVICE} 이번 패치 밸런스 진짜 에바임;; 내 주무기 nerf 수준 실화냐고... 진짜 노답이네 ㅡㅡ
+SYN-0148,mon_rate_suspect,29,{SERVICE} 이거 확률 조작 아니에요?? 내 돈 다 날아갔는데 진짜 어이없어서 말이 안나옴;; 당장 제대로 공지 안 올리면 진짜 바로 접을 거니까 운영자들 확인 좀 하셈;;
+SYN-0149,bal_easy,30,{SERVICE} 초반 너무 쉬워서 노잼임ㅋㅋ 돈 써서 뽑을 맛이 안 나는데 확률은 또 왜 이 모양인지 모르겠네;; 밸런스 좀 신경 써주세요.
+SYN-0150,bal_matching,26,{SERVICE} 매칭 실화인가요;; 왜 이렇게 실력 차이 심한 애들이랑 붙는지 모르겠네ㅡㅡ 좀 제대로 고쳐주세요.

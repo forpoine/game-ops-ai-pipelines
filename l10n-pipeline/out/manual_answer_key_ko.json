@@ -1,0 +1,147 @@
+{
+ "checker_ms_for_15": 5.69,
+ "langs": [
+  "ko"
+ ],
+ "items": [
+  {
+   "no": 1,
+   "planted": {
+    "kind": "term",
+    "lang": "ko",
+    "desc": "용어: 기력의덩어리 -> 기력의조각(다른 아이템)"
+   },
+   "checker_flags": [
+    "ko:term"
+   ]
+  },
+  {
+   "no": 2,
+   "planted": {
+    "kind": "number",
+    "lang": "ko",
+    "desc": "숫자: 보상 만료 14일 -> 7일"
+   },
+   "checker_flags": [
+    "ko:number"
+   ]
+  },
+  {
+   "no": 3,
+   "planted": {
+    "kind": "term",
+    "lang": "ko",
+    "desc": "용어: 그레이트회복약 -> 메가포션(영어 직역)"
+   },
+   "checker_flags": [
+    "ko:term"
+   ]
+  },
+  {
+   "no": 4,
+   "planted": {
+    "kind": "prob",
+    "lang": "ko",
+    "desc": "확률: 갑옥 30% -> 20%(합 90%)"
+   },
+   "checker_flags": [
+    "ko:number",
+    "ko:prob"
+   ]
+  },
+  {
+   "no": 5,
+   "planted": null,
+   "checker_flags": []
+  },
+  {
+   "no": 6,
+   "planted": {
+    "kind": "number",
+    "lang": "ko",
+    "desc": "숫자: 점검 날짜 12-03 -> 12-30"
+   },
+   "checker_flags": [
+    "ko:number"
+   ]
+  },
+  {
+   "no": 7,
+   "planted": null,
+   "checker_flags": []
+  },
+  {
+   "no": 8,
+   "planted": {
+    "kind": "term",
+    "lang": "ko",
+    "desc": "용어: 하이퍼볼 -> 울트라볼(영어 직역)"
+   },
+   "checker_flags": [
+    "ko:term"
+   ]
+  },
+  {
+   "no": 9,
+   "planted": {
+    "kind": "english",
+    "lang": "ko",
+    "desc": "영어 잔존: 저녁 호수 -> Evening Lake"
+   },
+   "checker_flags": [
+    "ko:english",
+    "ko:term"
+   ]
+  },
+  {
+   "no": 10,
+   "planted": {
+    "kind": "number",
+    "lang": "ko",
+    "desc": "숫자: 출현 시각 20:00 -> 21:00"
+   },
+   "checker_flags": [
+    "ko:number"
+   ]
+  },
+  {
+   "no": 11,
+   "planted": null,
+   "checker_flags": []
+  },
+  {
+   "no": 12,
+   "planted": null,
+   "checker_flags": []
+  },
+  {
+   "no": 13,
+   "planted": null,
+   "checker_flags": []
+  },
+  {
+   "no": 14,
+   "planted": {
+    "kind": "leftover",
+    "lang": "ko",
+    "desc": "자리표시자 잔존: 용옥 -> [[T1]]"
+   },
+   "checker_flags": [
+    "ko:leftover",
+    "ko:number",
+    "ko:term"
+   ]
+  },
+  {
+   "no": 15,
+   "planted": {
+    "kind": "overflow",
+    "lang": "ko",
+    "desc": "글자 넘침(ko 한도 초과)"
+   },
+   "checker_flags": [
+    "ko:overflow"
+   ]
+  }
+ ]
+}

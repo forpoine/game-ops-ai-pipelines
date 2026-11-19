@@ -1,0 +1,289 @@
+﻿type,api_id,en,ko,ja,es,note
+item,mhw-item-1,Potion,회복약,回復薬,Poción,poedb; ko user-verified 2026-11-18
+item,mhw-item-2,Mega Potion,그레이트 회복약,回復薬グレート,Megapoción,poedb; ko user-verified 2026-11-18
+item,mhw-item-3,Max Potion,비약,秘薬,Poción máxima,poedb; ko user-verified 2026-11-18
+item,mhw-item-4,Ancient Potion,고대의 비약,いにしえの秘薬,Poción antigua,poedb; ko user-verified 2026-11-18
+item,mhw-item-5,Antidote,해독약,解毒薬,Antídoto,poedb; ko user-verified 2026-11-18
+item,mhw-item-6,Herbal Medicine,한방약,漢方薬,Medicina herbal,poedb; ko user-verified 2026-11-18
+item,mhw-item-7,Nulberry,지움열매,ウチケシの実,Curibaya,poedb; ko user-verified 2026-11-18
+item,mhw-item-8,Energy Drink,에너지드링크,元気ドリンコ,Bebida energética,poedb; ko user-verified 2026-11-18
+item,mhw-item-9,Ration,휴대 식량,携帯食料,Ración,poedb; ko user-verified 2026-11-18
+item,mhw-item-10,Rare Steak,설익은 고기,生焼け肉,Filete poco hecho,poedb; ko user-verified 2026-11-18
+item,mhw-item-11,Well-done Steak,잘 익은 고기,こんがり肉,Filete al punto,poedb; ko user-verified 2026-11-18
+item,mhw-item-12,Burnt Meat,탄 고기,コゲ肉,Carne quemada,poedb; ko user-verified 2026-11-18
+item,mhw-item-13,Cool Drink,쿨드링크,クーラードリンク,Bebida fría,poedb; ko user-verified 2026-11-18
+item,mhw-item-14,Nutrients,영양제,栄養剤,Nutrientes,poedb; ko user-verified 2026-11-18
+item,mhw-item-15,Mega Nutrients,그레이트 영양제,栄養剤グレート,Meganutrientes,poedb; ko user-verified 2026-11-18
+item,mhw-item-16,Immunizer,활력제,活力剤,Inmunizador,poedb; ko user-verified 2026-11-18
+item,mhw-item-17,Astera Jerky,아스테라저키,アステラジャーキー,Cecina de Astera,poedb; ko user-verified 2026-11-18
+item,mhw-item-18,Dash Juice,강주약,強走薬,Zumo de poder,poedb; ko user-verified 2026-11-18
+item,mhw-item-20,Might Seed,괴력씨앗,怪力の種,Semilla de poder,poedb; ko user-verified 2026-11-18
+item,mhw-item-21,Demondrug,귀인약,鬼人薬,Droga demoníaca,poedb; ko user-verified 2026-11-18
+item,mhw-item-22,Mega Demondrug,그레이트 귀인약,鬼人薬グレート,Megadroga demoníaca,poedb; ko user-verified 2026-11-18
+item,mhw-item-23,Might Pill,괴력의 환약,怪力の丸薬,Píldora de poder,poedb; ko user-verified 2026-11-18
+item,mhw-item-24,Adamant Seed,인내씨앗,忍耐の種,Semilla armadura,poedb; ko user-verified 2026-11-18
+item,mhw-item-25,Armorskin,경화약,硬化薬,Piel de armadura,poedb; ko user-verified 2026-11-18
+item,mhw-item-26,Mega Armorskin,그레이트 경화약,硬化薬グレート,Piel de armadura+,poedb; ko user-verified 2026-11-18
+item,mhw-item-27,Adamant Pill,인내의 환약,忍耐の丸薬,Píldora armadura,poedb; ko user-verified 2026-11-18
+item,mhw-item-28,Lifepowder,생명의 가루,生命の粉塵,Polvo de vida,poedb; ko user-verified 2026-11-18
+item,mhw-item-29,Herbal Powder,한방가루,漢方の粉塵,Polvo de hierbas,poedb; ko user-verified 2026-11-18
+item,mhw-item-30,Demon Powder,귀인의 가루,鬼人の粉塵,Polvo de demonio,poedb; ko user-verified 2026-11-18
+item,mhw-item-31,Hardshell Powder,경화의 가루,硬化の粉塵,Polvo de cáscara,poedb; ko user-verified 2026-11-18
+item,mhw-item-32,Honey,벌꿀,ハチミツ,Miel,poedb; ko user-verified 2026-11-18
+item,mhw-item-33,Herb,약초,薬草,Hierba,poedb; ko user-verified 2026-11-18
+item,mhw-item-34,Antidote Herb,해독초,げどく草,Hierba antídoto,poedb; ko user-verified 2026-11-18
+item,mhw-item-35,Fire Herb,화약초,火薬草,Hierba de fuego,poedb; ko user-verified 2026-11-18
+item,mhw-item-36,Flowfern,유수초,流水草,Helechoflor,poedb; ko user-verified 2026-11-18
+item,mhw-item-37,Snow Herb,서리초,霜ふり草,Hierba de nieve,poedb; ko user-verified 2026-11-18
+item,mhw-item-38,Sleep Herb,수면초,ネムリ草,Hierba somnífera,poedb; ko user-verified 2026-11-18
+item,mhw-item-39,Ivy,넝쿨의 잎,ツタの葉,Hiedra,poedb; ko user-verified 2026-11-18
+item,mhw-item-40,Smokenut,연기열매,ケムリの実,Nuez de humo,poedb; ko user-verified 2026-11-18
+item,mhw-item-41,Dragonfell Berry,용살열매,龍殺しの実,Baya antidragón,poedb; ko user-verified 2026-11-18
+item,mhw-item-42,Blue Mushroom,푸른버섯,アオキノコ,Seta azul,poedb; ko user-verified 2026-11-18
+item,mhw-item-43,Mandragora,만드라고라,マンドラゴラ,Mandrágora,poedb; ko user-verified 2026-11-18
+item,mhw-item-44,Nitroshroom,니트로버섯,ニトロダケ,Nitroseta,poedb; ko user-verified 2026-11-18
+item,mhw-item-45,Devil's Blight,도깨비 니트로버섯,鬼ニトロダケ,Mancha del diablo,poedb; ko user-verified 2026-11-18
+item,mhw-item-46,Parashroom,마비버섯,マヒダケ,Paraliseta,poedb; ko user-verified 2026-11-18
+item,mhw-item-47,Toadstool,독광대버섯,毒テングダケ,Hongo,poedb; ko user-verified 2026-11-18
+item,mhw-item-48,Exciteshroom,두근두근버섯,ドキドキノコ,Seta excitante,poedb; ko user-verified 2026-11-18
+item,mhw-item-49,Bitterbug,씁쓸충,にが虫,Bicho amargo,poedb; ko user-verified 2026-11-18
+item,mhw-item-50,Flashbug,광충,光蟲,Luminsecto,poedb; ko user-verified 2026-11-18
+item,mhw-item-51,Godbug,불사충,不死虫,Bicho divino,poedb; ko user-verified 2026-11-18
+item,mhw-item-52,Thunderbug,뇌광충,雷光虫,Electrobicho,poedb; ko user-verified 2026-11-18
+item,mhw-item-53,Baitbug,넣자마자풍뎅이,イレグイコガネ,Insecto goloso,poedb; ko user-verified 2026-11-18
+item,mhw-item-54,Kelbi Horn,켈비의 뿔,ケルビの角,Cuerno de Kelbi,poedb; ko user-verified 2026-11-18
+item,mhw-item-55,Dash Extract,질주진액,狂走エキス,Extracto de poder,poedb; ko user-verified 2026-11-18
+item,mhw-item-56,Nourishing Extract,자양진액,滋養エキス,Extracto nutritivo,poedb; ko user-verified 2026-11-18
+item,mhw-item-57,Screamer Sac,울음주머니,鳴き袋,Vesícula lanzagritos,poedb; ko user-verified 2026-11-18
+item,mhw-item-58,Catalyst,증강제,増強剤,Catalizador,poedb; ko user-verified 2026-11-18
+item,mhw-item-59,Tranq Bomb,포획용마취옥,捕獲用麻酔玉,Bola tranquilizante,poedb; ko user-verified 2026-11-18
+item,mhw-item-60,Flash Pod,슬링어 섬광탄,スリンガー閃光弾,Cápsula flash,poedb; ko user-verified 2026-11-18
+item,mhw-item-61,Screamer Pod,슬링어 음폭탄,スリンガー音爆弾,Cápsula chillona,poedb; ko user-verified 2026-11-18
+item,mhw-item-62,Smoke Bomb,연기옥,けむり玉,Bola de humo,poedb; ko user-verified 2026-11-18
+item,mhw-item-63,Poison Smoke Bomb,독연기옥,毒けむり玉,Bola de humo venenoso,poedb; ko user-verified 2026-11-18
+item,mhw-item-64,Farcaster,귀환옥,モドリ玉,Bola transportadora,poedb; ko user-verified 2026-11-18
+item,mhw-item-65,Raw Meat,날고기,生肉,Carne cruda,poedb; ko user-verified 2026-11-18
+item,mhw-item-66,Poisoned Meat,독고기,毒生肉,Carne envenenada,poedb; ko user-verified 2026-11-18
+item,mhw-item-67,Tinged Meat,마비고기,シビレ生肉,Carne tóxica,poedb; ko user-verified 2026-11-18
+item,mhw-item-68,Drugged Meat,수면고기,眠り生肉,Carne somnífera,poedb; ko user-verified 2026-11-18
+item,mhw-item-69,Gunpowder,폭약,爆薬,Pólvora,poedb; ko user-verified 2026-11-18
+item,mhw-item-70,Small Barrel,소형나무통,小タル,Barril pequeño,poedb; ko user-verified 2026-11-18
+item,mhw-item-71,Barrel Bomb,소형나무통폭탄,小タル爆弾,Bomba de barril,poedb; ko user-verified 2026-11-18
+item,mhw-item-72,Bounce Bomb,발사나무통폭탄,打上げタル爆弾,Bomba de rebote,poedb; ko user-verified 2026-11-18
+item,mhw-item-73,Mega Bounce Bomb,발사나무통폭탄G,打上げタル爆弾Ｇ,Mega bomba de rebote,poedb; ko user-verified 2026-11-18
+item,mhw-item-74,Large Barrel,대형나무통,大タル,Barril grande,poedb; ko user-verified 2026-11-18
+item,mhw-item-75,Large Barrel Bomb,대형나무통폭탄,大タル爆弾,Bomba de barril grande,poedb; ko user-verified 2026-11-18
+item,mhw-item-76,Mega Barrel Bomb,대형나무통폭탄G,大タル爆弾Ｇ,Megabomba de barril,poedb; ko user-verified 2026-11-18
+item,mhw-item-77,Spider Web,거미집,クモの巣,Telaraña,poedb; ko user-verified 2026-11-18
+item,mhw-item-78,Net,그물,ネット,Red,poedb; ko user-verified 2026-11-18
+item,mhw-item-79,Trap Tool,트랩툴,トラップツール,Herramientas para trampas,poedb; ko user-verified 2026-11-18
+item,mhw-item-80,Pitfall Trap,구멍 함정,落とし穴,Trampa de escollo,poedb; ko user-verified 2026-11-18
+item,mhw-item-81,Shock Trap,마비덫,シビレ罠,Trampa eléctrica,poedb; ko user-verified 2026-11-18
+item,mhw-item-82,Rolled-up Dung,굴린 응가,ころがされたフン,Boñiga enrollada,poedb; ko user-verified 2026-11-18
+item,mhw-item-83,Dung,몬스터의 대변,モンスターのフン,Boñiga,poedb; ko user-verified 2026-11-18
+item,mhw-item-84,Dung Pod,슬링어 거름탄,スリンガーこやし弾,Cápsula boñiga,poedb; ko user-verified 2026-11-18
+item,mhw-item-85,Arowana Bait,아로와나 경단,アロワナダンゴ,Cebo de arrowana,poedb; ko user-verified 2026-11-18
+item,mhw-item-86,Gunpowderfish Bait,금붕어 경단,デメキンダンゴ,Cebo de pez pólvora,poedb; ko user-verified 2026-11-18
+item,mhw-item-87,Goldenfish Bait,황금 경단,黄金ダンゴ,Cebo de pez dorado,poedb; ko user-verified 2026-11-18
+item,mhw-item-88,Boomerang,부메랑,ブーメラン,Bumerán,poedb; ko user-verified 2026-11-18
+item,mhw-item-89,Binoculars,쌍안경,双眼鏡,Prismáticos,poedb; ko user-verified 2026-11-18
+item,mhw-item-90,Powercharm,힘의 부적,力の護符,Amuleto de poder,poedb; ko user-verified 2026-11-18
+item,mhw-item-91,Powertalon,힘의 발톱,力の爪,Garra de poder,poedb; ko user-verified 2026-11-18
+item,mhw-item-92,Armorcharm,방어의 부적,守りの護符,Amuleto armadura,poedb; ko user-verified 2026-11-18
+item,mhw-item-93,Armortalon,방어의 발톱,守りの爪,Garra armadura,poedb; ko user-verified 2026-11-18
+item,mhw-item-94,Needleberry,바늘열매,ハリの実,Baya aguja,poedb; ko user-verified 2026-11-18
+item,mhw-item-95,Blastnut,폭렬열매,バクレツの実,Nuez pegajosa,poedb; ko user-verified 2026-11-18
+item,mhw-item-96,Dragonstrike Nut,용격열매,リュウゲキの実,Nuez dragoniana,poedb; ko user-verified 2026-11-18
+item,mhw-item-97,Slashberry,참렬열매,ザンレツの実,Rajabaya,poedb; ko user-verified 2026-11-18
+item,mhw-item-98,Latchberry,관통열매,ツラヌキの実,Baya adherente,poedb; ko user-verified 2026-11-18
+item,mhw-item-99,Bomberry,확산열매,カクサンの実,Baya bomba,poedb; ko user-verified 2026-11-18
+item,mhw-item-100,Flamenut,착화열매,チャッカの実,Flamanuez,poedb; ko user-verified 2026-11-18
+item,mhw-item-101,Blazenut,발화열매,ハッカの実,Ardenuez,poedb; ko user-verified 2026-11-18
+item,mhw-item-102,Gunpowder Level 2,LV2 화약분,LV2 火薬粉,Pólvora nivel 2,poedb; ko user-verified 2026-11-18
+item,mhw-item-103,Gunpowder Level 3,LV3 화약분,LV3 火薬粉,Pólvora nivel 3,poedb; ko user-verified 2026-11-18
+item,mhw-item-104,Whetfish Fin,예리어 지느러미,キレアジのヒレ,Aleta de caballa cuchillo,poedb; ko user-verified 2026-11-18
+item,mhw-item-105,Whetfish Fin+,예리어 지느러미+,キレアジの上ヒレ,Aleta de caballa cuchillo+,poedb; ko user-verified 2026-11-18
+item,mhw-item-106,Sushifish Scale,사시미 비늘,サシミウロコ,Escama de pez sushi,poedb; ko user-verified 2026-11-18
+item,mhw-item-107,Great Sushifish Scale,대형사시미 비늘,大サシミウロコ,Escama de pez sushi real,poedb; ko user-verified 2026-11-18
+item,mhw-item-108,Gunpowderfish Scale,폭약 비늘,バクヤクウロコ,Escama de pez pólvora,poedb; ko user-verified 2026-11-18
+item,mhw-item-109,Great Gunpowderfish Scale,대형폭약 비늘,大バクヤクウロコ,Escama de pez pólvora real,poedb; ko user-verified 2026-11-18
+item,mhw-item-110,Burst Arowana Scale,파열 비늘,ハレツウロコ,Escama de arrowana reventona,poedb; ko user-verified 2026-11-18
+item,mhw-item-111,Great Burst Arowana Scale,대형파열 비늘,大ハレツウロコ,Escama arrowana reventona real,poedb; ko user-verified 2026-11-18
+item,mhw-item-112,Bomb Arowana Scale,폭렬 비늘,バクレツウロコ,Escama de arrowana bomba,poedb; ko user-verified 2026-11-18
+item,mhw-item-113,Great Bomb Arowana Scale,대형폭렬 비늘,大バクレツウロコ,Escama de arrowana bomba real,poedb; ko user-verified 2026-11-18
+item,mhw-item-114,Whetstone,숫돌,砥石,Piedra de afilar,poedb; ko user-verified 2026-11-18
+item,mhw-item-115,Capture Net,포획용 그물,捕獲用ネット,Red de caza,poedb; ko user-verified 2026-11-18
+item,mhw-item-116,Fishing Rod,낚싯대,釣り竿,Caña de pescar,poedb; ko user-verified 2026-11-18
+item,mhw-item-117,BBQ Spit,바베큐 세트,肉焼きセット,Asador barbacoa,poedb; ko user-verified 2026-11-18
+item,mhw-item-118,Ghillie Mantle,은신 복장,隠れ身の装衣,Manto de camuflaje,poedb; ko user-verified 2026-11-18
+item,mhw-item-119,Temporal Mantle,변신 복장,転身の装衣,Manto temporal,poedb; ko user-verified 2026-11-18
+item,mhw-item-120,Health Booster,치유의 연통,癒しの煙筒,Potenciador de salud,poedb; ko user-verified 2026-11-18
+item,mhw-item-121,Rocksteady Mantle,부동 복장,不動の装衣,Manto de firmeza,poedb; ko user-verified 2026-11-18
+item,mhw-item-122,Challenger Mantle,도발 복장,挑発の装衣,Manto de desafíos,poedb; ko user-verified 2026-11-18
+item,mhw-item-123,Vitality Mantle,체력 복장,体力の装衣,Manto de vitalidad,poedb; ko user-verified 2026-11-18
+item,mhw-item-124,Fireproof Mantle,내열 복장,耐熱の装衣,Manto ignífugo,poedb; ko user-verified 2026-11-18
+item,mhw-item-125,Waterproof Mantle,내수 복장,耐水の装衣,Manto impermeable,poedb; ko user-verified 2026-11-18
+item,mhw-item-126,Iceproof Mantle,내한 복장,耐寒の装衣,Manto anticongelante,poedb; ko user-verified 2026-11-18
+item,mhw-item-127,Thunderproof Mantle,내뢰 복장,耐雷の装衣,Manto repelerrayos,poedb; ko user-verified 2026-11-18
+item,mhw-item-128,Dragonproof Mantle,내룡 복장,耐龍の装衣,Manto antidraco,poedb; ko user-verified 2026-11-18
+item,mhw-item-129,Cleanser Booster,해제의 연통,解除の煙筒,Potenciador de pureza,poedb; ko user-verified 2026-11-18
+item,mhw-item-130,Glider Mantle,활공 복장,滑空の装衣,Manto planeador,poedb; ko user-verified 2026-11-18
+item,mhw-item-131,Evasion Mantle,회피 복장,回避の装衣,Manto de evasión,poedb; ko user-verified 2026-11-18
+item,mhw-item-132,Impact Mantle,강타 복장,強打の装衣,Manto de impacto,poedb; ko user-verified 2026-11-18
+item,mhw-item-133,Apothecary Mantle,화합 복장,化合の装衣,Manto de boticario,poedb; ko user-verified 2026-11-18
+item,mhw-item-134,Immunity Mantle,면역 복장,免疫の装衣,Manto de inmunidad,poedb; ko user-verified 2026-11-18
+item,mhw-item-135,Affinity Booster,달인의 연통,達人の煙筒,Potenciador de afinidad,poedb; ko user-verified 2026-11-18
+item,mhw-item-136,Bandit Mantle,강도 복장,追い剥ぎの装衣,Manto de bandido,poedb; ko user-verified 2026-11-18
+item,mhw-item-174,Empty Phial,빈 병,空きビン,Frasco vacío,poedb; ko user-verified 2026-11-18
+item,mhw-item-181,First-aid Med,응급약,応急薬,Medicamento,poedb; ko user-verified 2026-11-18
+item,mhw-item-182,First-aid Med+,그레이트 응급약,応急薬グレート,Medicamento+,poedb; ko user-verified 2026-11-18
+item,mhw-item-183,EZ Ration,지급전용 휴대 식량,支給用携帯食料,Ración (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-184,EZ Lifepowder,지급전용 생명의 가루,支給用生命の粉塵,Polvo de vida (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-185,EZ Max Potion,지급전용 비약,支給用秘薬,Poción máxima (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-186,EZ Large Barrel Bomb,지급 대형나무통폭탄,支給用大タル爆弾,Bomba barril grande (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-187,EZ Shock Trap,휴대 마비덫,支給用シビレ罠,Trampa eléctrica (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-188,EZ Pitfall Trap,지급전용 함정,支給用落とし穴,Trampa de escollo (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-189,EZ Herbal Powder,지급전용 한방가루,支給用漢方の粉塵,Polvo de hierbas (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-190,EZ Demon Powder,지급전용 귀인의 가루,支給用鬼人の粉塵,Polvo de demonio (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-191,EZ Hardshell Powder,지급전용 경화의 가루,支給用硬化の粉塵,Polvo de cáscara (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-192,EZ Dung Pod,지급전용 거름탄,支給用こやし弾,Cápsula boñiga (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-193,EZ Flash Pod,지급전용 섬광탄,支給用閃光弾,Cápsula flash (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-194,EZ Screamer Pod,지급전용 음폭탄,支給用音爆弾,Cápsula chillona (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-195,Throwing Knife,투척나이프,投げナイフ,Navaja aérea,poedb; ko user-verified 2026-11-18
+item,mhw-item-196,Poison Knife,독투척나이프,毒投げナイフ,Navaja tóxica,poedb; ko user-verified 2026-11-18
+item,mhw-item-197,Sleep Knife,수면투척나이프,眠り投げナイフ,Cuchillo sedante,poedb; ko user-verified 2026-11-18
+item,mhw-item-198,Paralysis Knife,마비투척나이프,麻痺投げナイフ,Navaja paralizante,poedb; ko user-verified 2026-11-18
+item,mhw-item-199,Tranq Knife,포획용 마취 투척나이프,捕獲用麻酔投げナイフ,Cuchillo tranquilizante,poedb; ko user-verified 2026-11-18
+item,mhw-item-200,EZ Farcaster,지급전용귀환옥,支給用モドリ玉,Bola transportadora (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-201,EZ Tranq Bomb,지급전용마취옥,支給用麻酔玉,Bola tranquilizante (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-204,Cannon Ammo,대포의 탄,大砲の弾,Munición para cañón,poedb; ko user-verified 2026-11-18
+item,mhw-item-843,Vigorwasp Delivery,꿀벌레 전달의 휘파람,ミツムシお届けの指笛,Aerosol melífera vitae,poedb; ko user-verified 2026-11-18
+item,mhw-item-844,Vigorwasp Station,꿀벌레 설치의 휘파람,ミツムシ設置の指笛,Estación melífera vitae,poedb; ko user-verified 2026-11-18
+item,mhw-item-845,Flashfly Cage,섬광 벌레장의 휘파람,閃光虫かごの指笛,Jaula de noctiluca,poedb; ko user-verified 2026-11-18
+item,mhw-item-846,Thunderbug Cage,마비 벌레장의 휘파람,痺れ虫かごの指笛,Jaula de electrobicho,poedb; ko user-verified 2026-11-18
+item,mhw-item-847,Shieldspire Taunt,방패 도발의 휘파람,大盾挑発の指笛,Burla escudo hormig.,poedb; ko user-verified 2026-11-18
+item,mhw-item-848,Shieldspire Bash,방패 배시의 휘파람,大盾バッシュの指笛,Golpe escudo hormig.,poedb; ko user-verified 2026-11-18
+item,mhw-item-849,Coral Cheerhorn,격려의 호른의 휘파람,はげましホルンの指笛,Cuerno coral,poedb; ko user-verified 2026-11-18
+item,mhw-item-850,Coral Cheerbongo,격려의 봉고의 휘파람,はげましボンゴの指笛,Bongo coral,poedb; ko user-verified 2026-11-18
+item,mhw-item-851,Plunderblade,약탈의 공격의 휘파람,ぶんどり突撃の指笛,Cortabolsas,poedb; ko user-verified 2026-11-18
+item,mhw-item-852,Palarang,떨구기 투척의 휘파람,落っことし投擲の指笛,Camarang,poedb; ko user-verified 2026-11-18
+item,mhw-item-853,Meowlotov Assault,병폭탄 투척의 휘파람,壺爆弾投擲の指笛,Asalto miaulotov,poedb; ko user-verified 2026-11-18
+item,mhw-item-854,Rath-of-Meow,화염차의 휘파람,火炎車の指笛,Tanque Rath,poedb; ko user-verified 2026-11-18
+item,mhw-item-859,Stone,돌,石,Piedra,poedb; ko user-verified 2026-11-18
+item,mhw-item-860,Redpit,짱돌열매,ツブテの実,Pipa roja,poedb; ko user-verified 2026-11-18
+item,mhw-item-861,Brightmoss,발광이끼,ヒカリゴケ,Musgo brillante,poedb; ko user-verified 2026-11-18
+item,mhw-item-862,Scatternut,펑펑호두,はじけクルミ,Fragmenuez,poedb; ko user-verified 2026-11-18
+item,mhw-item-863,Torch Pod,슬링어 횃불탄,スリンガー松明弾,Cápsula antorcha,poedb; ko user-verified 2026-11-18
+item,mhw-item-864,Bomb Pod,슬링어 폭발탄,スリンガー爆発弾,Cápsula bomba,poedb; ko user-verified 2026-11-18
+item,mhw-item-865,Thorn Pod,슬링어 착격탄,スリンガー着撃弾,Cápsula espinosa,poedb; ko user-verified 2026-11-18
+item,mhw-item-866,Piercing Pod,슬링어 관통탄,スリンガー貫通弾,Cápsula perforante,poedb; ko user-verified 2026-11-18
+item,mhw-item-867,Dragon Pod,슬링어 멸룡탄,スリンガー滅龍弾,Cápsula draco,poedb; ko user-verified 2026-11-18
+item,mhw-item-868,Crystalburst,툭툭 결정,ハジケ結晶,Bomba cristalina,poedb; ko user-verified 2026-11-18
+item,mhw-item-869,Puddle Pod,슬링어 수류탄,スリンガー水流弾,Cápsula de barro,poedb; ko user-verified 2026-11-18
+item,mhw-item-870,Chillshroom,서늘버섯,ヒンヤリダケ,Fresquiñón,poedb; ko user-verified 2026-11-18
+item,mhw-item-940,Blossom Fireworks,불꽃놀이【개화】,打上花火【開花】,Fuegos primaverales,poedb; ko user-verified 2026-11-18
+item,mhw-item-941,Twilight Fireworks,불꽃놀이【납량】,打上花火【納涼】,Fuegos de la puesta de sol,poedb; ko user-verified 2026-11-18
+item,mhw-item-942,Harvest Fireworks,분출불꽃【풍요】,噴出花火【豊穣】,Fuegos de la cosecha,poedb; ko user-verified 2026-11-18
+item,mhw-item-943,Star Fireworks,불꽃놀이【반짝임】,打上花火【煌めき】,Fuegos artificiales estrella,poedb; ko user-verified 2026-11-18
+item,mhw-item-944,Appreciation Fireworks,불꽃놀이【감사】,打上花火【感謝】,Fuegos de gratitud,poedb; ko user-verified 2026-11-18
+item,mhw-item-956,Igni Sign,이그니 표식,イグニの印,Señal de Igni,poedb; ko user-verified 2026-11-18
+item,mhw-item-957,Hunter Runestone,헌터 룬스톤,ハンターのルーン石,Piedra rúnica de cazador,poedb; ko user-verified 2026-11-18
+item,mhw-item-999,Assassin's Hood,어쌔신 복장,アサシンの装衣,Capucha de asesino,poedb; ko user-verified 2026-11-18
+item,mhw-item-1000,Hot Drink,핫드링크,ホットドリンク,Bebida caliente,poedb; ko user-verified 2026-11-18
+item,mhw-item-1004,Surveyor Set,관찰 키트,観察キット,Set de observación,poedb; ko user-verified 2026-11-18
+item,mhw-item-1005,Raider Ride,라이드 콜의 휘파람,ライドコールの指笛,Cabalgatrufos,poedb; ko user-verified 2026-11-18
+item,mhw-item-1006,Hot Pepper,고추,トウガラシ,Guindilla,poedb; ko user-verified 2026-11-18
+item,mhw-item-1007,Gloamgrass Bud,낙양초 꽃,落陽草の花,Brote nocturno,poedb; ko user-verified 2026-11-18
+item,mhw-item-1008,Dust of Life,생명의 큰 가루,生命の大粉塵,Fuente de vida,poedb; ko user-verified 2026-11-18
+item,mhw-item-1022,Vigorwasp Revival,꿀벌레 근성의 휘파람,ミツムシど根性の指笛,Revivir melífera vitae,poedb; ko user-verified 2026-11-18
+item,mhw-item-1023,Boombug Cage,지뢰 벌레장의 휘파람,地雷虫かごの指笛,Jaula de bombicho,poedb; ko user-verified 2026-11-18
+item,mhw-item-1024,Shieldspire Stooge,방패허수아비,大盾カカシ,Secuaz escudo hormiguero,poedb; ko user-verified 2026-11-18
+item,mhw-item-1025,Coral Sonicgong,폭음 징의 휘파람,ばくおんゴングの指笛,Coral gongsónico,poedb; ko user-verified 2026-11-18
+item,mhw-item-1026,Mount & Plunder,강도 연격의 휘파람,追い剥ぎ連撃の指笛,Montar y saquear,poedb; ko user-verified 2026-11-18
+item,mhw-item-1027,Meowcano,분화 병폭탄의 휘파람,噴火壷爆弾の指笛,Miaucano,poedb; ko user-verified 2026-11-18
+item,mhw-item-1028,zenny,제니,ゼニー,zenis,poedb; ko user-verified 2026-11-18
+item,mhw-item-1029,Research Points,조사 포인트,調査ポイント,Puntos de investigación,poedb; ko user-verified 2026-11-18
+item,mhw-item-1454,EZ Dust of Life,지급전용 생명의 큰 가루,支給用生命の大粉塵,Fuente de vida (apoyo),poedb; ko user-verified 2026-11-18
+item,mhw-item-1781,Dragonrazer Fuel Cell,격룡항포 연료,撃龍杭砲の燃料,Combustible de Demoledragones,poedb; ko user-verified 2026-11-18
+item,mhw-item-1782,Tailraider Signal,구조 봉화의 휘파람,救援のろしの指笛,Señal de buscatrufos,poedb; ko user-verified 2026-11-18
+item,mhw-item-1784,Bugtrappers: Fried Dragonfly,벌레장 부족-잠자리 튀김,虫かご族・蜻蛉フライ,Pillabichos: libélula frita,poedb; ko user-verified 2026-11-18
+item,mhw-item-1785,Protectors: Dried Goldenfish,방패 부족-황금 건어물,まもり族・黄金干物,Defensores: pez dorado seco,poedb; ko user-verified 2026-11-18
+item,mhw-item-1786,Troupers: Horned Urchin,춤 부족-외뿔 성게,かなで族・一角ウニ,Trovadores: erizo de mar cornudo,poedb; ko user-verified 2026-11-18
+item,mhw-item-1787,Plunderers: Steamed Cricket,약탈 부족-골충 찜,ぶんどり族・骨虫蒸し,Saqueadores: grillo al vapor,poedb; ko user-verified 2026-11-18
+item,mhw-item-1788,Grimalkyne: Pot-au-magma,기면족-마그마 전골,奇面族・マグマ鍋,Grimalkyne: cocido de magma,poedb; ko user-verified 2026-11-18
+item,mhw-item-1789,Boaboa: Boaboa Bread,수전족-보와보와 빵,獣纏族・ボワボワパン,Boaboa: pan Boaboa,poedb; ko user-verified 2026-11-18
+item,mhw-item-1964,Special Scope,조준 전환,照準切替,Mira especial,poedb; ko user-verified 2026-11-18
+item,mhw-item-2677,Snowball,눈덩이,雪玉,Bola de nieve,poedb; ko user-verified 2026-11-18
+item,mhw-item-2678,Snowman,눈사람,雪だるま,Muñeco de nieve,poedb; ko user-verified 2026-11-18
+item,mhw-item-2568,Green Herb,녹색 약초,グリーンハーブ,Hierba verde,poedb; ko user-verified 2026-11-18
+item,mhw-item-2569,Red Herb,빨간 약초,レッドハーブ,Hierba roja,poedb; ko user-verified 2026-11-18
+item,mhw-item-2685,Mixed Herb (G+R),혼합 약초(녹+빨),調合ハーブ（緑+赤）,Hierba mixta (V+R),poedb; ko user-verified 2026-11-18
+item,mhw-item-2740,Banishing Ball,탈주옥,退散玉,Cápsula de expulsión,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-9,Rathian,리오레이아,リオレイア,Rathian,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-10,Pink Rathian,리오레이아 아종,リオレイア亜種,Rathian Rosa,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-1,Rathalos,리오레우스,リオレウス,Rathalos,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-11,Azure Rathalos,리오레우스 아종,リオレウス亜種,Rathalos Celeste,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-12,Diablos,디아블로스,ディアブロス,Diablos,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-13,Black Diablos,디아블로스 아종,ディアブロス亜種,Diablos Negra,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-14,Kirin,키린,キリン,Kirin,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-16,Kushala Daora,크샬다오라,クシャルダオラ,Kushala Daora,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-17,Lunastra,나나-테스카토리,ナナ・テスカトリ,Lunastra,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-18,Teostra,테오-테스카토르,テオ・テスカトル,Teostra,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-19,Lavasioth,볼가노스,ヴォルガノス,Lavasioth,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-20,Deviljho,이블조,イビルジョー,Deviljho,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-15,Behemoth,베히모스,ベヒーモス,Bégimo,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-22,Uragaan,우라간킨,ウラガンキン,Uragaan,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-7,Great Jagras,도스쟈그라스,ドスジャグラス,Gran Jagras,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-24,Pukei-Pukei,푸케푸케,プケプケ,Pukei-Pukei,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-25,Nergigante,네르기간테,ネルギガンテ,Nergigante,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-26,Xeno'jiiva,제노-지바,ゼノ・ジーヴァ,Xeno'jiiva,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-4,Zorah Magdaros,조라-마그다라오스,ゾラ・マグダラオス,Zorah Magdaros,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-27,Kulu-Ya-Ku,쿠루루야크,クルルヤック,Kulu-Ya-Ku,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-29,Jyuratodus,쥬라토도스,ジュラトドス,Jyuratodus,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-30,Tobi-Kadachi,토비카가치,トビカガチ,Tobi-Kadachi,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-31,Paolumu,파오우르무,パオウルムー,Paolumu,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-32,Legiana,레이기에나,レイギエナ,Legiana,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-33,Great Girros,도스기르오스,ドスギルオス,Gran Girros,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-34,Odogaron,오도가론,オドガロン,Odogaron,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-35,Radobaan,라도발킨,ラドバルキン,Radobaan,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-36,Vaal Hazak,발하자크,ヴァルハザク,Vaal Hazak,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-37,Dodogama,도도가마루,ドドガマル,Dodogama,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-38,Kulve Taroth,맘-타로트,マム・タロト,Kulve Taroth,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-23,Leshen,레셴,レーシェン,Leshen,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-51,Ancient Leshen,고대 레셴,エンシェント・レーシェン,Leshen antiguo,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-57,Invalid Message,Invalid Message,Invalid Message,Invalid Message,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-88,Gold Rathian,리오레이아 희소종,リオレイア希少種,Rathian Dorada,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-89,Silver Rathalos,리오레우스 희소종,リオレウス希少種,Rathalos Plateado,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-101,Fatalis,밀라보레아스,ミラボレアス,Fatalis,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-90,Yian Garuga,얀가루루가,イャンガルルガ,Yian Garuga,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-99,Scarred Yian Garuga,상처 입은 얀가루루가,傷ついたイャンガルルガ,Yian Garuga Naevus,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-91,Rajang,라잔,ラージャン,Rajang,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-92,Furious Rajang,격앙 라잔,激昂したラージャン,Rajang Rabioso,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-61,Tigrex,티가렉스,ティガレックス,Tigrex,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-93,Brute Tigrex,티가렉스 아종,ティガレックス亜種,Tigrex Pardo,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-62,Nargacuga,나르가쿠르가,ナルガクルガ,Nargacuga,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-63,Barioth,벨리오로스,ベリオロス,Barioth,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-100,Frostfang Barioth,얼음 칼날을 찬 벨리오로스,氷刃佩くベリオロス,Barioth Cynodon,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-64,Savage Deviljho,미친 이블조,怒り喰らうイビルジョー,Deviljho Salvaje,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-87,Alatreon,알바트리온,アルバトリオン,Alatreon,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-94,Zinogre,진오우거,ジンオウガ,Zinogre,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-95,Stygian Zinogre,진오우거 아종,ジンオウガ亜種,Zinogre Estigio,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-65,Brachydios,브라키디오스,ブラキディオス,Brachydios,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-96,Raging Brachydios,사납게 터지는 브라키디오스,猛り爆ぜるブラキディオス,Brachydios Colérico,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-66,Glavenus,디노발드,ディノバルド,Glavenus,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-67,Acidic Glavenus,디노발드 아종,ディノバルド亜種,Glavenus Acídico,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-68,Fulgur Anjanath,안쟈나프 아종,アンジャナフ亜種,Anjanath Fulgúreo,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-69,Coral Pukei-Pukei,푸케푸케 아종,プケプケ亜種,Pukei-Pukei Coralino,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-70,Ruiner Nergigante,모두를 멸하는 네르기간테,悉くを殲ぼすネルギガンテ,Nergigante Regio,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-97,Safi'jiiva,무페토-지바,ムフェト・ジーヴァ,Safi'jiiva,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-71,Viper Tobi-Kadachi,토비카가치 아종,トビカガチ亜種,Tobi-Kadachi Vípero,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-72,Nightshade Paolumu,파오우르무 아종,パオウルムー亜種,Paolumu Somnus,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-73,Shrieking Legiana,얼려 찌르는 레이기에나,凍て刺すレイギエナ,Legiana Aullador,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-74,Ebony Odogaron,오도가론 아종,オドガロン亜種,Odogaron Ébano,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-75,Blackveil Vaal Hazak,죽음을 두른 발하자크,死を纏うヴァルハザク,Vaal Hazak Espóreo,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-76,Seething Bazelgeuse,홍련의 솟구치는 바젤기우스,紅蓮滾るバゼルギウス,Bazelgeuse Magma,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-77,Beotodus,브란토도스,ブラントドス,Beotodus,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-78,Banbaro,버프바로,バフバロ,Banbaro,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-79,Velkhana,이베르카나,イヴェルカーナ,Velkhana,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-80,Namielle,네로미에르,ネロミェール,Namielle,poedb; ko user-verified 2026-11-18
+monster,mhw-monster-81,Shara Ishvalda,안-이슈왈다,アン・イシュワルダ,Shara Ishvalda,poedb; ko user-verified 2026-11-18

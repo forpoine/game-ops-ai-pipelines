@@ -1,0 +1,81 @@
+﻿id,ts,lang,style,length,gold_category,gold_severity,gold_sentiment,gold_cluster,ambiguous,secondary_category,scope,seed
+SYNC-0001,2026-05-04 00:34,ko,푸념하듯 늘어지는 말투,1~2문장,BUG,S2,neg,login_fail,false,,control,"로그인이 안 됨, 접속 불가"
+SYNC-0002,2026-05-04 02:50,ko,푸념하듯 늘어지는 말투,1문장,BAL,S3,neg,bal_matching,false,,control,매칭에서 실력 차가 큼
+SYNC-0003,2026-05-04 05:09,mixed,감정이 격한 말투,2~3문장,BUG,S2,neu,loading_stuck,false,,control,로딩 화면에서 멈춰 진행 불가
+SYNC-0004,2026-05-04 06:19,en,짧은 반말,1문장,COM,S2,neg,com_scam,false,,control,거래 사기 피해 제보
+SYNC-0005,2026-05-04 07:34,ko,감정이 격한 말투,2~3문장,OPS,S3,neg,c_preview_mismatch,false,,rule,공식 예고 영상에서 보여 준 기능이 실제 업데이트에는 빠져 있어 기대와 다름
+SYNC-0006,2026-05-04 09:16,ko,짧은 반말,2~3문장,BAL,S3,neu,bal_matching,false,,control,매칭에서 실력 차가 큼
+SYNC-0007,2026-05-04 09:27,en,정중한 존댓말,2~3문장,BAL,S3,neg,c_raid_hard,false,,rule,레이드 보스가 너무 어려워 몇 주째 공략이 막혀 더 진행을 못 함
+SYNC-0008,2026-05-04 13:05,ko,건조한 보고체,2~3문장,MON,S4,neg,c_pass_value,false,,rule,시즌 패스 보상 구성이 가격에 비해 아쉬움(보상 목록은 구매 전에 공개돼 있었고 받은 것도 목록 그대로)
+SYNC-0009,2026-05-04 13:30,en,짧은 반말,1문장,BUG,S2,neg,loading_stuck,false,,control,로딩 화면에서 멈춰 진행 불가
+SYNC-0010,2026-05-04 14:45,ko,푸념하듯 늘어지는 말투,1~2문장,BAL,S4,neg,c_zone_easy,false,,rule,새로 열린 지역 몬스터가 너무 약해서 긴장감이 없다는 취향 의견
+SYNC-0011,2026-05-04 16:34,en,푸념하듯 늘어지는 말투,1문장,MON,S4,neg,c_member_value,false,,rule,멤버십 혜택이 기대보다 적음(혜택 안내는 가입 전에 공개돼 있었고 안내대로 받고 있음)
+SYNC-0012,2026-05-04 18:26,ko,감정이 격한 말투,2~3문장,MON,S2,neg,mon_rate_suspect,false,,control,확률 조작 의혹 제기
+SYNC-0013,2026-05-04 18:26,ko,짧은 반말,2~3문장,COM,S3,neg,com_abuse,false,,control,채팅 욕설 신고
+SYNC-0014,2026-05-04 18:50,ko,정중한 존댓말,2~3문장,BAL,S3,neu,bal_matching,false,,control,매칭에서 실력 차가 큼
+SYNC-0015,2026-05-04 21:01,ko,건조한 보고체,1문장,MON,S4,neg,c_pass_value,false,,rule,시즌 패스 보상 구성이 가격에 비해 아쉬움(보상 목록은 구매 전에 공개돼 있었고 받은 것도 목록 그대로)
+SYNC-0016,2026-05-05 09:17,ko,건조한 보고체,1~2문장,MON,S2,neg,c_pass_mismatch,false,,rule,시즌 패스 보상이 상점 안내에 표시된 수량보다 적게 지급됨
+SYNC-0017,2026-05-05 09:17,en,정중한 존댓말,1~2문장,BAL,S3,neg,bal_strong_char,false,,control,특정 캐릭터가 너무 강함
+SYNC-0018,2026-05-05 10:47,en,푸념하듯 늘어지는 말투,1~2문장,BAL,S3,neg,bal_strong_char,false,,control,특정 캐릭터가 너무 강함
+SYNC-0019,2026-05-05 16:29,en,짧은 반말,2~3문장,BUG,S2,neg,loading_stuck,false,,control,로딩 화면에서 멈춰 진행 불가
+SYNC-0020,2026-05-05 20:24,ko,짧은 반말,1~2문장,BUG,S2,neg,payment_missing,false,,control,결제 후 재화가 들어오지 않음
+SYNC-0021,2026-05-05 21:08,ko,정중한 존댓말,2~3문장,BUG,S2,neu,c_mission_unmarked,false,,rule,시즌 미션을 다 했는데 완료 처리가 안 돼 시즌 보상을 못 받음
+SYNC-0022,2026-05-05 23:32,mixed,짧은 반말,1문장,BUG,S2,neg,c_crash_loss,false,,rule,던전을 클리어한 직후 게임이 튕겨서 클리어 기록과 보상이 사라짐
+SYNC-0023,2026-05-06 05:25,mixed,감정이 격한 말투,1~2문장,BUG,S2,neg,login_fail,false,,control,"로그인이 안 됨, 접속 불가"
+SYNC-0024,2026-05-06 06:20,ko,푸념하듯 늘어지는 말투,1문장,BUG,S3,neg,c_achv_unmarked,false,,contrast,업적 조건을 채웠는데 업적 완료 표시가 안 뜸(게임 진행과 보상에는 지장 없음)
+SYNC-0025,2026-05-06 11:46,ko,건조한 보고체,1~2문장,BUG,S3,neu,c_achv_unmarked,false,,contrast,업적 조건을 채웠는데 업적 완료 표시가 안 뜸(게임 진행과 보상에는 지장 없음)
+SYNC-0026,2026-05-06 15:05,en,건조한 보고체,1문장,COM,S2,neg,com_scam,false,,control,거래 사기 피해 제보
+SYNC-0027,2026-05-06 17:07,ko,푸념하듯 늘어지는 말투,2~3문장,BAL,S4,neg,c_zone_easy,false,,rule,새로 열린 지역 몬스터가 너무 약해서 긴장감이 없다는 취향 의견
+SYNC-0028,2026-05-06 19:35,ko,감정이 격한 말투,2~3문장,BAL,S3,neu,c_raid_hard,false,,rule,레이드 보스가 너무 어려워 몇 주째 공략이 막혀 더 진행을 못 함
+SYNC-0029,2026-05-06 19:51,ko,감정이 격한 말투,1문장,COM,S3,neu,com_abuse,false,,control,채팅 욕설 신고
+SYNC-0030,2026-05-06 23:42,en,짧은 반말,1문장,MON,S2,neg,mon_rate_suspect,false,,control,확률 조작 의혹 제기
+SYNC-0031,2026-05-06 23:53,ko,감정이 격한 말투,2~3문장,BAL,S4,neu,c_zone_easy,false,,rule,새로 열린 지역 몬스터가 너무 약해서 긴장감이 없다는 취향 의견
+SYNC-0032,2026-05-07 00:40,ko,감정이 격한 말투,1문장,BAL,S3,neg,c_raid_hard,false,,rule,레이드 보스가 너무 어려워 몇 주째 공략이 막혀 더 진행을 못 함
+SYNC-0033,2026-05-07 00:43,ko,건조한 보고체,1~2문장,MON,S4,neu,c_member_value,false,,rule,멤버십 혜택이 기대보다 적음(혜택 안내는 가입 전에 공개돼 있었고 안내대로 받고 있음)
+SYNC-0034,2026-05-07 01:32,ko,건조한 보고체,2~3문장,MON,S2,neg,mon_rate_suspect,false,,control,확률 조작 의혹 제기
+SYNC-0035,2026-05-07 11:18,ko,푸념하듯 늘어지는 말투,2~3문장,BUG,S2,neu,c_crash_loss,false,,rule,던전을 클리어한 직후 게임이 튕겨서 클리어 기록과 보상이 사라짐
+SYNC-0036,2026-05-07 11:34,en,건조한 보고체,2~3문장,BUG,S3,neg,c_crash_noloss,false,,contrast,게임이 자주 튕기지만 다시 접속하면 진행과 보상은 그대로 남아 있음(손실 없음)
+SYNC-0037,2026-05-07 19:13,en,짧은 반말,2~3문장,BAL,S3,neg,bal_strong_char,false,,control,특정 캐릭터가 너무 강함
+SYNC-0038,2026-05-07 19:44,ko,감정이 격한 말투,1~2문장,MON,S4,neu,c_pass_value,false,,rule,시즌 패스 보상 구성이 가격에 비해 아쉬움(보상 목록은 구매 전에 공개돼 있었고 받은 것도 목록 그대로)
+SYNC-0039,2026-05-07 21:45,ko,감정이 격한 말투,1~2문장,COM,S2,neg,com_scam,false,,control,거래 사기 피해 제보
+SYNC-0040,2026-05-07 22:49,en,정중한 존댓말,1문장,BAL,S3,neu,bal_matching,false,,control,매칭에서 실력 차가 큼
+SYNC-0041,2026-05-08 01:16,mixed,건조한 보고체,1문장,OPS,S2,neu,c_attend_missing,false,,rule,출석 체크를 다 했는데 출석 보상이 우편함에 들어오지 않음
+SYNC-0042,2026-05-08 01:20,ko,건조한 보고체,1문장,BUG,S3,neg,c_achv_unmarked,false,,contrast,업적 조건을 채웠는데 업적 완료 표시가 안 뜸(게임 진행과 보상에는 지장 없음)
+SYNC-0043,2026-05-08 01:26,ko,정중한 존댓말,1~2문장,MON,S2,neg,c_pass_mismatch,false,,rule,시즌 패스 보상이 상점 안내에 표시된 수량보다 적게 지급됨
+SYNC-0044,2026-05-08 01:26,ko,짧은 반말,2~3문장,BUG,S2,neg,payment_missing,false,,control,결제 후 재화가 들어오지 않음
+SYNC-0045,2026-05-08 04:11,mixed,짧은 반말,2~3문장,MON,S2,neg,mon_rate_suspect,false,,control,확률 조작 의혹 제기
+SYNC-0046,2026-05-08 04:50,ko,짧은 반말,1문장,COM,S3,neg,com_abuse,false,,control,채팅 욕설 신고
+SYNC-0047,2026-05-08 06:13,ko,짧은 반말,1문장,OPS,S3,neg,c_preview_mismatch,false,,rule,공식 예고 영상에서 보여 준 기능이 실제 업데이트에는 빠져 있어 기대와 다름
+SYNC-0048,2026-05-08 06:53,en,푸념하듯 늘어지는 말투,2~3문장,ETC,S4,pos,etc_suggest,false,,control,새 콘텐츠 제안
+SYNC-0049,2026-05-08 06:57,ko,짧은 반말,1~2문장,MON,S2,neg,c_pass_mismatch,false,,rule,시즌 패스 보상이 상점 안내에 표시된 수량보다 적게 지급됨
+SYNC-0050,2026-05-08 08:12,ko,건조한 보고체,1문장,BUG,S2,neg,c_crash_loss,false,,rule,던전을 클리어한 직후 게임이 튕겨서 클리어 기록과 보상이 사라짐
+SYNC-0051,2026-05-08 08:36,en,건조한 보고체,1문장,OPS,S2,neu,c_attend_missing,false,,rule,출석 체크를 다 했는데 출석 보상이 우편함에 들어오지 않음
+SYNC-0052,2026-05-08 10:02,ko,감정이 격한 말투,1문장,BUG,S2,neg,login_fail,false,,control,"로그인이 안 됨, 접속 불가"
+SYNC-0053,2026-05-08 12:01,ko,짧은 반말,1~2문장,MON,S4,neg,c_pass_value,false,,rule,시즌 패스 보상 구성이 가격에 비해 아쉬움(보상 목록은 구매 전에 공개돼 있었고 받은 것도 목록 그대로)
+SYNC-0054,2026-05-08 17:59,en,정중한 존댓말,2~3문장,BUG,S3,neg,c_crash_noloss,false,,contrast,게임이 자주 튕기지만 다시 접속하면 진행과 보상은 그대로 남아 있음(손실 없음)
+SYNC-0055,2026-05-08 19:48,en,짧은 반말,1문장,OPS,S3,neg,c_preview_mismatch,false,,rule,공식 예고 영상에서 보여 준 기능이 실제 업데이트에는 빠져 있어 기대와 다름
+SYNC-0056,2026-05-08 21:40,mixed,감정이 격한 말투,1~2문장,BUG,S3,neg,c_crash_noloss,false,,contrast,게임이 자주 튕기지만 다시 접속하면 진행과 보상은 그대로 남아 있음(손실 없음)
+SYNC-0057,2026-05-09 00:08,en,짧은 반말,1~2문장,OPS,S3,neu,c_preview_mismatch,false,,rule,공식 예고 영상에서 보여 준 기능이 실제 업데이트에는 빠져 있어 기대와 다름
+SYNC-0058,2026-05-09 07:56,ko,감정이 격한 말투,1문장,MON,S4,neu,c_member_value,false,,rule,멤버십 혜택이 기대보다 적음(혜택 안내는 가입 전에 공개돼 있었고 안내대로 받고 있음)
+SYNC-0059,2026-05-09 08:34,mixed,건조한 보고체,2~3문장,MON,S2,neg,c_pass_mismatch,false,,rule,시즌 패스 보상이 상점 안내에 표시된 수량보다 적게 지급됨
+SYNC-0060,2026-05-09 09:07,mixed,정중한 존댓말,2~3문장,BUG,S2,neg,loading_stuck,false,,control,로딩 화면에서 멈춰 진행 불가
+SYNC-0061,2026-05-09 11:07,ko,정중한 존댓말,2~3문장,OPS,S2,neg,c_attend_missing,false,,rule,출석 체크를 다 했는데 출석 보상이 우편함에 들어오지 않음
+SYNC-0062,2026-05-09 13:04,ko,정중한 존댓말,2~3문장,BUG,S2,neg,payment_missing,false,,control,결제 후 재화가 들어오지 않음
+SYNC-0063,2026-05-09 13:48,en,짧은 반말,2~3문장,ETC,S4,neu,etc_suggest,false,,control,새 콘텐츠 제안
+SYNC-0064,2026-05-09 15:58,mixed,감정이 격한 말투,1~2문장,BAL,S3,neg,bal_strong_char,false,,control,특정 캐릭터가 너무 강함
+SYNC-0065,2026-05-09 18:32,ko,감정이 격한 말투,2~3문장,COM,S2,neg,com_scam,false,,control,거래 사기 피해 제보
+SYNC-0066,2026-05-09 20:30,ko,정중한 존댓말,2~3문장,OPS,S2,neu,c_attend_missing,false,,rule,출석 체크를 다 했는데 출석 보상이 우편함에 들어오지 않음
+SYNC-0067,2026-05-09 21:05,ko,정중한 존댓말,1문장,BAL,S4,neg,c_zone_easy,false,,rule,새로 열린 지역 몬스터가 너무 약해서 긴장감이 없다는 취향 의견
+SYNC-0068,2026-05-09 21:45,ko,감정이 격한 말투,2~3문장,BUG,S2,neg,payment_missing,false,,control,결제 후 재화가 들어오지 않음
+SYNC-0069,2026-05-09 23:11,ko,짧은 반말,1문장,BUG,S2,neg,c_mission_unmarked,false,,rule,시즌 미션을 다 했는데 완료 처리가 안 돼 시즌 보상을 못 받음
+SYNC-0070,2026-05-10 04:52,ko,정중한 존댓말,1문장,ETC,S4,neu,etc_suggest,false,,control,새 콘텐츠 제안
+SYNC-0071,2026-05-10 05:37,mixed,건조한 보고체,1~2문장,BUG,S3,neg,c_achv_unmarked,false,,contrast,업적 조건을 채웠는데 업적 완료 표시가 안 뜸(게임 진행과 보상에는 지장 없음)
+SYNC-0072,2026-05-10 05:58,en,건조한 보고체,2~3문장,BUG,S2,neu,login_fail,false,,control,"로그인이 안 됨, 접속 불가"
+SYNC-0073,2026-05-10 09:43,ko,푸념하듯 늘어지는 말투,1~2문장,MON,S4,neg,c_member_value,false,,rule,멤버십 혜택이 기대보다 적음(혜택 안내는 가입 전에 공개돼 있었고 안내대로 받고 있음)
+SYNC-0074,2026-05-10 09:53,ko,감정이 격한 말투,1~2문장,BUG,S3,neg,c_crash_noloss,false,,contrast,게임이 자주 튕기지만 다시 접속하면 진행과 보상은 그대로 남아 있음(손실 없음)
+SYNC-0075,2026-05-10 16:43,ko,정중한 존댓말,1문장,ETC,S4,neu,etc_suggest,false,,control,새 콘텐츠 제안
+SYNC-0076,2026-05-10 19:53,ko,푸념하듯 늘어지는 말투,1문장,BUG,S2,neg,c_crash_loss,false,,rule,던전을 클리어한 직후 게임이 튕겨서 클리어 기록과 보상이 사라짐
+SYNC-0077,2026-05-10 20:38,ko,푸념하듯 늘어지는 말투,2~3문장,BUG,S2,neu,c_mission_unmarked,false,,rule,시즌 미션을 다 했는데 완료 처리가 안 돼 시즌 보상을 못 받음
+SYNC-0078,2026-05-10 22:18,mixed,감정이 격한 말투,1~2문장,BUG,S2,neg,c_mission_unmarked,false,,rule,시즌 미션을 다 했는데 완료 처리가 안 돼 시즌 보상을 못 받음
+SYNC-0079,2026-05-10 22:53,mixed,건조한 보고체,1문장,BAL,S3,neg,c_raid_hard,false,,rule,레이드 보스가 너무 어려워 몇 주째 공략이 막혀 더 진행을 못 함
+SYNC-0080,2026-05-10 23:42,ko,건조한 보고체,1문장,COM,S3,neg,com_abuse,false,,control,채팅 욕설 신고

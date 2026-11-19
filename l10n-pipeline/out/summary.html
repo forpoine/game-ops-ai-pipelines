@@ -1,0 +1,9 @@
+<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>모델 비교 요약</title><style>body{font:15px/1.6 system-ui,'Malgun Gothic',sans-serif;max-width:900px;margin:24px auto;padding:0 16px;color:#222}table{border-collapse:collapse;margin:8px 0 20px}td,th{border:1px solid #ccc;padding:5px 10px;text-align:left}th{background:#f4f4f4}small{color:#666}</style>
+<h1>용어 보호 번역: 모델 비교 요약</h1>
+<small>합성 데이터. 서비스는 가상, 용어는 몬스터헌터·포켓몬 텍스트 데이터만. 일본어는 사람이 검증하지 않음. 모든 수치는 이 프로젝트에서 잰 값.</small>
+<h2>1. 용어집 없이 번역했을 때 공식 표기 일치 (40문장)</h2>
+<table><tr><th>모델</th><th>한국어</th><th>일본어</th><th>스페인어</th><th>용어 보호 시 자리표시자 유지(ko, ja, es)</th></tr><tr><td>Gemma 12B</td><td>7/40</td><td>3/40</td><td>14/40</td><td>40/40, 40/40, 40/40</td></tr><tr><td>gpt-oss 20B</td><td>3/40</td><td>2/40</td><td>17/40</td><td>40/40, 40/40, 40/40</td></tr><tr><td>Qwen3 14B</td><td>1/40</td><td>1/40</td><td>17/40</td><td>40/40, 40/40, 40/40</td></tr></table>
+<small>문장은 시드 고정 템플릿 40개, 표본이 작아 소수점 차이는 의미 없음. 용어 보호의 40/40은 자리표시자 유지 여부이고 공식명은 코드가 넣는다. 오답 유형 분석은 results/baseline_분석.md.</small>
+<h2>2. 공지 5종 번역(용어 보호, 일본어·스페인어) 검수 결과</h2>
+<table><tr><th>모델</th><th>이슈 수</th><th>이슈</th><th>번역 소요</th><th>승인용 리포트</th></tr><tr><td>Gemma 12B</td><td>1</td><td>N2 ja:english</td><td>204초</td><td><a href='report_gemma.html'>리포트</a></td></tr><tr><td>gpt-oss 20B</td><td>1</td><td>N2 ja:english</td><td>18초</td><td><a href='report_gptoss.html'>리포트</a></td></tr><tr><td>Qwen3 14B</td><td>0</td><td>없음</td><td>23초</td><td><a href='report_qwen.html'>리포트</a></td></tr></table>
+<small>검수기: 용어, 숫자·날짜, 언어 누락, 글자 수 넘침, 확률 합 100%, 자리표시자 잔존. 글자 수 한도는 가정값. 소요 시간은 각 모델의 번역 호출 합(모델 로드 시간 제외, GPU 조건 다름).</small>

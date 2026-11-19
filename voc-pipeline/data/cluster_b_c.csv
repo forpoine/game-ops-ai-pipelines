@@ -1,0 +1,81 @@
+﻿id,gold_cluster,pred_cluster,text
+SYNB-0001,mon_rate_suspect,7,"확률 조작 의혹이 다시 불거지고 있어. 같은 캐릭터를 10번 이상 뽑으려면 너무 많은 획수를 요구하고 있고, 유저들 사이에서 실질적인 확률이 명시된 적 없음. 이 게임의 공정성에 대한 신뢰가 무너지는 것 같아."
+SYNB-0002,mon_rate_suspect,7,아이고... 왜 이 게임에서 거의 안 나와요? 100번 해도 귀한 놈이 하나도 안 나오면 확률 조작 아닌가 싶어요.. 근데 밸런스도 좀 별로라서 계속 하는 거라서 과금도 많이 하게 되더라고요. 😞
+SYNB-0003,ui_overlap,8,UI 글자가 너무 겹쳐서 읽기 힘들어요. 이 게임에서 중요한 정보를 놓치는 것 같아요 😕
+SYNB-0004,data_loss,15,저장 데이터가 갑자기 날아가서 몇 시간 동안 작업한 내용이 전부 소멸됐음. 😡
+SYNB-0005,payment_missing,20,"아까 결제해서 재화 받기로 했는데 아직 안 오는 거 같고, 이거 혹시 또 과금 문제인가 싶어서 걱정되서 글 남겨봐요... 😔"
+SYNB-0006,ops_reward_rule,15,보상 지급 기준이 너무 모호해서 이 게임 계속 하기 힘들다 😡
+SYNB-0007,ops_reward_rule,1,"{SERVICE}에서 최근 이벤트 기간 동안 획득한 업적에 비해 보상 지급이 부족하다는 의견이 있어, 정확한 기준과 과금 요소가 어떻게 반영되는지 명확히 해달라는 요청이 들어왔습니다."
+SYNB-0008,etc_praise,4,최근 업데이트 진짜 잘 했어! 👏 이 게임에 계속 즐겁게 놀고 있어서 너무 감사해~
+SYNB-0009,com_cheat,9,"I swear there’s a macro user in this game, they’re way too good and it’s not fair at all 😡"
+SYNB-0010,data_loss,2,I just lost all my progress in {SERVICE} — my save data vanished overnight. This isn't an isolated incident; multiple players are reporting the same issue. Please fix this ASAP before more people lose their game. 😡
+SYNB-0011,loading_stuck,12,로딩 화면에서 멈춰서 게임 시작이 안 되는 문제가 자주 발생해서 불편합니다. 과금 관련 이슈도 있는지 궁금해요.
+SYNB-0012,bal_boss_hard,1,"{SERVICE}에서 보스 몬스터가 너무 어려워서 계속 죽는 게 정말 짜증납니다. 스킬을 잘 조합해도 한 번에 때리면 바로 끝나버려서 도전의 재미도 없고, 오히려 실망감만 커지네요."
+SYNB-0013,loading_stuck,4,로딩 화면에서 멈춰서 계속 못 해… 진짜 짜증나;;; 게임 안 되잖아! 😡
+SYNB-0014,quest_block,18,퀘스트 완료 표시가 안 되서 다음 퀘스트 진행도 못하고 있어… 이거 진짜 뭐야;;;;;;;;;;;;;; 그리고 이럴 땐 과금이나 확률 이야기도 좀 나와서 혼란스러운 게 문제죠.
+SYNB-0015,bal_boss_hard,4,이 게임에서 보스들이 너무 힘들어서 도대체 무슨 뜻인지 모르겠는데 진짜 이거 다 뭘 위한건지 분할조! 😡
+SYNB-0016,etc_inquiry,1,"어휴, 계정 이전 방법 좀 간단하게 알려줘요~! 너무 길면 안돼서요 😊 빨리 해보고 싶어서요. {SERVICE}에서 도와줄 수 있길 바라요!"
+SYNB-0017,mon_rate_suspect,24,"I've been playing this game for months, but I strongly believe there's some kind of manipulation going on with the drop rates. It feels way too unfair and frustrating, especially when others seem to get rare items so easily while I keep hitting dry patches. 😠"
+SYNB-0018,bal_strong_char,1,{SERVICE}에서 특정 캐릭터가 너무 강해서 균형 깨졌음.
+SYNB-0019,com_cheat,9,"I think there's a macro or hack user in the game, been seeing suspicious activity lately. Not sure but wanted to report just in case."
+SYNB-0020,etc_suggest,1,"I've been playing {SERVICE} for a while now and I just thought I'd suggest adding some new quests or maybe even a few different types of characters to explore. It's not urgent or anything, but it would be really cool to see what else this game has in store! 😊"
+SYNB-0021,etc_praise,19,"최근 업데이트로 새로운 콘텐츠가 추가되었는데, 정말 잘 만들었네요. 기대감을 갖고 게임에 잠입하게 되는 것 같아요 😊"
+SYNB-0022,com_cheat,19,"이게 말도 안 되는 거 같아서 계속 신고했는데, 매크로나 핵 쓰는 놈들 전혀 잡히질 않다 진짜 ㅜㅜ"
+SYNB-0023,ui_overlap,8,"UI에서 글자가 겹쳐서 보여서 좀 헷갈리는 부분도 있어요. 게임 자체는 괜찮은데, UI 문제로 몇 번이나 잘못 클릭해서 아이템을 날리기도 해서 아쉬워요."
+SYNB-0024,bal_strong_char,23,"That character is way too overpowered, making the game unfair for everyone else. 😡"
+SYNB-0025,bal_easy,13,"처음엔 너무 쉽게 느껴져서 기분 좋았는데, 계속해서 같은 패턴만 반복되다 보니 지루해졌어요... 이 게임 진짜 초반 난이도가 너무 너무 쉬워요 😓"
+SYNB-0026,crash_battle,21,"전투 중 앱이 갑자기 튕겨서 미니언까지 잃었음. 여러 번 재시도해도 마찬가지로 튕김 발생. 이 게임을 즐기는 데 있어 가장 기본적인 안정성마저 보장되지 않는다면, 계속 사용할 수 없다. 😡"
+SYNB-0027,bal_easy,13,"처음엔 너무 쉬워서 뭘 해야 할지 모르겠더라고요... 계속 진행해보면 어려워질 줄 알았는데, 예상보다 훨씬 간단하던데요. 😕"
+SYNB-0028,mon_rate_suspect,19,"최근 몇 주간 스펙터클한 아이템 드롭 확률을 반복적으로 경험했는데, 이는 단순한 우연으로 설명되기 어렵다. 수많은 유저들이 비슷한 경험이 있다는 점에서, 공정성에 대한 의문이 생기고 있다."
+SYNB-0029,mon_refund,1,"아까 실수로 {SERVICE}에서 결제를 해버렸는데, 이거 어떻게 되는건지 너무 당황스럽고 걱정돼서 환불 요청할 수 있을까요... 😔"
+SYNB-0030,mon_package,17,패키지 가격 대비 아이템 구성이 좀 아쉬워요... 😕
+SYNB-0031,mon_package,17,패키지 가격에 비해 구성이 좀 적어서 아쉽네요... 😕
+SYNB-0032,com_cheat,19,"아주 약간 그런데... 매크로 사용하는 사람 같던데, 좀 신고해 주시면 안 될까요?"
+SYNB-0033,com_scam,3,"Just got scammed in-game through a trade, lost a bunch of rare items and gold—{SERVICE} needs to fix this ASAP before more people get ripped off 😡"
+SYNB-0034,etc_praise,1,"{SERVICE} 정말 잘 업데이트 했어! 새로운 콘텐츠 너무 재밌고, 기대했던 부분도 다 들어가 있어서 진짜 감사해 😊"
+SYNB-0035,etc_praise,4,최근 업데이트 정말 잘하셨어요! 새로운 콘텐츠와 조작감 향상으로 게임이 더 재미있어졌네요 😊 이어서도 기대하고 있답니다.
+SYNB-0036,mon_package,1,"{SERVICE} 패키지 가격 보면 진짜 속상해요... 이거 다 뭐야? 예전에 비해서 구성도 별로고, 가격은 더 올랐는데. 아, 그냥 패키지 구매하면 이럴 줄 알았으면 안 삸했을 텐데..."
+SYNB-0037,quest_block,18,퀘스트 완료 표시가 제대로 안 돼서 다음 스토리 진행이 막혀있어요... 진짜 답답하네요 😤
+SYNB-0038,mon_gacha_rate,14,확률형 상품의 확률이 너무 낮아서 계속해서 놓치게 되는 게 정말 짜증납니다 😡
+SYNB-0039,bal_matching,10,"I just got matched with someone way too good and it was so frustrating, feels like there's no point in even trying sometimes 😞"
+SYNB-0040,mon_sub,1,{SERVICE}에서 월정액을 결제했음에도 불구하고 혜택이 너무 부족해서 황당하네요... 게임 자체는 괜찮은데 돈 주고도 별반 다르지 않다보니 이래저래 싫증나버려요 😡
+SYNB-0041,ops_reward_missing,1,"아까 이벤트 참여했었는데, 보상 안 받았던 것 같아... 뭔가 좀 그렇다 ㅠㅠ {SERVICE}쪽에서 확인 좀 해줘서... 힘들어 죽겠음."
+SYNB-0042,bal_matching,19,매칭 시에 실력 차가 너무 크면 게임을 즐기기 어려운 점이 있어요. 조금 더 균형 잡힌 매칭이 되었으면 하는 바람입니다.
+SYNB-0043,ops_note_mismatch,21,"업데이트 노트에서는 신규 콘텐츠가 추가됐다고 되어 있었는데, 실제로는 아무것도 바뀐 게 없는 것 같아요. 🙄"
+SYNB-0044,data_loss,1,"{SERVICE}에서 중요한 저장 데이터가 갑자기 사라져서 정말 당황스럽습니다. 여러 명의 사용자가 같은 문제가 생겼다니, 시급히 해결 부탁드립니다 😢"
+SYNB-0045,bal_easy,1,{SERVICE} 초반 난이도 너무 쉬워서 재미없음 😕
+SYNB-0046,etc_praise,4,"최근 업데이트 정말 잘 했어요! 기대했던 내용도 다 들어가 있어서 너무 반갑고, 게임이 더 재미있어졌네요 😊"
+SYNB-0047,etc_suggest,1,{SERVICE}에 새로운 콘텐츠가 추가되면 정말 재미있을 것 같아요! 특히 이벤트 기간 동안만 플레이할 수 있는 특별한 미션 같은 건 어때요? 😊
+SYNB-0048,mon_sub,1,{SERVICE}는 월정액을 내면 꼭 필요한 혜택을 주지 않아서 조금 실망스러워요.
+SYNB-0049,data_loss,20,아까 저장한 데이터가 갑자기 다 사라졌어... 이거 왜 그런 거야?? 😞
+SYNB-0050,data_loss,19,최근 몇 번째인지 모르지만 저장 데이터가 갑자기 사라져서 정말 당황스럽습니다. 여러 분도 비슷한 문제를 겪고 계시는 것 같아요 😢
+SYNB-0051,bal_nerf,17,이번 패치 이후에 무기 성능이 완전히 붕괴되다니 진짜 개소리야... 😡
+SYNB-0052,com_sanction,15,제재 받았는데 이유가 너무 모호해서 억울해요. 좀 더 구체적인 설명이나 기회를 주시면 감사하겠습니다.
+SYNB-0053,payment_missing,6,just paid for gems and they never came. so frustrated! 😡
+SYNB-0054,payment_missing,4,결제는 했는데 재화가 안 오는 거 진짜 너무 짜증나..! 이 게임 왜 이러지?! 😡 (혹시 확률 문제야? 아니면 그냥 버그인가?)
+SYNB-0055,bal_easy,13,"이 게임 초반에 너무 쉬워서 나만 그런가 싶어서 계속 놀고 있는데... 좀 더 어려웠으면 좋겠어욬ㅋㅋ 이거 재미도 덜 느껴지고, 계속 해보면 질리잖아."
+SYNB-0056,com_cheat,1,{SERVICE}에서 매크로 또는 불법적인 방식으로 게임을 진행하는 것으로 의심되는 유저가 활동 중이라 판단되어 신고합니다.
+SYNB-0057,mon_sub,1,"{SERVICE}의 월정액 혜택이 기대에 미치지 못한다. 기본 아이템이 너무 부족하고, 밸런스 문제도 있어 과금 유혹이 강하다."
+SYNB-0058,bal_easy,1,{SERVICE}를 처음 시작했을 때는 초반 난이도가 너무 쉬워서 금방 지루해졌어요. 더 어려운 콘텐츠나 도전 과제가 있었으면 좋겠습니다.
+SYNB-0059,com_scam,13,거래 중 상대방이 계약금을 요구하며 사기 피해를 입었어요. 급하게 처리해 주시면 감사하겠습니다.
+SYNB-0060,ui_overlap,8,작업 중인 UI에서 글자가 겹쳐 보여서 읽기 어렵네요. 편의성 측면에서는 개선되었으면 하는 부분입니다.
+SYNB-0061,login_fail,12,하루 종일 로그인을 못해서 너무 짜증나... 이 게임이 뭐야 진짜 접속도 안되고;;;
+SYNB-0062,mon_gacha_rate,14,이게 진짜 너무 심함 ㅈㅈ... 확률형 상품 이딴 거 몇 번 돌리면 나올 줄 알았는데 계속 안 나오네 ㅜㅜ
+SYNB-0063,quest_block,18,퀘스트 완료 상태가 제대로 표시되지 않아 다음 스토리 진행이 막혀 있음. 반복적으로 확인하고 재실행했으나 해결되지 않아 진행이 중단된 채임.
+SYNB-0064,bal_boss_hard,16,이 게임 보스 너무 어렵다아... 3시간 붙잡고도 못 잡음 ㅠㅠ 뭐야 이거;;; 😭
+SYNB-0065,ops_reward_missing,4,아니 진짜 이건 뭐야?! 이벤트 참여했는데 보상 하나도 안 받았는데 왜?! 😡
+SYNB-0066,mon_refund,1,"{SERVICE}에서 실수로 결제가 이루어졌는데, 환불 요청을 진행해 주시면 감사하겠습니다. 몇 번의 시도 끝에야 문제가 해결되었지만, 혼란스러운 경험을 해서 아쉽게 느껴집니다."
+SYNB-0067,ops_reward_missing,22,이번 이벤트에서 주어진 보상 중 일부가 받지 못했어요. 확인 부탁드려요 😅
+SYNB-0068,ops_note_mismatch,21,"업데이트 노트 보면 신규 콘텐츠 많던데, 실제로는 별반 달라진 게 없어서 좀 실망했어... ㅠㅠ"
+SYNB-0069,com_cheat,19,매크로 의심되는 유저가 자주 출현해서 신고합니다. 게임에 불쾌감을 주는 행동이 계속된다면 조치를 요청드립니다.
+SYNB-0070,bal_boss_hard,15,"보스 전투가 너무 어렵더라고요. 몇 번을 죽이고 다시 도전해도 안 되는 거 같아서 지치네요. 레벨이나 아이템 조합에 문제가 있을 수도 있겠지만, 좀 더 균형 잡힌 난이도였으면 좋겠습니다."
+SYNB-0071,crash_battle,21,전투 중에 갑자기 튕겨서 레벨 다 잃었는데 이거 왜 그런건지 이해가 안돼...ㅠㅠ
+SYNB-0072,bal_nerf,18,패치 후 무기 성능이 크게 하향된 것 같아요. 기존에 잘 맞던 무기들이 이제는 전투에서 큰 역할을 못하게 되면서 불편함이 커졌어요. 과금 콘텐츠와도 관련이 있을 수 있어서 조금 걱정되네요…
+SYNB-0073,mon_package,17,"패키지 가격 대비 구성이 좀 떨어지는 것 같아요... 괜히 기대를 많이 하고 샀는데, 아쉬움이 남는 부분도 있어요 😕"
+SYNB-0074,crash_battle,21,전투 중에 갑자기 앱이 튕겨서 중요한 전략을 잃는 바람에 정말 실망했어요 😢
+SYNB-0075,ops_reward_missing,20,이게임에서 진행한 이벤트에 참여했음에도 불구하고 보상이 지급되지 않아 실망스럽습니다... 😢
+SYNB-0076,data_loss,1,{SERVICE}에서 저장한 데이터가 갑자기 사라졌습니다. 여러 명의 사용자가 같은 문제를 겪고 있어 더 이상 지속될 수 없다는 생각이 듭니다. 이 문제가 해결되지 않으면 많은 사람들이 영향을 받게 될 것입니다.
+SYNB-0077,bal_boss_hard,11,I'm really frustrated with how hard the bosses are in this game. It feels like it's impossible to beat them even after spending hours grinding. Why is the difficulty so unfair? 😡
+SYNB-0078,etc_praise,5,Just wanted to say thanks for the latest update! Love the new features and improvements 😊 Keep up the good work!
+SYNB-0079,mon_rate_suspect,20,"이 게임에서 아이템 뽑는 확률이 너무 안 좋고, 계속 운이 나쁘면 그냥 게임 접을 수밖에 없겠어요... 근데 이거 말고도 전투 밸런스도 좀 왜곡된 느낌이 있어서 진짜 속상하네요 😢"
+SYNB-0080,login_fail,12,로그인 안 되고 접속도 계속 실패해서 이 게임 못하고 있음 ㅜㅜ

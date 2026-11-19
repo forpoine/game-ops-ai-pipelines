@@ -1,0 +1,75 @@
+[
+ {
+  "id": "N1-maintenance",
+  "title": {
+   "en": "Scheduled Maintenance",
+   "ko": "정기 점검 안내"
+  },
+  "en": "{SERVICE} will undergo scheduled maintenance on 2026-12-03 from 02:00 to 06:00 (KST). All services will be unavailable during this time. As compensation, every player will receive 3 {T:mh-mega-potion} and 1 {T:rare-candy} after maintenance.",
+  "ko": "{SERVICE}의 정기 점검이 2026-12-03 02:00부터 06:00(KST)까지 진행됩니다. 점검 중에는 모든 서비스를 이용할 수 없습니다. 보상으로 점검 종료 후 모든 플레이어에게 {T:mh-mega-potion} 3개와 {T:rare-candy} 1개를 지급합니다.",
+  "terms": [
+   "mh-mega-potion",
+   "rare-candy"
+  ]
+ },
+ {
+  "id": "N2-update",
+  "title": {
+   "en": "Update Notes v2.4",
+   "ko": "v2.4 업데이트 노트"
+  },
+  "en": "Update v2.4 adds 2 new raid bosses: {T:mh-nergigante} and {T:mh-kushala-daora}. The daily purchase limit of {T:mh-armor-sphere} has been raised from 10 to 15. Fixed an issue where {T:pikachu} did not appear in the 3rd stage of the lake event.",
+  "ko": "v2.4 업데이트로 새 레이드 보스 2종, {T:mh-nergigante}와 {T:mh-kushala-daora}가 추가됩니다. {T:mh-armor-sphere}의 일일 구매 한도가 10개에서 15개로 늘었습니다. 호수 이벤트 3단계에서 {T:pikachu}가 나타나지 않던 문제를 수정했습니다.",
+  "terms": [
+   "mh-nergigante",
+   "mh-kushala-daora",
+   "mh-armor-sphere",
+   "pikachu"
+  ]
+ },
+ {
+  "id": "N3-event",
+  "title": {
+   "en": "Season Event: Evening Lake",
+   "ko": "시즌 이벤트: 저녁 호수"
+  },
+  "en": "The {T:evening-lake} event runs from 2026-12-10 to 2026-12-24. During the event, the encounter rate of {T:eevee} is doubled and {T:snorlax} appears at 20:00 every day. Collect 30 event tokens to claim a {T:ultra-ball} bundle.",
+  "ko": "{T:evening-lake} 이벤트가 2026-12-10부터 2026-12-24까지 열립니다. 이벤트 기간 동안 {T:eevee}의 출현 확률이 2배가 되고, 매일 20:00에 {T:snorlax}가 나타납니다. 이벤트 토큰 30개를 모으면 {T:ultra-ball} 묶음을 받을 수 있습니다.",
+  "terms": [
+   "eevee",
+   "snorlax",
+   "ultra-ball",
+   "evening-lake"
+  ]
+ },
+ {
+  "id": "N4-reward",
+  "title": {
+   "en": "Reward Distribution",
+   "ko": "보상 지급 안내"
+  },
+  "en": "Rewards for the November ranking will be sent to your mailbox on 2026-12-05. 1st place: 5 {T:master-ball}. 2nd to 10th place: 3 {T:max-revive}. Rewards expire after 14 days.",
+  "ko": "11월 랭킹 보상이 2026-12-05에 우편함으로 지급됩니다. 1위: {T:master-ball} 5개. 2위부터 10위: {T:max-revive} 3개. 보상은 14일 후 사라집니다.",
+  "terms": [
+   "master-ball",
+   "max-revive"
+  ]
+ },
+ {
+  "id": "N5-probability",
+  "title": {
+   "en": "Drop Rate Information",
+   "ko": "확률 정보"
+  },
+  "en": "Drop rates for the {T:hunter-box}: {T:mh-wyvern-gem} 5%, {T:mh-rathalos-ruby} 15%, {T:mh-armor-sphere} 30%, {T:mh-mega-potion} 50%. Rates are the same for every draw and drawing does not change them.",
+  "ko": "{T:hunter-box} 드롭 확률: {T:mh-wyvern-gem} 5%, {T:mh-rathalos-ruby} 15%, {T:mh-armor-sphere} 30%, {T:mh-mega-potion} 50%. 확률은 모든 뽑기에서 같으며 뽑기를 해도 바뀌지 않습니다.",
+  "terms": [
+   "mh-wyvern-gem",
+   "mh-rathalos-ruby",
+   "mh-armor-sphere",
+   "mh-mega-potion",
+   "hunter-box"
+  ],
+  "prob": true
+ }
+]

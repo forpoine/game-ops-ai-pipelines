@@ -1,0 +1,553 @@
+﻿type,api_id,en,ko,ja,es,note
+item,potion,Potion,상처약,キズぐすり,Poción,pokeapi item #17
+item,full-restore,Full Restore,회복약,かいふくのくすり,Restaurar Todo,pokeapi item #23
+item,max-potion,Max Potion,풀회복약,まんたんのくすり,Poción Máxima,pokeapi item #24
+item,hyper-potion,Hyper Potion,고급상처약,すごいキズぐすり,Hiperpoción,pokeapi item #25
+item,super-potion,Super Potion,좋은상처약,いいキズぐすり,Superpoción,pokeapi item #26
+item,fresh-water,Fresh Water,맛있는물,おいしいみず,Agua Fresca,pokeapi item #30
+item,soda-pop,Soda Pop,미네랄사이다,サイコソーダ,Refresco,pokeapi item #31
+item,lemonade,Lemonade,후르츠밀크,ミックスオレ,Limonada,pokeapi item #32
+item,moomoo-milk,Moomoo Milk,튼튼밀크,モーモーミルク,Leche Mu-mu,pokeapi item #33
+item,energy-powder,Energy Powder,힘의가루,ちからのこな,Polvo Energía,pokeapi item #34
+item,energy-root,Energy Root,힘의뿌리,ちからのねっこ,Raíz Energía,pokeapi item #35
+item,berry-juice,Berry Juice,나무열매쥬스,きのみジュース,Zumo de Baya,pokeapi item #43
+item,sweet-heart,Sweet Heart,하트스위트,ハートスイーツ,Corazón Dulce,pokeapi item #567
+item,antidote,Antidote,해독제,どくけし,Antídoto,pokeapi item #18
+item,burn-heal,Burn Heal,화상치료제,やけどなおし,Antiquemar,pokeapi item #19
+item,ice-heal,Ice Heal,얼음상태치료제,こおりなおし,Antihielo,pokeapi item #20
+item,awakening,Awakening,잠깨는약,ねむけざまし,Despertar,pokeapi item #21
+item,paralyze-heal,Paralyze Heal,마비치료제,まひなおし,Antiparalizador,pokeapi item #22
+item,full-heal,Full Heal,만병통치제,なんでもなおし,Cura Total,pokeapi item #27
+item,heal-powder,Heal Powder,만능가루,ばんのうごな,Polvo Curación,pokeapi item #36
+item,lava-cookie,Lava Cookie,용암전병,フエンせんべい,Galleta Lava,pokeapi item #42
+item,old-gateau,Old Gateau,숲의양갱,もりのヨウカン,Barrita Plus,pokeapi item #54
+item,casteliacone,Casteliacone,구름아이스,ヒウンアイス,Porcehelado,pokeapi item #632
+item,lumiose-galette,Lumiose Galette,미르갈레트,ミアレガレット,Crêpe Luminalia,pokeapi item #728
+item,shalour-sable,Shalour Sable,사라사블레,シャラサブレ,Galleta Yantra,pokeapi item #765
+item,big-malasada,Big Malasada,큰 말라사다,おおきいマラサダ,Malasada Maxi,pokeapi item #888
+item,pewter-crunchies,Pewter Crunchies,회색강정,ニビあられ,Rokikos,pokeapi item #1039
+item,ether,Ether,PP에이드,ピーピーエイド,Éter,pokeapi item #38
+item,max-ether,Max Ether,PP회복,ピーピーリカバー,Éter Máximo,pokeapi item #39
+item,elixir,Elixir,PP에이더,ピーピーエイダー,Elixir,pokeapi item #40
+item,max-elixir,Max Elixir,PP맥스,ピーピーマックス,Elixir Máximo,pokeapi item #41
+item,revive,Revive,기력의조각,げんきのかけら,Revivir,pokeapi item #28
+item,max-revive,Max Revive,기력의덩어리,げんきのかたまり,Revivir Máximo,pokeapi item #29
+item,revival-herb,Revival Herb,부활초,ふっかつそう,Hierba Revivir,pokeapi item #37
+item,sacred-ash,Sacred Ash,성스러운분말,せいなるはい,Ceniza Sagrada,pokeapi item #44
+item,max-honey,Max Honey,다이꿀,ダイミツ,Maxipanal,pokeapi item #1630
+item,hp-up,HP Up,맥스업,マックスアップ,Más PS,pokeapi item #45
+item,protein,Protein,타우린,タウリン,Proteína,pokeapi item #46
+item,iron,Iron,사포닌,ブロムヘキシン,Hierro,pokeapi item #47
+item,carbos,Carbos,알칼로이드,インドメタシン,Carburante,pokeapi item #48
+item,calcium,Calcium,리보플라빈,リゾチウム,Calcio,pokeapi item #49
+item,rare-candy,Rare Candy,이상한사탕,ふしぎなアメ,Caramelo Raro,pokeapi item #50
+item,pp-up,PP Up,포인트업,ポイントアップ,Más PP,pokeapi item #51
+item,zinc,Zinc,키토산,キトサン,Zinc,pokeapi item #52
+item,pp-max,PP Max,포인트맥스,ポイントマックス,PP Máximos,pokeapi item #53
+item,health-wing,Health Feather,체력깃털,たいりょくのハネ,Pluma Vigor,pokeapi item #606
+item,muscle-wing,Muscle Feather,근력깃털,きんりょくのハネ,Pluma Músculo,pokeapi item #607
+item,resist-wing,Resist Feather,저항력깃털,ていこうのハネ,Pluma Aguante,pokeapi item #608
+item,genius-wing,Genius Feather,지력깃털,ちりょくのハネ,Pluma Intelecto,pokeapi item #609
+item,clever-wing,Clever Feather,정신력깃털,せいしんのハネ,Pluma Mente,pokeapi item #610
+item,swift-wing,Swift Feather,순발력깃털,しゅんぱつのハネ,Pluma Ímpetu,pokeapi item #611
+item,ability-capsule,Ability Capsule,특성캡슐,とくせいカプセル,Cáps. Habilidad,pokeapi item #685
+item,health-candy,Health Candy,기력의사탕,げんきのアメ,Caramelo Vigor,pokeapi item #1040
+item,mighty-candy,Mighty Candy,힘의사탕,ちからのアメ,Caramelo Músculo,pokeapi item #1041
+item,tough-candy,Tough Candy,수비의사탕,まもりのアメ,Caramelo Aguante,pokeapi item #1042
+item,smart-candy,Smart Candy,지식의사탕,ちしきのアメ,Caramelo Intelecto,pokeapi item #1043
+item,courage-candy,Courage Candy,마음의사탕,こころのアメ,Caramelo Mente,pokeapi item #1044
+item,quick-candy,Quick Candy,속도의사탕,はやさのアメ,Caramelo Ímpetu,pokeapi item #1045
+item,health-candy-l,Health Candy L,기력의사탕L,げんきのアメＬ,Caramelo Vigor +,pokeapi item #1046
+item,mighty-candy-l,Mighty Candy L,힘의사탕L,ちからのアメＬ,Caramelo Músculo +,pokeapi item #1047
+item,tough-candy-l,Tough Candy L,수비의사탕L,まもりのアメＬ,Caramelo Aguante +,pokeapi item #1048
+item,smart-candy-l,Smart Candy L,지식의사탕L,ちしきのアメＬ,Caramelo Intelecto +,pokeapi item #1049
+item,courage-candy-l,Courage Candy L,마음의사탕L,こころのアメＬ,Caramelo Mente +,pokeapi item #1050
+item,quick-candy-l,Quick Candy L,속도의사탕L,はやさのアメＬ,Caramelo Ímpetu +,pokeapi item #1051
+item,health-candy-xl,Health Candy XL,기력의사탕XL,げんきのアメＸＬ,Caramelo Vigor ++,pokeapi item #1052
+item,mighty-candy-xl,Mighty Candy XL,힘의사탕XL,ちからのアメＸＬ,Caramelo Músculo ++,pokeapi item #1053
+item,tough-candy-xl,Tough Candy XL,수비의사탕XL,まもりのアメＸＬ,Caramelo Aguante ++,pokeapi item #1054
+item,smart-candy-xl,Smart Candy XL,지식의사탕XL,ちしきのアメＸＬ,Caramelo Intelecto ++,pokeapi item #1055
+item,courage-candy-xl,Courage Candy XL,마음의사탕XL,こころのアメＸＬ,Caramelo Mente ++,pokeapi item #1056
+item,quick-candy-xl,Quick Candy XL,속도의사탕XL,はやさのアメＸＬ,Caramelo Ímpetu ++,pokeapi item #1057
+item,exp-candy-xs,Exp. Candy XS,경험사탕XS,けいけんアメＸＳ,Caramelo Exp. XS,pokeapi item #1182
+item,exp-candy-s,Exp. Candy S,경험사탕S,けいけんアメＳ,Caramelo Exp. S,pokeapi item #1183
+item,exp-candy-m,Exp. Candy M,경험사탕M,けいけんアメＭ,Caramelo Exp. M,pokeapi item #1184
+item,exp-candy-l,Exp. Candy L,경험사탕L,けいけんアメＬ,Caramelo Exp. L,pokeapi item #1185
+item,exp-candy-xl,Exp. Candy XL,경험사탕XL,けいけんアメＸＬ,Caramelo Exp. XL,pokeapi item #1186
+item,dynamax-candy,Dynamax Candy,다이맥스사탕,ダイマックスアメ,Caramelo Dinamax,pokeapi item #1187
+item,ability-patch,Ability Patch,특성패치,とくせいパッチ,Parche Habilidad,pokeapi item #1657
+item,health-mochi,Health Mochi,체력떡,たいりょくのもち,Mochi Vigor,pokeapi item #2112
+item,muscle-mochi,Muscle Mochi,근력떡,きんりょくのもち,Mochi Músculo,pokeapi item #2113
+item,resist-mochi,Resist Mochi,저항력떡,ていこうのもち,Mochi Aguante,pokeapi item #2114
+item,genius-mochi,Genius Mochi,지력떡,ちりょくのもち,Mochi Intelecto,pokeapi item #2115
+item,clever-mochi,Clever Mochi,정신력떡,せいしんのもち,Mochi Mente,pokeapi item #2116
+item,swift-mochi,Swift Mochi,순발력떡,しゅんぱつのもち,Mochi Ímpetu,pokeapi item #2117
+item,guard-spec,Guard Spec.,이펙트가드,エフェクトガード,Protección X,pokeapi item #55
+item,dire-hit,Dire Hit,크리티컬커터,クリティカット,Crítico X,pokeapi item #56
+item,x-attack,X Attack,플러스파워,プラスパワー,Ataque X,pokeapi item #57
+item,x-defense,X Defense,디펜드업,ディフェンダー,Defensa X,pokeapi item #58
+item,x-speed,X Speed,스피드업,スピーダー,Velocidad X,pokeapi item #59
+item,x-accuracy,X Accuracy,잘-맞히기,ヨクアタール,Precisión X,pokeapi item #60
+item,x-sp-atk,X Sp. Atk,스페셜업,スペシャルアップ,At. Especial X,pokeapi item #61
+item,x-sp-def,X Sp. Def,스페셜가드,スペシャルガード,Def. Especial X,pokeapi item #62
+item,max-mushrooms,Max Mushrooms,다이버섯,ダイキノコ,Maxiseta,pokeapi item #1631
+item,poke-doll,Poké Doll,삐삐인형,ピッピにんぎょう,Poké Muñeco,pokeapi item #63
+item,fluffy-tail,Fluffy Tail,에나비꼬리,エネコのシッポ,Cola Skitty,pokeapi item #64
+item,black-flute,Black Flute,검정비드로,くろいビードロ,Flauta Negra,pokeapi item #68
+item,white-flute,White Flute,하양비드로,しろいビードロ,Flauta Blanca,pokeapi item #69
+item,super-repel,Super Repel,실버스프레이,シルバースプレー,Superrepelente,pokeapi item #76
+item,max-repel,Max Repel,골드스프레이,ゴールドスプレー,Repelente Máximo,pokeapi item #77
+item,escape-rope,Escape Rope,동굴탈출로프,あなぬけのヒモ,Cuerda Huida,pokeapi item #78
+item,repel,Repel,벌레회피스프레이,むしよけスプレー,Repelente,pokeapi item #79
+item,poke-toy,Poké Toy,포켓풀,ポケじゃらし,Pokéseñuelo,pokeapi item #618
+item,lure,Lure,벌레유인코롱,むしよせコロン,Colonia,pokeapi item #1036
+item,super-lure,Super Lure,실버코롱,シルバーコロン,Supercolonia,pokeapi item #1037
+item,max-lure,Max Lure,골드코롱,ゴールドコロン,Colonia Máxima,pokeapi item #1038
+item,master-ball,Master Ball,마스터볼,マスターボール,Master Ball,pokeapi item #1
+item,ultra-ball,Ultra Ball,하이퍼볼,ハイパーボール,Ultra Ball,pokeapi item #2
+item,great-ball,Great Ball,슈퍼볼,スーパーボール,Super Ball,pokeapi item #3
+item,poke-ball,Poké Ball,몬스터볼,モンスターボール,Poké Ball,pokeapi item #4
+item,safari-ball,Safari Ball,사파리볼,サファリボール,Safari Ball,pokeapi item #5
+item,park-ball,Park Ball,파크볼,パークボール,Parque Ball,pokeapi item #456
+item,sport-ball,Sport Ball,컴퍼티션볼,コンペボール,Competi Ball,pokeapi item #457
+item,lastrange-ball,Strange Ball,스트레인지볼,ストレンジボール,Extraña Ball,pokeapi item #2219
+item,laheavy-ball,Heavy Ball,헤비볼,ヘビーボール,Peso Ball,pokeapi item #2223
+item,laleaden-ball,Leaden Ball,메가톤볼,メガトンボール,Kilo Ball,pokeapi item #2224
+item,lagigaton-ball,Gigaton Ball,기가톤볼,ギガトンボール,Quintal Ball,pokeapi item #2225
+item,lafeather-ball,Feather Ball,페더볼,フェザーボール,Pluma Ball,pokeapi item #2226
+item,lawing-ball,Wing Ball,윙볼,ウイングボール,Ala Ball,pokeapi item #2227
+item,lajet-ball,Jet Ball,제트볼,ジェットボール,Aero Ball,pokeapi item #2228
+item,laorigin-ball,Origin Ball,오리진볼,オリジンボール,Origen Ball,pokeapi item #2229
+item,net-ball,Net Ball,네트볼,ネットボール,Malla Ball,pokeapi item #6
+item,dive-ball,Dive Ball,다이브볼,ダイブボール,Buceo Ball,pokeapi item #7
+item,nest-ball,Nest Ball,네스트볼,ネストボール,Nido Ball,pokeapi item #8
+item,repeat-ball,Repeat Ball,리피트볼,リピートボール,Acopio Ball,pokeapi item #9
+item,timer-ball,Timer Ball,타이머볼,タイマーボール,Turno Ball,pokeapi item #10
+item,luxury-ball,Luxury Ball,럭셔리볼,ゴージャスボール,Lujo Ball,pokeapi item #11
+item,premier-ball,Premier Ball,프리미어볼,プレミアボール,Honor Ball,pokeapi item #12
+item,dusk-ball,Dusk Ball,다크볼,ダークボール,Ocaso Ball,pokeapi item #13
+item,heal-ball,Heal Ball,힐볼,ヒールボール,Sana Ball,pokeapi item #14
+item,quick-ball,Quick Ball,퀵볼,クイックボール,Veloz Ball,pokeapi item #15
+item,cherish-ball,Cherish Ball,프레셔스볼,プレシャスボール,Gloria Ball,pokeapi item #16
+item,dream-ball,Dream Ball,드림볼,ドリームボール,Ensueño Ball,pokeapi item #617
+item,beast-ball,Beast Ball,울트라볼,ウルトラボール,Ente Ball,pokeapi item #887
+item,cheri-berry,Cheri Berry,버치열매,クラボのみ,Baya Zreza,pokeapi item #126
+item,chesto-berry,Chesto Berry,유루열매,カゴのみ,Baya Atania,pokeapi item #127
+item,pecha-berry,Pecha Berry,복슝열매,モモンのみ,Baya Meloc,pokeapi item #128
+item,rawst-berry,Rawst Berry,복분열매,チーゴのみ,Baya Safre,pokeapi item #129
+item,aspear-berry,Aspear Berry,배리열매,ナナシのみ,Baya Perasi,pokeapi item #130
+item,leppa-berry,Leppa Berry,과사열매,ヒメリのみ,Baya Zanama,pokeapi item #131
+item,oran-berry,Oran Berry,오랭열매,オレンのみ,Baya Aranja,pokeapi item #132
+item,persim-berry,Persim Berry,시몬열매,キーのみ,Baya Caquic,pokeapi item #133
+item,lum-berry,Lum Berry,리샘열매,ラムのみ,Baya Ziuela,pokeapi item #134
+item,sitrus-berry,Sitrus Berry,자뭉열매,オボンのみ,Baya Zidra,pokeapi item #135
+item,figy-berry,Figy Berry,무화열매,フィラのみ,Baya Higog,pokeapi item #136
+item,wiki-berry,Wiki Berry,위키열매,ウイのみ,Baya Wiki,pokeapi item #137
+item,mago-berry,Mago Berry,마고열매,マゴのみ,Baya Ango,pokeapi item #138
+item,aguav-berry,Aguav Berry,아바열매,バンジのみ,Baya Guaya,pokeapi item #139
+item,iapapa-berry,Iapapa Berry,파야열매,イアのみ,Baya Pabaya,pokeapi item #140
+item,enigma-berry,Enigma Berry,의문열매,ナゾのみ,Baya Enigma,pokeapi item #185
+item,jaboca-berry,Jaboca Berry,자보열매,ジャポのみ,Baya Jaboca,pokeapi item #188
+item,rowap-berry,Rowap Berry,애터열매,レンブのみ,Baya Magua,pokeapi item #189
+item,kee-berry,Kee Berry,악키열매,アッキのみ,Baya Biglia,pokeapi item #724
+item,maranga-berry,Maranga Berry,타라프열매,タラプのみ,Baya Maranga,pokeapi item #725
+pokemon,bulbasaur,Bulbasaur,이상해씨,フシギダネ,Bulbasaur,pokeapi pokemon #1
+pokemon,ivysaur,Ivysaur,이상해풀,フシギソウ,Ivysaur,pokeapi pokemon #2
+pokemon,venusaur,Venusaur,이상해꽃,フシギバナ,Venusaur,pokeapi pokemon #3
+pokemon,charmander,Charmander,파이리,ヒトカゲ,Charmander,pokeapi pokemon #4
+pokemon,charmeleon,Charmeleon,리자드,リザード,Charmeleon,pokeapi pokemon #5
+pokemon,charizard,Charizard,리자몽,リザードン,Charizard,pokeapi pokemon #6
+pokemon,squirtle,Squirtle,꼬부기,ゼニガメ,Squirtle,pokeapi pokemon #7
+pokemon,wartortle,Wartortle,어니부기,カメール,Wartortle,pokeapi pokemon #8
+pokemon,blastoise,Blastoise,거북왕,カメックス,Blastoise,pokeapi pokemon #9
+pokemon,caterpie,Caterpie,캐터피,キャタピー,Caterpie,pokeapi pokemon #10
+pokemon,metapod,Metapod,단데기,トランセル,Metapod,pokeapi pokemon #11
+pokemon,butterfree,Butterfree,버터플,バタフリー,Butterfree,pokeapi pokemon #12
+pokemon,weedle,Weedle,뿔충이,ビードル,Weedle,pokeapi pokemon #13
+pokemon,kakuna,Kakuna,딱충이,コクーン,Kakuna,pokeapi pokemon #14
+pokemon,beedrill,Beedrill,독침붕,スピアー,Beedrill,pokeapi pokemon #15
+pokemon,pidgey,Pidgey,구구,ポッポ,Pidgey,pokeapi pokemon #16
+pokemon,pidgeotto,Pidgeotto,피죤,ピジョン,Pidgeotto,pokeapi pokemon #17
+pokemon,pidgeot,Pidgeot,피죤투,ピジョット,Pidgeot,pokeapi pokemon #18
+pokemon,rattata,Rattata,꼬렛,コラッタ,Rattata,pokeapi pokemon #19
+pokemon,raticate,Raticate,레트라,ラッタ,Raticate,pokeapi pokemon #20
+pokemon,spearow,Spearow,깨비참,オニスズメ,Spearow,pokeapi pokemon #21
+pokemon,fearow,Fearow,깨비드릴조,オニドリル,Fearow,pokeapi pokemon #22
+pokemon,ekans,Ekans,아보,アーボ,Ekans,pokeapi pokemon #23
+pokemon,arbok,Arbok,아보크,アーボック,Arbok,pokeapi pokemon #24
+pokemon,pikachu,Pikachu,피카츄,ピカチュウ,Pikachu,pokeapi pokemon #25
+pokemon,raichu,Raichu,라이츄,ライチュウ,Raichu,pokeapi pokemon #26
+pokemon,sandshrew,Sandshrew,모래두지,サンド,Sandshrew,pokeapi pokemon #27
+pokemon,sandslash,Sandslash,고지,サンドパン,Sandslash,pokeapi pokemon #28
+pokemon,nidoran-f,Nidoran♀,니드런♀,ニドラン♀,Nidoran♀,pokeapi pokemon #29
+pokemon,nidorina,Nidorina,니드리나,ニドリーナ,Nidorina,pokeapi pokemon #30
+pokemon,nidoqueen,Nidoqueen,니드퀸,ニドクイン,Nidoqueen,pokeapi pokemon #31
+pokemon,nidoran-m,Nidoran♂,니드런♂,ニドラン♂,Nidoran♂,pokeapi pokemon #32
+pokemon,nidorino,Nidorino,니드리노,ニドリーノ,Nidorino,pokeapi pokemon #33
+pokemon,nidoking,Nidoking,니드킹,ニドキング,Nidoking,pokeapi pokemon #34
+pokemon,clefairy,Clefairy,삐삐,ピッピ,Clefairy,pokeapi pokemon #35
+pokemon,clefable,Clefable,픽시,ピクシー,Clefable,pokeapi pokemon #36
+pokemon,vulpix,Vulpix,식스테일,ロコン,Vulpix,pokeapi pokemon #37
+pokemon,ninetales,Ninetales,나인테일,キュウコン,Ninetales,pokeapi pokemon #38
+pokemon,jigglypuff,Jigglypuff,푸린,プリン,Jigglypuff,pokeapi pokemon #39
+pokemon,wigglytuff,Wigglytuff,푸크린,プクリン,Wigglytuff,pokeapi pokemon #40
+pokemon,zubat,Zubat,주뱃,ズバット,Zubat,pokeapi pokemon #41
+pokemon,golbat,Golbat,골뱃,ゴルバット,Golbat,pokeapi pokemon #42
+pokemon,oddish,Oddish,뚜벅쵸,ナゾノクサ,Oddish,pokeapi pokemon #43
+pokemon,gloom,Gloom,냄새꼬,クサイハナ,Gloom,pokeapi pokemon #44
+pokemon,vileplume,Vileplume,라플레시아,ラフレシア,Vileplume,pokeapi pokemon #45
+pokemon,paras,Paras,파라스,パラス,Paras,pokeapi pokemon #46
+pokemon,parasect,Parasect,파라섹트,パラセクト,Parasect,pokeapi pokemon #47
+pokemon,venonat,Venonat,콘팡,コンパン,Venonat,pokeapi pokemon #48
+pokemon,venomoth,Venomoth,도나리,モルフォン,Venomoth,pokeapi pokemon #49
+pokemon,diglett,Diglett,디그다,ディグダ,Diglett,pokeapi pokemon #50
+pokemon,dugtrio,Dugtrio,닥트리오,ダグトリオ,Dugtrio,pokeapi pokemon #51
+pokemon,meowth,Meowth,나옹,ニャース,Meowth,pokeapi pokemon #52
+pokemon,persian,Persian,페르시온,ペルシアン,Persian,pokeapi pokemon #53
+pokemon,psyduck,Psyduck,고라파덕,コダック,Psyduck,pokeapi pokemon #54
+pokemon,golduck,Golduck,골덕,ゴルダック,Golduck,pokeapi pokemon #55
+pokemon,mankey,Mankey,망키,マンキー,Mankey,pokeapi pokemon #56
+pokemon,primeape,Primeape,성원숭,オコリザル,Primeape,pokeapi pokemon #57
+pokemon,growlithe,Growlithe,가디,ガーディ,Growlithe,pokeapi pokemon #58
+pokemon,arcanine,Arcanine,윈디,ウインディ,Arcanine,pokeapi pokemon #59
+pokemon,poliwag,Poliwag,발챙이,ニョロモ,Poliwag,pokeapi pokemon #60
+pokemon,poliwhirl,Poliwhirl,슈륙챙이,ニョロゾ,Poliwhirl,pokeapi pokemon #61
+pokemon,poliwrath,Poliwrath,강챙이,ニョロボン,Poliwrath,pokeapi pokemon #62
+pokemon,abra,Abra,캐이시,ケーシィ,Abra,pokeapi pokemon #63
+pokemon,kadabra,Kadabra,윤겔라,ユンゲラー,Kadabra,pokeapi pokemon #64
+pokemon,alakazam,Alakazam,후딘,フーディン,Alakazam,pokeapi pokemon #65
+pokemon,machop,Machop,알통몬,ワンリキー,Machop,pokeapi pokemon #66
+pokemon,machoke,Machoke,근육몬,ゴーリキー,Machoke,pokeapi pokemon #67
+pokemon,machamp,Machamp,괴력몬,カイリキー,Machamp,pokeapi pokemon #68
+pokemon,bellsprout,Bellsprout,모다피,マダツボミ,Bellsprout,pokeapi pokemon #69
+pokemon,weepinbell,Weepinbell,우츠동,ウツドン,Weepinbell,pokeapi pokemon #70
+pokemon,victreebel,Victreebel,우츠보트,ウツボット,Victreebel,pokeapi pokemon #71
+pokemon,tentacool,Tentacool,왕눈해,メノクラゲ,Tentacool,pokeapi pokemon #72
+pokemon,tentacruel,Tentacruel,독파리,ドククラゲ,Tentacruel,pokeapi pokemon #73
+pokemon,geodude,Geodude,꼬마돌,イシツブテ,Geodude,pokeapi pokemon #74
+pokemon,graveler,Graveler,데구리,ゴローン,Graveler,pokeapi pokemon #75
+pokemon,golem,Golem,딱구리,ゴローニャ,Golem,pokeapi pokemon #76
+pokemon,ponyta,Ponyta,포니타,ポニータ,Ponyta,pokeapi pokemon #77
+pokemon,rapidash,Rapidash,날쌩마,ギャロップ,Rapidash,pokeapi pokemon #78
+pokemon,slowpoke,Slowpoke,야돈,ヤドン,Slowpoke,pokeapi pokemon #79
+pokemon,slowbro,Slowbro,야도란,ヤドラン,Slowbro,pokeapi pokemon #80
+pokemon,magnemite,Magnemite,코일,コイル,Magnemite,pokeapi pokemon #81
+pokemon,magneton,Magneton,레어코일,レアコイル,Magneton,pokeapi pokemon #82
+pokemon,farfetchd,Farfetch’d,파오리,カモネギ,Farfetch’d,pokeapi pokemon #83
+pokemon,doduo,Doduo,두두,ドードー,Doduo,pokeapi pokemon #84
+pokemon,dodrio,Dodrio,두트리오,ドードリオ,Dodrio,pokeapi pokemon #85
+pokemon,seel,Seel,쥬쥬,パウワウ,Seel,pokeapi pokemon #86
+pokemon,dewgong,Dewgong,쥬레곤,ジュゴン,Dewgong,pokeapi pokemon #87
+pokemon,grimer,Grimer,질퍽이,ベトベター,Grimer,pokeapi pokemon #88
+pokemon,muk,Muk,질뻐기,ベトベトン,Muk,pokeapi pokemon #89
+pokemon,shellder,Shellder,셀러,シェルダー,Shellder,pokeapi pokemon #90
+pokemon,cloyster,Cloyster,파르셀,パルシェン,Cloyster,pokeapi pokemon #91
+pokemon,gastly,Gastly,고오스,ゴース,Gastly,pokeapi pokemon #92
+pokemon,haunter,Haunter,고우스트,ゴースト,Haunter,pokeapi pokemon #93
+pokemon,gengar,Gengar,팬텀,ゲンガー,Gengar,pokeapi pokemon #94
+pokemon,onix,Onix,롱스톤,イワーク,Onix,pokeapi pokemon #95
+pokemon,drowzee,Drowzee,슬리프,スリープ,Drowzee,pokeapi pokemon #96
+pokemon,hypno,Hypno,슬리퍼,スリーパー,Hypno,pokeapi pokemon #97
+pokemon,krabby,Krabby,크랩,クラブ,Krabby,pokeapi pokemon #98
+pokemon,kingler,Kingler,킹크랩,キングラー,Kingler,pokeapi pokemon #99
+pokemon,voltorb,Voltorb,찌리리공,ビリリダマ,Voltorb,pokeapi pokemon #100
+pokemon,electrode,Electrode,붐볼,マルマイン,Electrode,pokeapi pokemon #101
+pokemon,exeggcute,Exeggcute,아라리,タマタマ,Exeggcute,pokeapi pokemon #102
+pokemon,exeggutor,Exeggutor,나시,ナッシー,Exeggutor,pokeapi pokemon #103
+pokemon,cubone,Cubone,탕구리,カラカラ,Cubone,pokeapi pokemon #104
+pokemon,marowak,Marowak,텅구리,ガラガラ,Marowak,pokeapi pokemon #105
+pokemon,hitmonlee,Hitmonlee,시라소몬,サワムラー,Hitmonlee,pokeapi pokemon #106
+pokemon,hitmonchan,Hitmonchan,홍수몬,エビワラー,Hitmonchan,pokeapi pokemon #107
+pokemon,lickitung,Lickitung,내루미,ベロリンガ,Lickitung,pokeapi pokemon #108
+pokemon,koffing,Koffing,또가스,ドガース,Koffing,pokeapi pokemon #109
+pokemon,weezing,Weezing,또도가스,マタドガス,Weezing,pokeapi pokemon #110
+pokemon,rhyhorn,Rhyhorn,뿔카노,サイホーン,Rhyhorn,pokeapi pokemon #111
+pokemon,rhydon,Rhydon,코뿌리,サイドン,Rhydon,pokeapi pokemon #112
+pokemon,chansey,Chansey,럭키,ラッキー,Chansey,pokeapi pokemon #113
+pokemon,tangela,Tangela,덩쿠리,モンジャラ,Tangela,pokeapi pokemon #114
+pokemon,kangaskhan,Kangaskhan,캥카,ガルーラ,Kangaskhan,pokeapi pokemon #115
+pokemon,horsea,Horsea,쏘드라,タッツー,Horsea,pokeapi pokemon #116
+pokemon,seadra,Seadra,시드라,シードラ,Seadra,pokeapi pokemon #117
+pokemon,goldeen,Goldeen,콘치,トサキント,Goldeen,pokeapi pokemon #118
+pokemon,seaking,Seaking,왕콘치,アズマオウ,Seaking,pokeapi pokemon #119
+pokemon,staryu,Staryu,별가사리,ヒトデマン,Staryu,pokeapi pokemon #120
+pokemon,starmie,Starmie,아쿠스타,スターミー,Starmie,pokeapi pokemon #121
+pokemon,mr-mime,Mr. Mime,마임맨,バリヤード,Mr. Mime,pokeapi pokemon #122
+pokemon,scyther,Scyther,스라크,ストライク,Scyther,pokeapi pokemon #123
+pokemon,jynx,Jynx,루주라,ルージュラ,Jynx,pokeapi pokemon #124
+pokemon,electabuzz,Electabuzz,에레브,エレブー,Electabuzz,pokeapi pokemon #125
+pokemon,magmar,Magmar,마그마,ブーバー,Magmar,pokeapi pokemon #126
+pokemon,pinsir,Pinsir,쁘사이저,カイロス,Pinsir,pokeapi pokemon #127
+pokemon,tauros,Tauros,켄타로스,ケンタロス,Tauros,pokeapi pokemon #128
+pokemon,magikarp,Magikarp,잉어킹,コイキング,Magikarp,pokeapi pokemon #129
+pokemon,gyarados,Gyarados,갸라도스,ギャラドス,Gyarados,pokeapi pokemon #130
+pokemon,lapras,Lapras,라프라스,ラプラス,Lapras,pokeapi pokemon #131
+pokemon,ditto,Ditto,메타몽,メタモン,Ditto,pokeapi pokemon #132
+pokemon,eevee,Eevee,이브이,イーブイ,Eevee,pokeapi pokemon #133
+pokemon,vaporeon,Vaporeon,샤미드,シャワーズ,Vaporeon,pokeapi pokemon #134
+pokemon,jolteon,Jolteon,쥬피썬더,サンダース,Jolteon,pokeapi pokemon #135
+pokemon,flareon,Flareon,부스터,ブースター,Flareon,pokeapi pokemon #136
+pokemon,porygon,Porygon,폴리곤,ポリゴン,Porygon,pokeapi pokemon #137
+pokemon,omanyte,Omanyte,암나이트,オムナイト,Omanyte,pokeapi pokemon #138
+pokemon,omastar,Omastar,암스타,オムスター,Omastar,pokeapi pokemon #139
+pokemon,kabuto,Kabuto,투구,カブト,Kabuto,pokeapi pokemon #140
+pokemon,kabutops,Kabutops,투구푸스,カブトプス,Kabutops,pokeapi pokemon #141
+pokemon,aerodactyl,Aerodactyl,프테라,プテラ,Aerodactyl,pokeapi pokemon #142
+pokemon,snorlax,Snorlax,잠만보,カビゴン,Snorlax,pokeapi pokemon #143
+pokemon,articuno,Articuno,프리져,フリーザー,Articuno,pokeapi pokemon #144
+pokemon,zapdos,Zapdos,썬더,サンダー,Zapdos,pokeapi pokemon #145
+pokemon,moltres,Moltres,파이어,ファイヤー,Moltres,pokeapi pokemon #146
+pokemon,dratini,Dratini,미뇽,ミニリュウ,Dratini,pokeapi pokemon #147
+pokemon,dragonair,Dragonair,신뇽,ハクリュー,Dragonair,pokeapi pokemon #148
+pokemon,dragonite,Dragonite,망나뇽,カイリュー,Dragonite,pokeapi pokemon #149
+pokemon,mewtwo,Mewtwo,뮤츠,ミュウツー,Mewtwo,pokeapi pokemon #150
+pokemon,mew,Mew,뮤,ミュウ,Mew,pokeapi pokemon #151
+pokemon,chikorita,Chikorita,치코리타,チコリータ,Chikorita,pokeapi pokemon #152
+pokemon,bayleef,Bayleef,베이리프,ベイリーフ,Bayleef,pokeapi pokemon #153
+pokemon,meganium,Meganium,메가니움,メガニウム,Meganium,pokeapi pokemon #154
+pokemon,cyndaquil,Cyndaquil,브케인,ヒノアラシ,Cyndaquil,pokeapi pokemon #155
+pokemon,quilava,Quilava,마그케인,マグマラシ,Quilava,pokeapi pokemon #156
+pokemon,typhlosion,Typhlosion,블레이범,バクフーン,Typhlosion,pokeapi pokemon #157
+pokemon,totodile,Totodile,리아코,ワニノコ,Totodile,pokeapi pokemon #158
+pokemon,croconaw,Croconaw,엘리게이,アリゲイツ,Croconaw,pokeapi pokemon #159
+pokemon,feraligatr,Feraligatr,장크로다일,オーダイル,Feraligatr,pokeapi pokemon #160
+pokemon,sentret,Sentret,꼬리선,オタチ,Sentret,pokeapi pokemon #161
+pokemon,furret,Furret,다꼬리,オオタチ,Furret,pokeapi pokemon #162
+pokemon,hoothoot,Hoothoot,부우부,ホーホー,Hoothoot,pokeapi pokemon #163
+pokemon,noctowl,Noctowl,야부엉,ヨルノズク,Noctowl,pokeapi pokemon #164
+pokemon,ledyba,Ledyba,레디바,レディバ,Ledyba,pokeapi pokemon #165
+pokemon,ledian,Ledian,레디안,レディアン,Ledian,pokeapi pokemon #166
+pokemon,spinarak,Spinarak,페이검,イトマル,Spinarak,pokeapi pokemon #167
+pokemon,ariados,Ariados,아리아도스,アリアドス,Ariados,pokeapi pokemon #168
+pokemon,crobat,Crobat,크로뱃,クロバット,Crobat,pokeapi pokemon #169
+pokemon,chinchou,Chinchou,초라기,チョンチー,Chinchou,pokeapi pokemon #170
+pokemon,lanturn,Lanturn,랜턴,ランターン,Lanturn,pokeapi pokemon #171
+pokemon,pichu,Pichu,피츄,ピチュー,Pichu,pokeapi pokemon #172
+pokemon,cleffa,Cleffa,삐,ピィ,Cleffa,pokeapi pokemon #173
+pokemon,igglybuff,Igglybuff,푸푸린,ププリン,Igglybuff,pokeapi pokemon #174
+pokemon,togepi,Togepi,토게피,トゲピー,Togepi,pokeapi pokemon #175
+pokemon,togetic,Togetic,토게틱,トゲチック,Togetic,pokeapi pokemon #176
+pokemon,natu,Natu,네이티,ネイティ,Natu,pokeapi pokemon #177
+pokemon,xatu,Xatu,네이티오,ネイティオ,Xatu,pokeapi pokemon #178
+pokemon,mareep,Mareep,메리프,メリープ,Mareep,pokeapi pokemon #179
+pokemon,flaaffy,Flaaffy,보송송,モココ,Flaaffy,pokeapi pokemon #180
+pokemon,ampharos,Ampharos,전룡,デンリュウ,Ampharos,pokeapi pokemon #181
+pokemon,bellossom,Bellossom,아르코,キレイハナ,Bellossom,pokeapi pokemon #182
+pokemon,marill,Marill,마릴,マリル,Marill,pokeapi pokemon #183
+pokemon,azumarill,Azumarill,마릴리,マリルリ,Azumarill,pokeapi pokemon #184
+pokemon,sudowoodo,Sudowoodo,꼬지모,ウソッキー,Sudowoodo,pokeapi pokemon #185
+pokemon,politoed,Politoed,왕구리,ニョロトノ,Politoed,pokeapi pokemon #186
+pokemon,hoppip,Hoppip,통통코,ハネッコ,Hoppip,pokeapi pokemon #187
+pokemon,skiploom,Skiploom,두코,ポポッコ,Skiploom,pokeapi pokemon #188
+pokemon,jumpluff,Jumpluff,솜솜코,ワタッコ,Jumpluff,pokeapi pokemon #189
+pokemon,aipom,Aipom,에이팜,エイパム,Aipom,pokeapi pokemon #190
+pokemon,sunkern,Sunkern,해너츠,ヒマナッツ,Sunkern,pokeapi pokemon #191
+pokemon,sunflora,Sunflora,해루미,キマワリ,Sunflora,pokeapi pokemon #192
+pokemon,yanma,Yanma,왕자리,ヤンヤンマ,Yanma,pokeapi pokemon #193
+pokemon,wooper,Wooper,우파,ウパー,Wooper,pokeapi pokemon #194
+pokemon,quagsire,Quagsire,누오,ヌオー,Quagsire,pokeapi pokemon #195
+pokemon,espeon,Espeon,에브이,エーフィ,Espeon,pokeapi pokemon #196
+pokemon,umbreon,Umbreon,블래키,ブラッキー,Umbreon,pokeapi pokemon #197
+pokemon,murkrow,Murkrow,니로우,ヤミカラス,Murkrow,pokeapi pokemon #198
+pokemon,slowking,Slowking,야도킹,ヤドキング,Slowking,pokeapi pokemon #199
+pokemon,misdreavus,Misdreavus,무우마,ムウマ,Misdreavus,pokeapi pokemon #200
+pokemon,unown,Unown,안농,アンノーン,Unown,pokeapi pokemon #201
+pokemon,wobbuffet,Wobbuffet,마자용,ソーナンス,Wobbuffet,pokeapi pokemon #202
+pokemon,girafarig,Girafarig,키링키,キリンリキ,Girafarig,pokeapi pokemon #203
+pokemon,pineco,Pineco,피콘,クヌギダマ,Pineco,pokeapi pokemon #204
+pokemon,forretress,Forretress,쏘콘,フォレトス,Forretress,pokeapi pokemon #205
+pokemon,dunsparce,Dunsparce,노고치,ノコッチ,Dunsparce,pokeapi pokemon #206
+pokemon,gligar,Gligar,글라이거,グライガー,Gligar,pokeapi pokemon #207
+pokemon,steelix,Steelix,강철톤,ハガネール,Steelix,pokeapi pokemon #208
+pokemon,snubbull,Snubbull,블루,ブルー,Snubbull,pokeapi pokemon #209
+pokemon,granbull,Granbull,그랑블루,グランブル,Granbull,pokeapi pokemon #210
+pokemon,qwilfish,Qwilfish,침바루,ハリーセン,Qwilfish,pokeapi pokemon #211
+pokemon,scizor,Scizor,핫삼,ハッサム,Scizor,pokeapi pokemon #212
+pokemon,shuckle,Shuckle,단단지,ツボツボ,Shuckle,pokeapi pokemon #213
+pokemon,heracross,Heracross,헤라크로스,ヘラクロス,Heracross,pokeapi pokemon #214
+pokemon,sneasel,Sneasel,포푸니,ニューラ,Sneasel,pokeapi pokemon #215
+pokemon,teddiursa,Teddiursa,깜지곰,ヒメグマ,Teddiursa,pokeapi pokemon #216
+pokemon,ursaring,Ursaring,링곰,リングマ,Ursaring,pokeapi pokemon #217
+pokemon,slugma,Slugma,마그마그,マグマッグ,Slugma,pokeapi pokemon #218
+pokemon,magcargo,Magcargo,마그카르고,マグカルゴ,Magcargo,pokeapi pokemon #219
+pokemon,swinub,Swinub,꾸꾸리,ウリムー,Swinub,pokeapi pokemon #220
+pokemon,piloswine,Piloswine,메꾸리,イノムー,Piloswine,pokeapi pokemon #221
+pokemon,corsola,Corsola,코산호,サニーゴ,Corsola,pokeapi pokemon #222
+pokemon,remoraid,Remoraid,총어,テッポウオ,Remoraid,pokeapi pokemon #223
+pokemon,octillery,Octillery,대포무노,オクタン,Octillery,pokeapi pokemon #224
+pokemon,delibird,Delibird,딜리버드,デリバード,Delibird,pokeapi pokemon #225
+pokemon,mantine,Mantine,만타인,マンタイン,Mantine,pokeapi pokemon #226
+pokemon,skarmory,Skarmory,무장조,エアームド,Skarmory,pokeapi pokemon #227
+pokemon,houndour,Houndour,델빌,デルビル,Houndour,pokeapi pokemon #228
+pokemon,houndoom,Houndoom,헬가,ヘルガー,Houndoom,pokeapi pokemon #229
+pokemon,kingdra,Kingdra,킹드라,キングドラ,Kingdra,pokeapi pokemon #230
+pokemon,phanpy,Phanpy,코코리,ゴマゾウ,Phanpy,pokeapi pokemon #231
+pokemon,donphan,Donphan,코리갑,ドンファン,Donphan,pokeapi pokemon #232
+pokemon,porygon2,Porygon2,폴리곤2,ポリゴン２,Porygon2,pokeapi pokemon #233
+pokemon,stantler,Stantler,노라키,オドシシ,Stantler,pokeapi pokemon #234
+pokemon,smeargle,Smeargle,루브도,ドーブル,Smeargle,pokeapi pokemon #235
+pokemon,tyrogue,Tyrogue,배루키,バルキー,Tyrogue,pokeapi pokemon #236
+pokemon,hitmontop,Hitmontop,카포에라,カポエラー,Hitmontop,pokeapi pokemon #237
+pokemon,smoochum,Smoochum,뽀뽀라,ムチュール,Smoochum,pokeapi pokemon #238
+pokemon,elekid,Elekid,에레키드,エレキッド,Elekid,pokeapi pokemon #239
+pokemon,magby,Magby,마그비,ブビィ,Magby,pokeapi pokemon #240
+pokemon,miltank,Miltank,밀탱크,ミルタンク,Miltank,pokeapi pokemon #241
+pokemon,blissey,Blissey,해피너스,ハピナス,Blissey,pokeapi pokemon #242
+pokemon,raikou,Raikou,라이코,ライコウ,Raikou,pokeapi pokemon #243
+pokemon,entei,Entei,앤테이,エンテイ,Entei,pokeapi pokemon #244
+pokemon,suicune,Suicune,스이쿤,スイクン,Suicune,pokeapi pokemon #245
+pokemon,larvitar,Larvitar,애버라스,ヨーギラス,Larvitar,pokeapi pokemon #246
+pokemon,pupitar,Pupitar,데기라스,サナギラス,Pupitar,pokeapi pokemon #247
+pokemon,tyranitar,Tyranitar,마기라스,バンギラス,Tyranitar,pokeapi pokemon #248
+pokemon,lugia,Lugia,루기아,ルギア,Lugia,pokeapi pokemon #249
+pokemon,ho-oh,Ho-Oh,칠색조,ホウオウ,Ho-Oh,pokeapi pokemon #250
+pokemon,celebi,Celebi,세레비,セレビィ,Celebi,pokeapi pokemon #251
+pokemon,treecko,Treecko,나무지기,キモリ,Treecko,pokeapi pokemon #252
+pokemon,grovyle,Grovyle,나무돌이,ジュプトル,Grovyle,pokeapi pokemon #253
+pokemon,sceptile,Sceptile,나무킹,ジュカイン,Sceptile,pokeapi pokemon #254
+pokemon,torchic,Torchic,아차모,アチャモ,Torchic,pokeapi pokemon #255
+pokemon,combusken,Combusken,영치코,ワカシャモ,Combusken,pokeapi pokemon #256
+pokemon,blaziken,Blaziken,번치코,バシャーモ,Blaziken,pokeapi pokemon #257
+pokemon,mudkip,Mudkip,물짱이,ミズゴロウ,Mudkip,pokeapi pokemon #258
+pokemon,marshtomp,Marshtomp,늪짱이,ヌマクロー,Marshtomp,pokeapi pokemon #259
+pokemon,swampert,Swampert,대짱이,ラグラージ,Swampert,pokeapi pokemon #260
+pokemon,poochyena,Poochyena,포챠나,ポチエナ,Poochyena,pokeapi pokemon #261
+pokemon,mightyena,Mightyena,그라에나,グラエナ,Mightyena,pokeapi pokemon #262
+pokemon,zigzagoon,Zigzagoon,지그제구리,ジグザグマ,Zigzagoon,pokeapi pokemon #263
+pokemon,linoone,Linoone,직구리,マッスグマ,Linoone,pokeapi pokemon #264
+pokemon,wurmple,Wurmple,개무소,ケムッソ,Wurmple,pokeapi pokemon #265
+pokemon,silcoon,Silcoon,실쿤,カラサリス,Silcoon,pokeapi pokemon #266
+pokemon,beautifly,Beautifly,뷰티플라이,アゲハント,Beautifly,pokeapi pokemon #267
+pokemon,cascoon,Cascoon,카스쿤,マユルド,Cascoon,pokeapi pokemon #268
+pokemon,dustox,Dustox,독케일,ドクケイル,Dustox,pokeapi pokemon #269
+pokemon,lotad,Lotad,연꽃몬,ハスボー,Lotad,pokeapi pokemon #270
+pokemon,lombre,Lombre,로토스,ハスブレロ,Lombre,pokeapi pokemon #271
+pokemon,ludicolo,Ludicolo,로파파,ルンパッパ,Ludicolo,pokeapi pokemon #272
+pokemon,seedot,Seedot,도토링,タネボー,Seedot,pokeapi pokemon #273
+pokemon,nuzleaf,Nuzleaf,잎새코,コノハナ,Nuzleaf,pokeapi pokemon #274
+pokemon,shiftry,Shiftry,다탱구,ダーテング,Shiftry,pokeapi pokemon #275
+pokemon,taillow,Taillow,테일로,スバメ,Taillow,pokeapi pokemon #276
+pokemon,swellow,Swellow,스왈로,オオスバメ,Swellow,pokeapi pokemon #277
+pokemon,wingull,Wingull,갈모매,キャモメ,Wingull,pokeapi pokemon #278
+pokemon,pelipper,Pelipper,패리퍼,ペリッパー,Pelipper,pokeapi pokemon #279
+pokemon,ralts,Ralts,랄토스,ラルトス,Ralts,pokeapi pokemon #280
+pokemon,kirlia,Kirlia,킬리아,キルリア,Kirlia,pokeapi pokemon #281
+pokemon,gardevoir,Gardevoir,가디안,サーナイト,Gardevoir,pokeapi pokemon #282
+pokemon,surskit,Surskit,비구술,アメタマ,Surskit,pokeapi pokemon #283
+pokemon,masquerain,Masquerain,비나방,アメモース,Masquerain,pokeapi pokemon #284
+pokemon,shroomish,Shroomish,버섯꼬,キノココ,Shroomish,pokeapi pokemon #285
+pokemon,breloom,Breloom,버섯모,キノガッサ,Breloom,pokeapi pokemon #286
+pokemon,slakoth,Slakoth,게을로,ナマケロ,Slakoth,pokeapi pokemon #287
+pokemon,vigoroth,Vigoroth,발바로,ヤルキモノ,Vigoroth,pokeapi pokemon #288
+pokemon,slaking,Slaking,게을킹,ケッキング,Slaking,pokeapi pokemon #289
+pokemon,nincada,Nincada,토중몬,ツチニン,Nincada,pokeapi pokemon #290
+pokemon,ninjask,Ninjask,아이스크,テッカニン,Ninjask,pokeapi pokemon #291
+pokemon,shedinja,Shedinja,껍질몬,ヌケニン,Shedinja,pokeapi pokemon #292
+pokemon,whismur,Whismur,소곤룡,ゴニョニョ,Whismur,pokeapi pokemon #293
+pokemon,loudred,Loudred,노공룡,ドゴーム,Loudred,pokeapi pokemon #294
+pokemon,exploud,Exploud,폭음룡,バクオング,Exploud,pokeapi pokemon #295
+pokemon,makuhita,Makuhita,마크탕,マクノシタ,Makuhita,pokeapi pokemon #296
+pokemon,hariyama,Hariyama,하리뭉,ハリテヤマ,Hariyama,pokeapi pokemon #297
+pokemon,azurill,Azurill,루리리,ルリリ,Azurill,pokeapi pokemon #298
+pokemon,nosepass,Nosepass,코코파스,ノズパス,Nosepass,pokeapi pokemon #299
+pokemon,skitty,Skitty,에나비,エネコ,Skitty,pokeapi pokemon #300
+pokemon,delcatty,Delcatty,델케티,エネコロロ,Delcatty,pokeapi pokemon #301
+pokemon,sableye,Sableye,깜까미,ヤミラミ,Sableye,pokeapi pokemon #302
+pokemon,mawile,Mawile,입치트,クチート,Mawile,pokeapi pokemon #303
+pokemon,aron,Aron,가보리,ココドラ,Aron,pokeapi pokemon #304
+pokemon,lairon,Lairon,갱도라,コドラ,Lairon,pokeapi pokemon #305
+pokemon,aggron,Aggron,보스로라,ボスゴドラ,Aggron,pokeapi pokemon #306
+pokemon,meditite,Meditite,요가랑,アサナン,Meditite,pokeapi pokemon #307
+pokemon,medicham,Medicham,요가램,チャーレム,Medicham,pokeapi pokemon #308
+pokemon,electrike,Electrike,썬더라이,ラクライ,Electrike,pokeapi pokemon #309
+pokemon,manectric,Manectric,썬더볼트,ライボルト,Manectric,pokeapi pokemon #310
+pokemon,plusle,Plusle,플러시,プラスル,Plusle,pokeapi pokemon #311
+pokemon,minun,Minun,마이농,マイナン,Minun,pokeapi pokemon #312
+pokemon,volbeat,Volbeat,볼비트,バルビート,Volbeat,pokeapi pokemon #313
+pokemon,illumise,Illumise,네오비트,イルミーゼ,Illumise,pokeapi pokemon #314
+pokemon,roselia,Roselia,로젤리아,ロゼリア,Roselia,pokeapi pokemon #315
+pokemon,gulpin,Gulpin,꼴깍몬,ゴクリン,Gulpin,pokeapi pokemon #316
+pokemon,swalot,Swalot,꿀꺽몬,マルノーム,Swalot,pokeapi pokemon #317
+pokemon,carvanha,Carvanha,샤프니아,キバニア,Carvanha,pokeapi pokemon #318
+pokemon,sharpedo,Sharpedo,샤크니아,サメハダー,Sharpedo,pokeapi pokemon #319
+pokemon,wailmer,Wailmer,고래왕자,ホエルコ,Wailmer,pokeapi pokemon #320
+pokemon,wailord,Wailord,고래왕,ホエルオー,Wailord,pokeapi pokemon #321
+pokemon,numel,Numel,둔타,ドンメル,Numel,pokeapi pokemon #322
+pokemon,camerupt,Camerupt,폭타,バクーダ,Camerupt,pokeapi pokemon #323
+pokemon,torkoal,Torkoal,코터스,コータス,Torkoal,pokeapi pokemon #324
+pokemon,spoink,Spoink,피그점프,バネブー,Spoink,pokeapi pokemon #325
+pokemon,grumpig,Grumpig,피그킹,ブーピッグ,Grumpig,pokeapi pokemon #326
+pokemon,spinda,Spinda,얼루기,パッチール,Spinda,pokeapi pokemon #327
+pokemon,trapinch,Trapinch,톱치,ナックラー,Trapinch,pokeapi pokemon #328
+pokemon,vibrava,Vibrava,비브라바,ビブラーバ,Vibrava,pokeapi pokemon #329
+pokemon,flygon,Flygon,플라이곤,フライゴン,Flygon,pokeapi pokemon #330
+pokemon,cacnea,Cacnea,선인왕,サボネア,Cacnea,pokeapi pokemon #331
+pokemon,cacturne,Cacturne,밤선인,ノクタス,Cacturne,pokeapi pokemon #332
+pokemon,swablu,Swablu,파비코,チルット,Swablu,pokeapi pokemon #333
+pokemon,altaria,Altaria,파비코리,チルタリス,Altaria,pokeapi pokemon #334
+pokemon,zangoose,Zangoose,쟝고,ザングース,Zangoose,pokeapi pokemon #335
+pokemon,seviper,Seviper,세비퍼,ハブネーク,Seviper,pokeapi pokemon #336
+pokemon,lunatone,Lunatone,루나톤,ルナトーン,Lunatone,pokeapi pokemon #337
+pokemon,solrock,Solrock,솔록,ソルロック,Solrock,pokeapi pokemon #338
+pokemon,barboach,Barboach,미꾸리,ドジョッチ,Barboach,pokeapi pokemon #339
+pokemon,whiscash,Whiscash,메깅,ナマズン,Whiscash,pokeapi pokemon #340
+pokemon,corphish,Corphish,가재군,ヘイガニ,Corphish,pokeapi pokemon #341
+pokemon,crawdaunt,Crawdaunt,가재장군,シザリガー,Crawdaunt,pokeapi pokemon #342
+pokemon,baltoy,Baltoy,오뚝군,ヤジロン,Baltoy,pokeapi pokemon #343
+pokemon,claydol,Claydol,점토도리,ネンドール,Claydol,pokeapi pokemon #344
+pokemon,lileep,Lileep,릴링,リリーラ,Lileep,pokeapi pokemon #345
+pokemon,cradily,Cradily,릴리요,ユレイドル,Cradily,pokeapi pokemon #346
+pokemon,anorith,Anorith,아노딥스,アノプス,Anorith,pokeapi pokemon #347
+pokemon,armaldo,Armaldo,아말도,アーマルド,Armaldo,pokeapi pokemon #348
+pokemon,feebas,Feebas,빈티나,ヒンバス,Feebas,pokeapi pokemon #349
+pokemon,milotic,Milotic,밀로틱,ミロカロス,Milotic,pokeapi pokemon #350
+pokemon,castform,Castform,캐스퐁,ポワルン,Castform,pokeapi pokemon #351
+pokemon,kecleon,Kecleon,켈리몬,カクレオン,Kecleon,pokeapi pokemon #352
+pokemon,shuppet,Shuppet,어둠대신,カゲボウズ,Shuppet,pokeapi pokemon #353
+pokemon,banette,Banette,다크펫,ジュペッタ,Banette,pokeapi pokemon #354
+pokemon,duskull,Duskull,해골몽,ヨマワル,Duskull,pokeapi pokemon #355
+pokemon,dusclops,Dusclops,미라몽,サマヨール,Dusclops,pokeapi pokemon #356
+pokemon,tropius,Tropius,트로피우스,トロピウス,Tropius,pokeapi pokemon #357
+pokemon,chimecho,Chimecho,치렁,チリーン,Chimecho,pokeapi pokemon #358
+pokemon,absol,Absol,앱솔,アブソル,Absol,pokeapi pokemon #359
+pokemon,wynaut,Wynaut,마자,ソーナノ,Wynaut,pokeapi pokemon #360
+pokemon,snorunt,Snorunt,눈꼬마,ユキワラシ,Snorunt,pokeapi pokemon #361
+pokemon,glalie,Glalie,얼음귀신,オニゴーリ,Glalie,pokeapi pokemon #362
+pokemon,spheal,Spheal,대굴레오,タマザラシ,Spheal,pokeapi pokemon #363
+pokemon,sealeo,Sealeo,씨레오,トドグラー,Sealeo,pokeapi pokemon #364
+pokemon,walrein,Walrein,씨카이저,トドゼルガ,Walrein,pokeapi pokemon #365
+pokemon,clamperl,Clamperl,진주몽,パールル,Clamperl,pokeapi pokemon #366
+pokemon,huntail,Huntail,헌테일,ハンテール,Huntail,pokeapi pokemon #367
+pokemon,gorebyss,Gorebyss,분홍장이,サクラビス,Gorebyss,pokeapi pokemon #368
+pokemon,relicanth,Relicanth,시라칸,ジーランス,Relicanth,pokeapi pokemon #369
+pokemon,luvdisc,Luvdisc,사랑동이,ラブカス,Luvdisc,pokeapi pokemon #370
+pokemon,bagon,Bagon,아공이,タツベイ,Bagon,pokeapi pokemon #371
+pokemon,shelgon,Shelgon,쉘곤,コモルー,Shelgon,pokeapi pokemon #372
+pokemon,salamence,Salamence,보만다,ボーマンダ,Salamence,pokeapi pokemon #373
+pokemon,beldum,Beldum,메탕,ダンバル,Beldum,pokeapi pokemon #374
+pokemon,metang,Metang,메탕구,メタング,Metang,pokeapi pokemon #375
+pokemon,metagross,Metagross,메타그로스,メタグロス,Metagross,pokeapi pokemon #376
+pokemon,regirock,Regirock,레지락,レジロック,Regirock,pokeapi pokemon #377
+pokemon,regice,Regice,레지아이스,レジアイス,Regice,pokeapi pokemon #378
+pokemon,registeel,Registeel,레지스틸,レジスチル,Registeel,pokeapi pokemon #379
+pokemon,latias,Latias,라티아스,ラティアス,Latias,pokeapi pokemon #380
+pokemon,latios,Latios,라티오스,ラティオス,Latios,pokeapi pokemon #381
+pokemon,kyogre,Kyogre,가이오가,カイオーガ,Kyogre,pokeapi pokemon #382
+pokemon,groudon,Groudon,그란돈,グラードン,Groudon,pokeapi pokemon #383
+pokemon,rayquaza,Rayquaza,레쿠쟈,レックウザ,Rayquaza,pokeapi pokemon #384
+pokemon,jirachi,Jirachi,지라치,ジラーチ,Jirachi,pokeapi pokemon #385
+pokemon,deoxys,Deoxys,테오키스,デオキシス,Deoxys,pokeapi pokemon #386
+pokemon,turtwig,Turtwig,모부기,ナエトル,Turtwig,pokeapi pokemon #387
+pokemon,grotle,Grotle,수풀부기,ハヤシガメ,Grotle,pokeapi pokemon #388
+pokemon,torterra,Torterra,토대부기,ドダイトス,Torterra,pokeapi pokemon #389
+pokemon,chimchar,Chimchar,불꽃숭이,ヒコザル,Chimchar,pokeapi pokemon #390
+pokemon,monferno,Monferno,파이숭이,モウカザル,Monferno,pokeapi pokemon #391
+pokemon,infernape,Infernape,초염몽,ゴウカザル,Infernape,pokeapi pokemon #392
+pokemon,piplup,Piplup,팽도리,ポッチャマ,Piplup,pokeapi pokemon #393
+pokemon,prinplup,Prinplup,팽태자,ポッタイシ,Prinplup,pokeapi pokemon #394
+pokemon,empoleon,Empoleon,엠페르트,エンペルト,Empoleon,pokeapi pokemon #395
+pokemon,starly,Starly,찌르꼬,ムックル,Starly,pokeapi pokemon #396
+pokemon,staravia,Staravia,찌르버드,ムクバード,Staravia,pokeapi pokemon #397
+pokemon,staraptor,Staraptor,찌르호크,ムクホーク,Staraptor,pokeapi pokemon #398
+pokemon,bidoof,Bidoof,비버니,ビッパ,Bidoof,pokeapi pokemon #399
+pokemon,bibarel,Bibarel,비버통,ビーダル,Bibarel,pokeapi pokemon #400

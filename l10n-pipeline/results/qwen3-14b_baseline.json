@@ -1,0 +1,1282 @@
+[
+ {
+  "id": 0,
+  "api_id": "swift-mochi",
+  "type": "item",
+  "src": "Use a Swift Mochi before the boss fight to recover your HP.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"보스 전투 시작 전에 스위프트 모치를 사용하여 HP를 회복하세요.\",\"ja\":\"ボス戦が始まる前にスイフトモチを使用してHPを回復してください。\",\"es\":\"Antes de la batalla contra el jefe, usa un Swift Mochi para recuperar tus puntos de vida.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "보스 전투 시작 전에 스위프트 모치를 사용하여 HP를 회복하세요.",
+    "official": "순발력떡",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ボス戦が始まる前にスイフトモチを使用してHPを回復してください。",
+    "official": "しゅんぱつのもち",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Antes de la batalla contra el jefe, usa un Swift Mochi para recuperar tus puntos de vida.",
+    "official": "Mochi Ímpetu",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 1,
+  "api_id": "iron",
+  "type": "item",
+  "src": "The drop rate of Iron has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 철의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、鉄のドロップ率が上昇しました。\",\"es\":\"La tasa de caída del hierro ha aumentado durante el evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 철의 드롭률이 증가했습니다.",
+    "official": "사포닌",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、鉄のドロップ率が上昇しました。",
+    "official": "ブロムヘキシン",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída del hierro ha aumentado durante el evento.",
+    "official": "Hierro",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 2,
+  "api_id": "lure",
+  "type": "item",
+  "src": "The drop rate of Lure has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 루어의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、ルアのドロップ率が上昇しました。\",\"es\":\"Durante el evento, la tasa de caída de Lure ha aumentado.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 루어의 드롭률이 증가했습니다.",
+    "official": "벌레유인코롱",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、ルアのドロップ率が上昇しました。",
+    "official": "むしよせコロン",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, la tasa de caída de Lure ha aumentado.",
+    "official": "Colonia",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 3,
+  "api_id": "sweet-heart",
+  "type": "item",
+  "src": "Players can buy a Sweet Heart at the shop for 200 coins.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"플레이어는 상점에서 200개의 동전으로 스위트 하트를 구매할 수 있습니다.\",\"ja\":\"プレイヤーはショップで200枚のコインを使ってスイートハートを購入できます。\",\"es\":\"Los jugadores pueden comprar un Corazón Dulce en la tienda por 200 monedas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "플레이어는 상점에서 200개의 동전으로 스위트 하트를 구매할 수 있습니다.",
+    "official": "하트스위트",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーはショップで200枚のコインを使ってスイートハートを購入できます。",
+    "official": "ハートスイーツ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar un Corazón Dulce en la tienda por 200 monedas.",
+    "official": "Corazón Dulce",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 4,
+  "api_id": "full-heal",
+  "type": "item",
+  "src": "Each trainer receives one Full Heal as a login reward.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"각 트레이너는 로그인 보상으로 하나의 풀 힐을 받습니다.\",\"ja\":\"各トレーナーはログイン報酬としてフルヒールを1つ受け取ります。\",\"es\":\"Cada entrenador recibe un Full Heal como recompensa por iniciar sesión.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "각 트레이너는 로그인 보상으로 하나의 풀 힐을 받습니다.",
+    "official": "만병통치제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "各トレーナーはログイン報酬としてフルヒールを1つ受け取ります。",
+    "official": "なんでもなおし",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada entrenador recibe un Full Heal como recompensa por iniciar sesión.",
+    "official": "Cura Total",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 5,
+  "api_id": "leppa-berry",
+  "type": "item",
+  "src": "Use a Leppa Berry before the boss fight to recover your HP.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"보스 전투 시작 전에 레파 베리 사용으로 HP를 회복하세요.\",\"ja\":\"ボス戦が始まる前にレパーベリーを使用してHPを回復してください。\",\"es\":\"El uso de una Baya Leppa antes de la batalla contra el jefe recupera tu HP.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "보스 전투 시작 전에 레파 베리 사용으로 HP를 회복하세요.",
+    "official": "과사열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ボス戦が始まる前にレパーベリーを使用してHPを回復してください。",
+    "official": "ヒメリのみ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El uso de una Baya Leppa antes de la batalla contra el jefe recupera tu HP.",
+    "official": "Baya Zanama",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 6,
+  "api_id": "shalour-sable",
+  "type": "item",
+  "src": "The drop rate of Shalour Sable has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 샤LOUR 사블의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、シャラウ・サブルのドロップ率が上昇しています。\",\"es\":\"Durante el evento, la tasa de caída de Shalour Sable ha aumentado.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 샤LOUR 사블의 드롭률이 증가했습니다.",
+    "official": "사라사블레",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、シャラウ・サブルのドロップ率が上昇しています。",
+    "official": "シャラサブレ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, la tasa de caída de Shalour Sable ha aumentado.",
+    "official": "Galleta Yantra",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 7,
+  "api_id": "fluffy-tail",
+  "type": "item",
+  "src": "Use a Fluffy Tail before the boss fight to recover your HP.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"보스 전투 시작 전에 푹신한 꼬리를 사용하여 HP를 회복하세요.\",\"ja\":\"ボス戦が始まる前にフワフワテールを使用してHPを回復してください。\",\"es\":\"El combate contra el jefe comienza antes de usar la cola suave para recuperar tus puntos de vida.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "보스 전투 시작 전에 푹신한 꼬리를 사용하여 HP를 회복하세요.",
+    "official": "에나비꼬리",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ボス戦が始まる前にフワフワテールを使用してHPを回復してください。",
+    "official": "エネコのシッポ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El combate contra el jefe comienza antes de usar la cola suave para recuperar tus puntos de vida.",
+    "official": "Cola Skitty",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 8,
+  "api_id": "burn-heal",
+  "type": "item",
+  "src": "The drop rate of Burn Heal has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 버닝 힐의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、バーニングヒールのドロップ率が上昇しました。\",\"es\":\"La tasa de caída de Burn Heal ha aumentado durante el evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 버닝 힐의 드롭률이 증가했습니다.",
+    "official": "화상치료제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、バーニングヒールのドロップ率が上昇しました。",
+    "official": "やけどなおし",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída de Burn Heal ha aumentado durante el evento.",
+    "official": "Antiquemar",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 9,
+  "api_id": "cherish-ball",
+  "type": "item",
+  "src": "Use a Cherish Ball before the boss fight to recover your HP.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"보스 전투 시작 전에 Cherish Ball을 사용하여 HP를 회복하세요.\",\"ja\":\"ボス戦が始まる前にCherish Ballを使用してHPを回復してください。\",\"es\":\"Usa una Bola de Cariño antes de la batalla contra el jefe para recuperar tus puntos de vida.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "보스 전투 시작 전에 Cherish Ball을 사용하여 HP를 회복하세요.",
+    "official": "프레셔스볼",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ボス戦が始まる前にCherish Ballを使用してHPを回復してください。",
+    "official": "プレシャスボール",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Usa una Bola de Cariño antes de la batalla contra el jefe para recuperar tus puntos de vida.",
+    "official": "Gloria Ball",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 10,
+  "api_id": "tough-candy",
+  "type": "item",
+  "src": "The drop rate of Tough Candy has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 톡 캔디의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、タフキャンディのドロップ率が上昇しました。\",\"es\":\"La tasa de caída de la dulce resistente ha aumentado durante el evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 톡 캔디의 드롭률이 증가했습니다.",
+    "official": "수비의사탕",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、タフキャンディのドロップ率が上昇しました。",
+    "official": "まもりのアメ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída de la dulce resistente ha aumentado durante el evento.",
+    "official": "Caramelo Aguante",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 11,
+  "api_id": "energy-powder",
+  "type": "item",
+  "src": "Players can buy a Energy Powder at the shop for 200 coins.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"플레이어는 상점에서 200개의 동전으로 에너지 분말을 구매할 수 있습니다.\",\"ja\":\"プレイヤーはショップで200枚のコインを支払ってエネルギー粉を購入できます。\",\"es\":\"Los jugadores pueden comprar una Polvo de Energía en la tienda por 200 monedas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "플레이어는 상점에서 200개의 동전으로 에너지 분말을 구매할 수 있습니다.",
+    "official": "힘의가루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーはショップで200枚のコインを支払ってエネルギー粉を購入できます。",
+    "official": "ちからのこな",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar una Polvo de Energía en la tienda por 200 monedas.",
+    "official": "Polvo Energía",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 12,
+  "api_id": "casteliacone",
+  "type": "item",
+  "src": "A Casteliacone will be sent to your mailbox after maintenance.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"유지보수 후에 캐스테리코네가 이메일로 발송됩니다.\",\"ja\":\"メンテナンス後、キャステリアコネがメールで送信されます。\",\"es\":\"Después del mantenimiento, se enviará un Casteliacone a tu buzón de correo.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "유지보수 후에 캐스테리코네가 이메일로 발송됩니다.",
+    "official": "구름아이스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、キャステリアコネがメールで送信されます。",
+    "official": "ヒウンアイス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Después del mantenimiento, se enviará un Casteliacone a tu buzón de correo.",
+    "official": "Porcehelado",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 13,
+  "api_id": "lastrange-ball",
+  "type": "item",
+  "src": "The drop rate of Strange Ball has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 이기상 구의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、変なボールのドロップレートが上昇しました。\",\"es\":\"La tasa de caída de la Bola Extraña ha aumentado durante el evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 이기상 구의 드롭률이 증가했습니다.",
+    "official": "스트레인지볼",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、変なボールのドロップレートが上昇しました。",
+    "official": "ストレンジボール",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída de la Bola Extraña ha aumentado durante el evento.",
+    "official": "Extraña Ball",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 14,
+  "api_id": "poke-ball",
+  "type": "item",
+  "src": "A Poké Ball will be sent to your mailbox after maintenance.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"점검 후에 포켓볼이 귀하의 이메일 상자로 발송됩니다.\",\"ja\":\"メンテナンス後、ポケボールがメールボックスに送信されます。\",\"es\":\"Después del mantenimiento, se enviará una Poké Ball a tu buzón de correo.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "점검 후에 포켓볼이 귀하의 이메일 상자로 발송됩니다.",
+    "official": "몬스터볼",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、ポケボールがメールボックスに送信されます。",
+    "official": "モンスターボール",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Después del mantenimiento, se enviará una Poké Ball a tu buzón de correo.",
+    "official": "Poké Ball",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 15,
+  "api_id": "paralyze-heal",
+  "type": "item",
+  "src": "Each trainer receives one Paralyze Heal as a login reward.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"각 트레이너는 로그인 보상으로 파라라이즈 힐을 하나 받습니다.\",\"ja\":\"各トレーナーはログイン報酬としてパラライズヒールを1つ受け取ります。\",\"es\":\"Cada entrenador recibe un Paralyze Heal como recompensa por iniciar sesión.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "각 트레이너는 로그인 보상으로 파라라이즈 힐을 하나 받습니다.",
+    "official": "마비치료제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "各トレーナーはログイン報酬としてパラライズヒールを1つ受け取ります。",
+    "official": "まひなおし",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada entrenador recibe un Paralyze Heal como recompensa por iniciar sesión.",
+    "official": "Antiparalizador",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 16,
+  "api_id": "smart-candy-l",
+  "type": "item",
+  "src": "A Smart Candy L will be sent to your mailbox after maintenance.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"점검 후에 스마트 캔디 L이 귀하의 이메일 상자로 전송됩니다.\",\"ja\":\"メンテナンス後、スマートキャンディLがあなたのメールボックスに送信されます。\",\"es\":\"Después del mantenimiento, se enviará un Smart Candy L a tu buzón de correo.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "점검 후에 스마트 캔디 L이 귀하의 이메일 상자로 전송됩니다.",
+    "official": "지식의사탕L",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、スマートキャンディLがあなたのメールボックスに送信されます。",
+    "official": "ちしきのアメＬ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Después del mantenimiento, se enviará un Smart Candy L a tu buzón de correo.",
+    "official": "Caramelo Intelecto +",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 17,
+  "api_id": "lumiose-galette",
+  "type": "item",
+  "src": "The drop rate of Lumiose Galette has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 루미오스 갈레트의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、ルミオセ・ガレットのドロップ率が上昇しています。\",\"es\":\"Durante el evento, la tasa de caída de Lumiose Galette ha aumentado.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 루미오스 갈레트의 드롭률이 증가했습니다.",
+    "official": "미르갈레트",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、ルミオセ・ガレットのドロップ率が上昇しています。",
+    "official": "ミアレガレット",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, la tasa de caída de Lumiose Galette ha aumentado.",
+    "official": "Crêpe Luminalia",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 18,
+  "api_id": "safari-ball",
+  "type": "item",
+  "src": "A Safari Ball will be sent to your mailbox after maintenance.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"점검 후에 Safari Ball이 귀하의 메일함으로 발송됩니다.\",\"ja\":\"メンテナンス後、サファリボールがメールボックスに送信されます。\",\"es\":\"Después del mantenimiento, se enviará una bola de safari a tu buzón de correo.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "점검 후에 Safari Ball이 귀하의 메일함으로 발송됩니다.",
+    "official": "사파리볼",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、サファリボールがメールボックスに送信されます。",
+    "official": "サファリボール",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Después del mantenimiento, se enviará una bola de safari a tu buzón de correo.",
+    "official": "Safari Ball",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 19,
+  "api_id": "ice-heal",
+  "type": "item",
+  "src": "Each trainer receives one Ice Heal as a login reward.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"각 트레이너는 로그인 보상으로 아이스 힐을 하나씩 받습니다.\",\"ja\":\"各トレーナーはログイン報酬としてアイスヒールを1つ受け取ります。\",\"es\":\"Cada entrenador recibe un Ice Heal como recompensa por iniciar sesión.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "각 트레이너는 로그인 보상으로 아이스 힐을 하나씩 받습니다.",
+    "official": "얼음상태치료제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "各トレーナーはログイン報酬としてアイスヒールを1つ受け取ります。",
+    "official": "こおりなおし",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada entrenador recibe un Ice Heal como recompensa por iniciar sesión.",
+    "official": "Antihielo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 20,
+  "api_id": "revive",
+  "type": "item",
+  "src": "Each trainer receives one Revive as a login reward.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"각 트레이너는 로그인 보상으로 하나의 복원제를 받습니다.\",\"ja\":\"各トレーナーはログイン報酬として、リバイブを1つ受け取ります。\",\"es\":\"Cada entrenador recibe un Revive como recompensa por iniciar sesión.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "각 트레이너는 로그인 보상으로 하나의 복원제를 받습니다.",
+    "official": "기력의조각",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "各トレーナーはログイン報酬として、リバイブを1つ受け取ります。",
+    "official": "げんきのかけら",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada entrenador recibe un Revive como recompensa por iniciar sesión.",
+    "official": "Revivir",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 21,
+  "api_id": "quick-candy",
+  "type": "item",
+  "src": "Players can buy a Quick Candy at the shop for 200 coins.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"플레이어는 상점에서 200코인으로 퀵캔디를 구매할 수 있습니다.\",\"ja\":\"プレイヤーはショップで200コインを支払ってクイックキャンディを購入できます。\",\"es\":\"Los jugadores pueden comprar un Candy Rápido en la tienda por 200 monedas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "플레이어는 상점에서 200코인으로 퀵캔디를 구매할 수 있습니다.",
+    "official": "속도의사탕",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーはショップで200コインを支払ってクイックキャンディを購入できます。",
+    "official": "はやさのアメ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar un Candy Rápido en la tienda por 200 monedas.",
+    "official": "Caramelo Ímpetu",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 22,
+  "api_id": "cheri-berry",
+  "type": "item",
+  "src": "Players can buy a Cheri Berry at the shop for 200 coins.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"플레이어는 가게에서 200개의 동전으로 체리 베리 구매할 수 있습니다.\",\"ja\":\"プレイヤーはショップで200コインを支払ってチェリーベリーを購入できます。\",\"es\":\"Los jugadores pueden comprar una Baya de Cereza en la tienda por 200 monedas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "플레이어는 가게에서 200개의 동전으로 체리 베리 구매할 수 있습니다.",
+    "official": "버치열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーはショップで200コインを支払ってチェリーベリーを購入できます。",
+    "official": "クラボのみ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar una Baya de Cereza en la tienda por 200 monedas.",
+    "official": "Baya Zreza",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 23,
+  "api_id": "rowap-berry",
+  "type": "item",
+  "src": "Players can buy a Rowap Berry at the shop for 200 coins.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"플레이어는 상점에서 200개의 동전으로 로와베리 페어리를 구매할 수 있습니다.\",\"ja\":\"プレイヤーはショップで200コインを支払ってロワパベリーを購入できます。\",\"es\":\"Los jugadores pueden comprar una Rowap Berry en la tienda por 200 monedas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "플레이어는 상점에서 200개의 동전으로 로와베리 페어리를 구매할 수 있습니다.",
+    "official": "애터열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーはショップで200コインを支払ってロワパベリーを購入できます。",
+    "official": "レンブのみ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar una Rowap Berry en la tienda por 200 monedas.",
+    "official": "Baya Magua",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 24,
+  "api_id": "jaboca-berry",
+  "type": "item",
+  "src": "Use a Jaboca Berry before the boss fight to recover your HP.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"보스 전투 시작 전에 잔고베 베리 사용으로 HP를 회복하세요.\",\"ja\":\"ボス戦が始まる前にジャボカベリーを使用してHPを回復してください。\",\"es\":\"El combate contra el jefe comienza antes de usar una Baya Jaboca para recuperar tu HP.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "보스 전투 시작 전에 잔고베 베리 사용으로 HP를 회복하세요.",
+    "official": "자보열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ボス戦が始まる前にジャボカベリーを使用してHPを回復してください。",
+    "official": "ジャポのみ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El combate contra el jefe comienza antes de usar una Baya Jaboca para recuperar tu HP.",
+    "official": "Baya Jaboca",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 25,
+  "api_id": "luxury-ball",
+  "type": "item",
+  "src": "The drop rate of Luxury Ball has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 럭셔리 볼의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、ラグジュアリーボールのドロップ率が上昇しました。\",\"es\":\"La tasa de caída del Luxury Ball ha aumentado durante el evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 럭셔리 볼의 드롭률이 증가했습니다.",
+    "official": "럭셔리볼",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "イベント期間中、ラグジュアリーボールのドロップ率が上昇しました。",
+    "official": "ゴージャスボール",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída del Luxury Ball ha aumentado durante el evento.",
+    "official": "Lujo Ball",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 26,
+  "api_id": "max-ether",
+  "type": "item",
+  "src": "Each trainer receives one Max Ether as a login reward.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"각 트레이너는 로그인 보상으로 마克斯 에테르를 하나 받습니다.\",\"ja\":\"各トレーナーはログイン報酬として、マックスエテルを1つ受け取ります。\",\"es\":\"Cada entrenador recibe un Max Ether como recompensa por iniciar sesión.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "각 트레이너는 로그인 보상으로 마克斯 에테르를 하나 받습니다.",
+    "official": "PP회복",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "各トレーナーはログイン報酬として、マックスエテルを1つ受け取ります。",
+    "official": "ピーピーリカバー",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada entrenador recibe un Max Ether como recompensa por iniciar sesión.",
+    "official": "Éter Máximo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 27,
+  "api_id": "fresh-water",
+  "type": "item",
+  "src": "The drop rate of Fresh Water has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 신선한 물의 드롭률이 증가했습니다.\",\"ja\":\"イベント期間中、フレッシュウォーターのドロップレートが向上しました。\",\"es\":\"La tasa de caída de Agua Fresca ha aumentado durante el evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 신선한 물의 드롭률이 증가했습니다.",
+    "official": "맛있는물",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、フレッシュウォーターのドロップレートが向上しました。",
+    "official": "おいしいみず",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída de Agua Fresca ha aumentado durante el evento.",
+    "official": "Agua Fresca",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 28,
+  "api_id": "breloom",
+  "type": "pokemon",
+  "src": "Breloom has been added to the new season raid lineup.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"브루움이 새 시즌 레이드 명단에 추가되었습니다.\",\"ja\":\"ブロームが新シーズンのレイドラインナップに追加されました。\",\"es\":\"Breloom ha sido añadido a la lista de raids de la nueva temporada.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "브루움이 새 시즌 레이드 명단에 추가되었습니다.",
+    "official": "버섯모",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ブロームが新シーズンのレイドラインナップに追加されました。",
+    "official": "キノガッサ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Breloom ha sido añadido a la lista de raids de la nueva temporada.",
+    "official": "Breloom",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 29,
+  "api_id": "bellsprout",
+  "type": "pokemon",
+  "src": "Defeat Bellsprout to earn a special reward.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"벨스프라우트를 물리치면 특별한 보상을 얻을 수 있습니다.\",\"ja\":\"ベルスプロットを倒すと特別な報酬が手に入ります。\",\"es\":\"Derrota a Bellsprout para obtener una recompensa especial.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "벨스프라우트를 물리치면 특별한 보상을 얻을 수 있습니다.",
+    "official": "모다피",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ベルスプロットを倒すと特別な報酬が手に入ります。",
+    "official": "マダツボミ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Derrota a Bellsprout para obtener una recompensa especial.",
+    "official": "Bellsprout",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 30,
+  "api_id": "dragonite",
+  "type": "pokemon",
+  "src": "Dragonite has been added to the new season raid lineup.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"드래곤아이트가 새 시즌 레이드 명단에 추가되었습니다.\",\"ja\":\"ドラゴニットが新シーズンのレイドラインナップに追加されました。\",\"es\":\"Dragonite ha sido añadido a la lista de raids de la nueva temporada.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "드래곤아이트가 새 시즌 레이드 명단에 추가되었습니다.",
+    "official": "망나뇽",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ドラゴニットが新シーズンのレイドラインナップに追加されました。",
+    "official": "カイリュー",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Dragonite ha sido añadido a la lista de raids de la nueva temporada.",
+    "official": "Dragonite",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 31,
+  "api_id": "sneasel",
+  "type": "pokemon",
+  "src": "Defeat Sneasel to earn a special reward.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"스네이슬을 물리치면 특별한 보상을 얻을 수 있습니다.\",\"ja\":\"スネイズルを倒すと特別な報酬が手に入ります。\",\"es\":\"Derrota a Sneasel para obtener una recompensa especial.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "스네이슬을 물리치면 특별한 보상을 얻을 수 있습니다.",
+    "official": "포푸니",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "スネイズルを倒すと特別な報酬が手に入ります。",
+    "official": "ニューラ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Derrota a Sneasel para obtener una recompensa especial.",
+    "official": "Sneasel",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 32,
+  "api_id": "geodude",
+  "type": "pokemon",
+  "src": "A wild Geodude appeared near the lake during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 중 호수 근처에 와일드 지도가 나타났습니다.\",\"ja\":\"イベント期間中、湖の近くに野生のジドーが現れました。\",\"es\":\"Durante el evento, un Geodude salvaje apareció cerca del lago.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 중 호수 근처에 와일드 지도가 나타났습니다.",
+    "official": "꼬마돌",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、湖の近くに野生のジドーが現れました。",
+    "official": "イシツブテ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, un Geodude salvaje apareció cerca del lago.",
+    "official": "Geodude",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 33,
+  "api_id": "swellow",
+  "type": "pokemon",
+  "src": "A wild Swellow appeared near the lake during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 중 호수 근처에 와일드 스웰로가 나타났습니다.\",\"ja\":\"イベント期間中、湖の近くにワイルドなスウェルロが現れました。\",\"es\":\"Durante el evento, un Swellow salvaje apareció cerca del lago.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 중 호수 근처에 와일드 스웰로가 나타났습니다.",
+    "official": "스왈로",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、湖の近くにワイルドなスウェルロが現れました。",
+    "official": "オオスバメ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, un Swellow salvaje apareció cerca del lago.",
+    "official": "Swellow",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 34,
+  "api_id": "poliwhirl",
+  "type": "pokemon",
+  "src": "Poliwhirl has been added to the new season raid lineup.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"폴리휘르가 새 시즌 레이드 명단에 추가되었습니다.\",\"ja\":\"ポリホイールが新シーズンのレイドラインナップに追加されました。\",\"es\":\"Poliwhirl ha sido añadido a la lista de raids de la nueva temporada.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "폴리휘르가 새 시즌 레이드 명단에 추가되었습니다.",
+    "official": "슈륙챙이",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ポリホイールが新シーズンのレイドラインナップに追加されました。",
+    "official": "ニョロゾ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Poliwhirl ha sido añadido a la lista de raids de la nueva temporada.",
+    "official": "Poliwhirl",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 35,
+  "api_id": "whismur",
+  "type": "pokemon",
+  "src": "The rate of encountering Whismur has been doubled this weekend.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이번 주말 동안 히스무르의 출현 확률이 두 배로 증가했습니다.\",\"ja\":\"今週末は、ヒスモーの出現率が2倍になりました。\",\"es\":\"Este fin de semana, la probabilidad de encontrar a Whismur se ha duplicado.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이번 주말 동안 히스무르의 출현 확률이 두 배로 증가했습니다.",
+    "official": "소곤룡",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "今週末は、ヒスモーの出現率が2倍になりました。",
+    "official": "ゴニョニョ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Este fin de semana, la probabilidad de encontrar a Whismur se ha duplicado.",
+    "official": "Whismur",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 36,
+  "api_id": "totodile",
+  "type": "pokemon",
+  "src": "Defeat Totodile to earn a special reward.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"토토딜을 물리치면 특별한 보상을 얻을 수 있습니다.\",\"ja\":\"トトドイルを倒すと特別な報酬が手に入ります。\",\"es\":\"Derrota a Totodile para obtener una recompensa especial.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "토토딜을 물리치면 특별한 보상을 얻을 수 있습니다.",
+    "official": "리아코",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "トトドイルを倒すと特別な報酬が手に入ります。",
+    "official": "ワニノコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Derrota a Totodile para obtener una recompensa especial.",
+    "official": "Totodile",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 37,
+  "api_id": "slakoth",
+  "type": "pokemon",
+  "src": "The rate of encountering Slakoth has been doubled this weekend.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이번 주말 동안 슬라코스를 만날 확률이 두 배로 증가했습니다.\",\"ja\":\"今週末はスラコスに出会う確率が2倍になりました。\",\"es\":\"Este fin de semana, la probabilidad de encontrar a Slakoth se ha duplicado.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이번 주말 동안 슬라코스를 만날 확률이 두 배로 증가했습니다.",
+    "official": "게을로",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "今週末はスラコスに出会う確率が2倍になりました。",
+    "official": "ナマケロ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Este fin de semana, la probabilidad de encontrar a Slakoth se ha duplicado.",
+    "official": "Slakoth",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 38,
+  "api_id": "milotic",
+  "type": "pokemon",
+  "src": "Milotic has been added to the new season raid lineup.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"밀로티가 신규 시즌 레이드 명단에 추가되었습니다.\",\"ja\":\"ミロティが新シーズンのレイドラインナップに追加されました。\",\"es\":\"Milotic ha sido añadido a la lista de raids de la nueva temporada.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "밀로티가 신규 시즌 레이드 명단에 추가되었습니다.",
+    "official": "밀로틱",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ミロティが新シーズンのレイドラインナップに追加されました。",
+    "official": "ミロカロス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Milotic ha sido añadido a la lista de raids de la nueva temporada.",
+    "official": "Milotic",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 39,
+  "api_id": "haunter",
+  "type": "pokemon",
+  "src": "Haunter has been added to the new season raid lineup.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"하운터가 새 시즌 레이드 명단에 추가되었습니다.\",\"ja\":\"ハウンターが新シーズンのレイドラインナップに追加されました。\",\"es\":\"Haunter ha sido añadido a la lista de raids de la nueva temporada.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "하운터가 새 시즌 레이드 명단에 추가되었습니다.",
+    "official": "고우스트",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ハウンターが新シーズンのレイドラインナップに追加されました。",
+    "official": "ゴースト",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Haunter ha sido añadido a la lista de raids de la nueva temporada.",
+    "official": "Haunter",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ }
+]

@@ -1,0 +1,3 @@
+type,api_id,en,ko,ja,es,note
+event,evening-lake,Evening Lake,저녁 호수,夕暮れの湖,Lago del Atardecer,"가상 서비스의 이벤트명(지어낸 이름). ko는 공지 한국어 원문 표기, ja/es는 이 프로젝트에서 정한 가상 표기(공식 아님, 사람 검증 안 함)"
+product,hunter-box,Hunter Box,헌터 박스,ハンターボックス,Caja del Cazador,"가상 서비스의 상품명(지어낸 이름). ko는 공지 한국어 원문 표기, ja/es는 이 프로젝트에서 정한 가상 표기(공식 아님, 사람 검증 안 함)"

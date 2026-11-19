@@ -1,0 +1,151 @@
+﻿id,ts,lang,gold_category,gold_severity,gold_sentiment,gold_cluster,ambiguous,secondary_category,seed
+SYN-0001,2026-03-02 00:26,ko,MON,S2,neu,mon_refund,false,,실수 결제 환불 요청
+SYN-0002,2026-03-02 01:53,ko,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYN-0003,2026-03-02 02:11,ko,COM,S2,neu,com_cheat,false,,매크로·핵 의심 유저 신고
+SYN-0004,2026-03-02 03:30,ko,BAL,S3,neg,bal_nerf,false,,패치 후 무기 성능 하향 불만
+SYN-0005,2026-03-02 03:59,ko,BUG,S1,neg,payment_missing,false,,결제 후 재화가 들어오지 않음
+SYN-0006,2026-03-02 06:20,ko,BUG,S2,neg,payment_missing,false,,결제 후 재화가 들어오지 않음
+SYN-0007,2026-03-02 08:21,ko,BUG,S1,neu,login_fail,false,,"로그인이 안 됨, 접속 불가"
+SYN-0008,2026-03-02 08:58,ko,BAL,S3,neg,bal_matching,false,,매칭에서 실력 차가 큼
+SYN-0009,2026-03-02 09:30,ko,BUG,S3,neu,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYN-0010,2026-03-02 10:46,mixed,BUG,S2,neu,payment_missing,true,MON,결제 후 재화가 들어오지 않음
+SYN-0011,2026-03-02 12:03,ko,BAL,S4,neu,bal_easy,false,,초반 난이도가 너무 쉬움
+SYN-0012,2026-03-02 13:23,mixed,ETC,S4,neu,etc_inquiry,false,,계정 이전 방법 단순 문의
+SYN-0013,2026-03-02 15:08,ko,MON,S3,neg,mon_package,false,,패키지 가격 대비 구성 불만
+SYN-0014,2026-03-02 15:37,mixed,BAL,S3,neg,bal_boss_hard,true,MON,보스 난이도가 지나치게 높음
+SYN-0015,2026-03-02 16:20,ko,BUG,S2,neu,crash_battle,false,,전투 중 앱이 갑자기 튕김
+SYN-0016,2026-03-02 16:40,ko,BAL,S3,neg,bal_matching,false,,매칭에서 실력 차가 큼
+SYN-0017,2026-03-02 17:19,ko,COM,S3,neg,com_sanction,true,BUG,제재가 억울하다는 항의
+SYN-0018,2026-03-02 17:48,ko,BUG,S1,neu,payment_missing,false,,결제 후 재화가 들어오지 않음
+SYN-0019,2026-03-02 22:21,ko,MON,S2,neu,mon_rate_suspect,true,BAL,확률 조작 의혹 제기
+SYN-0020,2026-03-02 23:57,ko,BUG,S3,neg,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYN-0021,2026-03-03 00:08,ko,MON,S2,neg,mon_gacha_rate,false,,확률형 상품 확률이 낮게 느껴짐
+SYN-0022,2026-03-03 00:38,ko,MON,S2,neg,mon_gacha_rate,false,,확률형 상품 확률이 낮게 느껴짐
+SYN-0023,2026-03-03 03:00,ko,BAL,S3,neg,bal_strong_char,true,MON,특정 캐릭터가 너무 강함
+SYN-0024,2026-03-03 04:38,mixed,MON,S4,neu,mon_package,false,,패키지 가격 대비 구성 불만
+SYN-0025,2026-03-03 07:31,ko,MON,S2,neg,mon_rate_suspect,false,,확률 조작 의혹 제기
+SYN-0026,2026-03-03 07:36,ko,COM,S3,neu,com_cheat,true,BUG,매크로·핵 의심 유저 신고
+SYN-0027,2026-03-03 08:05,ko,BUG,S1,neu,login_fail,false,,"로그인이 안 됨, 접속 불가"
+SYN-0028,2026-03-03 09:40,mixed,BAL,S3,neg,bal_matching,false,,매칭에서 실력 차가 큼
+SYN-0029,2026-03-03 09:52,mixed,MON,S4,neu,mon_sub,false,,월정액 혜택 부족
+SYN-0030,2026-03-03 13:45,ko,BUG,S1,neu,login_fail,false,,"로그인이 안 됨, 접속 불가"
+SYN-0031,2026-03-03 17:34,ko,MON,S3,neg,mon_refund,false,,실수 결제 환불 요청
+SYN-0032,2026-03-03 17:58,ko,COM,S2,neu,com_scam,false,,거래 사기 피해 제보
+SYN-0033,2026-03-03 21:25,en,OPS,S3,neg,ops_event_period,false,,이벤트 기간 안내 불명확
+SYN-0034,2026-03-04 02:25,ko,ETC,S4,pos,etc_suggest,false,,새 콘텐츠 제안
+SYN-0035,2026-03-04 05:27,ko,BAL,S4,neg,bal_easy,false,,초반 난이도가 너무 쉬움
+SYN-0036,2026-03-04 07:09,ko,ETC,S4,pos,etc_suggest,false,,새 콘텐츠 제안
+SYN-0037,2026-03-04 07:31,ko,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYN-0038,2026-03-04 07:35,en,ETC,S4,pos,etc_inquiry,false,,계정 이전 방법 단순 문의
+SYN-0039,2026-03-04 08:20,ko,COM,S3,neg,com_abuse,true,BUG,채팅 욕설 신고
+SYN-0040,2026-03-04 12:25,ko,MON,S4,neu,mon_package,false,,패키지 가격 대비 구성 불만
+SYN-0041,2026-03-04 12:26,ko,BAL,S3,neu,bal_matching,true,MON,매칭에서 실력 차가 큼
+SYN-0042,2026-03-04 13:03,ko,COM,S3,neg,com_abuse,false,,채팅 욕설 신고
+SYN-0043,2026-03-04 13:48,ko,BUG,S1,neg,payment_missing,false,,결제 후 재화가 들어오지 않음
+SYN-0044,2026-03-04 14:27,ko,MON,S3,neg,mon_gacha_rate,false,,확률형 상품 확률이 낮게 느껴짐
+SYN-0045,2026-03-04 15:12,mixed,ETC,S4,pos,etc_suggest,false,,새 콘텐츠 제안
+SYN-0046,2026-03-04 18:12,ko,BUG,S4,neg,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYN-0047,2026-03-04 20:50,en,MON,S3,neg,mon_package,false,,패키지 가격 대비 구성 불만
+SYN-0048,2026-03-04 21:32,ko,MON,S3,neu,mon_gacha_rate,false,,확률형 상품 확률이 낮게 느껴짐
+SYN-0049,2026-03-04 21:41,ko,BUG,S2,neu,loading_stuck,false,,로딩 화면에서 멈춰 진행 불가
+SYN-0050,2026-03-04 22:20,mixed,COM,S3,neu,com_cheat,true,BUG,매크로·핵 의심 유저 신고
+SYN-0051,2026-03-04 23:41,mixed,BUG,S2,neu,loading_stuck,false,,로딩 화면에서 멈춰 진행 불가
+SYN-0052,2026-03-05 02:59,ko,COM,S3,neg,com_abuse,false,,채팅 욕설 신고
+SYN-0053,2026-03-05 05:00,ko,BUG,S3,neg,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYN-0054,2026-03-05 06:14,mixed,BAL,S4,neu,bal_easy,true,MON,초반 난이도가 너무 쉬움
+SYN-0055,2026-03-05 07:30,en,COM,S2,neg,com_scam,false,,거래 사기 피해 제보
+SYN-0056,2026-03-05 08:47,ko,BUG,S1,neg,login_fail,false,,"로그인이 안 됨, 접속 불가"
+SYN-0057,2026-03-05 09:42,ko,BUG,S2,neg,payment_missing,false,,결제 후 재화가 들어오지 않음
+SYN-0058,2026-03-05 11:24,ko,BAL,S4,neg,bal_easy,false,,초반 난이도가 너무 쉬움
+SYN-0059,2026-03-05 12:16,ko,OPS,S3,neg,ops_note_mismatch,false,,업데이트 노트와 실제 내용 불일치
+SYN-0060,2026-03-05 14:15,ko,MON,S2,neu,mon_gacha_rate,false,,확률형 상품 확률이 낮게 느껴짐
+SYN-0061,2026-03-05 17:05,ko,BUG,S4,neg,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYN-0062,2026-03-05 19:00,ko,BUG,S2,neg,crash_battle,false,,전투 중 앱이 갑자기 튕김
+SYN-0063,2026-03-05 21:27,ko,BAL,S4,neg,bal_nerf,true,MON,패치 후 무기 성능 하향 불만
+SYN-0064,2026-03-06 00:04,ko,BUG,S2,neg,crash_battle,false,,전투 중 앱이 갑자기 튕김
+SYN-0065,2026-03-06 00:12,ko,COM,S3,neu,com_sanction,false,,제재가 억울하다는 항의
+SYN-0066,2026-03-06 00:31,ko,BUG,S3,neu,quest_block,false,,퀘스트 완료 표시가 안 되어 다음 진행 불가
+SYN-0067,2026-03-06 00:51,ko,COM,S2,neu,com_scam,true,BUG,거래 사기 피해 제보
+SYN-0068,2026-03-06 01:31,mixed,MON,S4,neg,mon_package,true,BAL,패키지 가격 대비 구성 불만
+SYN-0069,2026-03-06 02:03,mixed,OPS,S3,neu,ops_note_mismatch,true,MON,업데이트 노트와 실제 내용 불일치
+SYN-0070,2026-03-06 02:32,en,OPS,S3,neu,ops_reward_missing,false,,이벤트 보상이 누락됨
+SYN-0071,2026-03-06 04:40,ko,BAL,S3,neg,bal_boss_hard,false,,보스 난이도가 지나치게 높음
+SYN-0072,2026-03-06 04:41,en,BUG,S2,neu,crash_battle,false,,전투 중 앱이 갑자기 튕김
+SYN-0073,2026-03-06 07:16,ko,ETC,S4,neu,etc_inquiry,false,,계정 이전 방법 단순 문의
+SYN-0074,2026-03-06 07:31,ko,BAL,S3,neg,bal_strong_char,false,,특정 캐릭터가 너무 강함
+SYN-0075,2026-03-06 10:28,ko,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYN-0076,2026-03-06 12:02,en,MON,S2,neg,mon_rate_suspect,false,,확률 조작 의혹 제기
+SYN-0077,2026-03-06 20:55,en,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0078,2026-03-06 20:28,mixed,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0079,2026-03-06 18:11,ko,OPS,S1,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0080,2026-03-06 13:28,mixed,BAL,S3,neu,bal_matching,false,,매칭에서 실력 차가 큼
+SYN-0081,2026-03-06 20:40,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0082,2026-03-06 18:06,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0083,2026-03-06 20:19,mixed,OPS,S2,neu,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0084,2026-03-06 18:05,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0085,2026-03-06 17:38,ko,OPS,S1,neu,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0086,2026-03-06 20:28,ko,OPS,S1,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0087,2026-03-06 14:27,en,BUG,S2,neg,loading_stuck,false,,로딩 화면에서 멈춰 진행 불가
+SYN-0088,2026-03-06 18:39,ko,OPS,S2,neu,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0089,2026-03-06 17:53,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0090,2026-03-06 17:03,ko,OPS,S1,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0091,2026-03-06 17:12,ko,OPS,S1,neu,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0092,2026-03-06 16:37,ko,MON,S4,neg,mon_sub,false,,월정액 혜택 부족
+SYN-0093,2026-03-06 18:38,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0094,2026-03-06 17:49,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0095,2026-03-06 20:20,mixed,OPS,S1,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0096,2026-03-06 20:37,ko,OPS,S1,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0097,2026-03-06 18:33,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0098,2026-03-06 18:40,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0099,2026-03-06 19:31,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0100,2026-03-06 17:42,ko,OPS,S1,neu,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0101,2026-03-06 20:19,mixed,COM,S3,neu,com_abuse,false,,채팅 욕설 신고
+SYN-0102,2026-03-06 17:29,ko,OPS,S2,neu,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0103,2026-03-06 20:45,ko,BUG,S2,neu,loading_stuck,false,,로딩 화면에서 멈춰 진행 불가
+SYN-0104,2026-03-06 19:26,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0105,2026-03-06 17:45,en,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0106,2026-03-06 19:20,ko,OPS,S2,neg,surge_notice_time_error,false,,"점검 종료 시각 공지가 잘못 표기되어 기다렸다 헛걸음, 보상·정정 문의"
+SYN-0107,2026-03-06 23:29,en,BUG,S3,neg,ui_overlap,true,MON,UI 글자가 겹쳐 보임
+SYN-0108,2026-03-06 23:55,ko,MON,S2,neg,mon_refund,true,BAL,실수 결제 환불 요청
+SYN-0109,2026-03-07 00:20,ko,BUG,S1,neg,payment_missing,false,,결제 후 재화가 들어오지 않음
+SYN-0110,2026-03-07 01:16,ko,BAL,S3,neg,bal_boss_hard,false,,보스 난이도가 지나치게 높음
+SYN-0111,2026-03-07 02:03,ko,BUG,S4,neg,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYN-0112,2026-03-07 02:17,ko,BAL,S3,neg,bal_matching,false,,매칭에서 실력 차가 큼
+SYN-0113,2026-03-07 05:41,ko,OPS,S2,neu,ops_reward_missing,true,MON,이벤트 보상이 누락됨
+SYN-0114,2026-03-07 06:19,ko,COM,S3,neg,com_sanction,false,,제재가 억울하다는 항의
+SYN-0115,2026-03-07 07:26,ko,BUG,S1,neg,login_fail,false,,"로그인이 안 됨, 접속 불가"
+SYN-0116,2026-03-07 10:23,en,MON,S3,neg,mon_sub,false,,월정액 혜택 부족
+SYN-0117,2026-03-07 10:39,ko,ETC,S4,pos,etc_suggest,false,,새 콘텐츠 제안
+SYN-0118,2026-03-07 10:53,mixed,COM,S3,neg,com_abuse,false,,채팅 욕설 신고
+SYN-0119,2026-03-07 11:50,ko,BAL,S3,neg,bal_nerf,false,,패치 후 무기 성능 하향 불만
+SYN-0120,2026-03-07 12:22,ko,MON,S2,neg,mon_rate_suspect,false,,확률 조작 의혹 제기
+SYN-0121,2026-03-07 14:23,ko,MON,S2,neg,mon_rate_suspect,true,BAL,확률 조작 의혹 제기
+SYN-0122,2026-03-07 15:03,ko,BUG,S2,neg,data_loss,false,,저장 데이터가 사라짐
+SYN-0123,2026-03-07 18:04,ko,BUG,S3,neg,quest_block,true,MON,퀘스트 완료 표시가 안 되어 다음 진행 불가
+SYN-0124,2026-03-07 22:48,ko,BUG,S3,neg,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYN-0125,2026-03-08 01:29,ko,BUG,S1,neg,payment_missing,false,,결제 후 재화가 들어오지 않음
+SYN-0126,2026-03-08 02:13,ko,ETC,S4,pos,etc_inquiry,false,,계정 이전 방법 단순 문의
+SYN-0127,2026-03-08 03:45,ko,OPS,S3,neg,ops_note_mismatch,false,,업데이트 노트와 실제 내용 불일치
+SYN-0128,2026-03-08 04:10,en,BUG,S3,neg,crash_battle,false,,전투 중 앱이 갑자기 튕김
+SYN-0129,2026-03-08 07:51,ko,COM,S3,neg,com_abuse,false,,채팅 욕설 신고
+SYN-0130,2026-03-08 09:00,ko,OPS,S3,neu,ops_reward_rule,false,,보상 지급 기준 문의
+SYN-0131,2026-03-08 09:06,mixed,MON,S3,neg,mon_sub,false,,월정액 혜택 부족
+SYN-0132,2026-03-08 09:16,mixed,BAL,S3,neg,bal_boss_hard,false,,보스 난이도가 지나치게 높음
+SYN-0133,2026-03-08 12:12,mixed,ETC,S4,neu,etc_suggest,false,,새 콘텐츠 제안
+SYN-0134,2026-03-08 12:41,ko,ETC,S4,pos,etc_suggest,false,,새 콘텐츠 제안
+SYN-0135,2026-03-08 12:48,ko,MON,S4,neg,mon_package,false,,패키지 가격 대비 구성 불만
+SYN-0136,2026-03-08 12:53,mixed,MON,S2,neg,mon_gacha_rate,false,,확률형 상품 확률이 낮게 느껴짐
+SYN-0137,2026-03-08 13:56,ko,BAL,S3,neg,bal_matching,false,,매칭에서 실력 차가 큼
+SYN-0138,2026-03-08 14:25,mixed,BAL,S3,neg,bal_matching,false,,매칭에서 실력 차가 큼
+SYN-0139,2026-03-08 14:49,mixed,OPS,S3,neg,ops_note_mismatch,false,,업데이트 노트와 실제 내용 불일치
+SYN-0140,2026-03-08 14:58,ko,BUG,S2,neu,login_fail,false,,"로그인이 안 됨, 접속 불가"
+SYN-0141,2026-03-08 15:39,en,OPS,S3,neg,ops_reward_missing,false,,이벤트 보상이 누락됨
+SYN-0142,2026-03-08 16:13,mixed,BUG,S2,neu,loading_stuck,false,,로딩 화면에서 멈춰 진행 불가
+SYN-0143,2026-03-08 16:54,ko,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYN-0144,2026-03-08 17:12,ko,OPS,S3,neg,ops_event_period,false,,이벤트 기간 안내 불명확
+SYN-0145,2026-03-08 18:23,ko,BAL,S3,neu,bal_strong_char,false,,특정 캐릭터가 너무 강함
+SYN-0146,2026-03-08 20:02,ko,ETC,S4,pos,etc_suggest,false,,새 콘텐츠 제안
+SYN-0147,2026-03-08 20:25,mixed,BAL,S3,neg,bal_nerf,false,,패치 후 무기 성능 하향 불만
+SYN-0148,2026-03-08 20:59,ko,MON,S2,neg,mon_rate_suspect,false,,확률 조작 의혹 제기
+SYN-0149,2026-03-08 22:00,ko,BAL,S4,neg,bal_easy,true,MON,초반 난이도가 너무 쉬움
+SYN-0150,2026-03-08 23:09,ko,BAL,S3,neg,bal_matching,false,,매칭에서 실력 차가 큼

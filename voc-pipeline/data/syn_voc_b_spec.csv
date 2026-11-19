@@ -1,0 +1,81 @@
+﻿id,ts,lang,style,length,gold_category,gold_severity,gold_sentiment,gold_cluster,ambiguous,secondary_category,seed
+SYNB-0001,2026-04-06 01:48,ko,건조한 보고체,2~3문장,MON,S2,neg,mon_rate_suspect,false,,확률 조작 의혹 제기
+SYNB-0002,2026-04-06 02:48,ko,푸념하듯 늘어지는 말투,2~3문장,MON,S2,neg,mon_rate_suspect,true,BAL,확률 조작 의혹 제기
+SYNB-0003,2026-04-06 03:01,ko,짧은 반말,1~2문장,BUG,S3,neg,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYNB-0004,2026-04-06 03:16,ko,건조한 보고체,1문장,BUG,S2,neg,data_loss,false,,저장 데이터가 사라짐
+SYNB-0005,2026-04-06 03:32,ko,푸념하듯 늘어지는 말투,1문장,BUG,S1,neu,payment_missing,true,MON,결제 후 재화가 들어오지 않음
+SYNB-0006,2026-04-06 04:14,ko,짧은 반말,1문장,OPS,S3,neg,ops_reward_rule,false,,보상 지급 기준 문의
+SYNB-0007,2026-04-06 05:34,ko,건조한 보고체,1문장,OPS,S3,neg,ops_reward_rule,true,MON,보상 지급 기준 문의
+SYNB-0008,2026-04-06 06:36,mixed,짧은 반말,1문장,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYNB-0009,2026-04-06 08:42,en,짧은 반말,1문장,COM,S2,neg,com_cheat,false,,매크로·핵 의심 유저 신고
+SYNB-0010,2026-04-06 19:12,en,건조한 보고체,2~3문장,BUG,S1,neg,data_loss,false,,저장 데이터가 사라짐
+SYNB-0011,2026-04-06 19:20,ko,정중한 존댓말,1~2문장,BUG,S2,neu,loading_stuck,true,MON,로딩 화면에서 멈춰 진행 불가
+SYNB-0012,2026-04-06 20:51,ko,정중한 존댓말,2~3문장,BAL,S3,neg,bal_boss_hard,false,,보스 난이도가 지나치게 높음
+SYNB-0013,2026-04-06 20:57,ko,짧은 반말,1~2문장,BUG,S2,neg,loading_stuck,false,,로딩 화면에서 멈춰 진행 불가
+SYNB-0014,2026-04-06 21:53,ko,감정이 격한 말투,2~3문장,BUG,S3,neg,quest_block,true,MON,퀘스트 완료 표시가 안 되어 다음 진행 불가
+SYNB-0015,2026-04-06 22:49,ko,감정이 격한 말투,1문장,BAL,S3,neg,bal_boss_hard,false,,보스 난이도가 지나치게 높음
+SYNB-0016,2026-04-07 01:08,mixed,짧은 반말,2~3문장,ETC,S4,pos,etc_inquiry,false,,계정 이전 방법 단순 문의
+SYNB-0017,2026-04-07 02:24,en,정중한 존댓말,2~3문장,MON,S2,neg,mon_rate_suspect,false,,확률 조작 의혹 제기
+SYNB-0018,2026-04-07 03:20,mixed,건조한 보고체,1문장,BAL,S3,neg,bal_strong_char,false,,특정 캐릭터가 너무 강함
+SYNB-0019,2026-04-07 05:24,en,짧은 반말,1~2문장,COM,S3,neu,com_cheat,false,,매크로·핵 의심 유저 신고
+SYNB-0020,2026-04-07 06:33,en,푸념하듯 늘어지는 말투,2~3문장,ETC,S4,pos,etc_suggest,false,,새 콘텐츠 제안
+SYNB-0021,2026-04-07 06:46,ko,정중한 존댓말,1~2문장,ETC,S4,neu,etc_praise,false,,업데이트 칭찬
+SYNB-0022,2026-04-07 09:54,ko,푸념하듯 늘어지는 말투,1문장,COM,S3,neg,com_cheat,false,,매크로·핵 의심 유저 신고
+SYNB-0023,2026-04-07 12:01,ko,짧은 반말,2~3문장,BUG,S3,neu,ui_overlap,true,MON,UI 글자가 겹쳐 보임
+SYNB-0024,2026-04-07 15:26,en,짧은 반말,1~2문장,BAL,S3,neg,bal_strong_char,false,,특정 캐릭터가 너무 강함
+SYNB-0025,2026-04-07 16:57,ko,푸념하듯 늘어지는 말투,2~3문장,BAL,S4,neg,bal_easy,false,,초반 난이도가 너무 쉬움
+SYNB-0026,2026-04-07 17:18,ko,건조한 보고체,2~3문장,BUG,S2,neg,crash_battle,false,,전투 중 앱이 갑자기 튕김
+SYNB-0027,2026-04-07 18:54,ko,푸념하듯 늘어지는 말투,2~3문장,BAL,S4,neg,bal_easy,false,,초반 난이도가 너무 쉬움
+SYNB-0028,2026-04-07 18:54,ko,건조한 보고체,2~3문장,MON,S2,neu,mon_rate_suspect,false,,확률 조작 의혹 제기
+SYNB-0029,2026-04-07 20:10,ko,푸념하듯 늘어지는 말투,1문장,MON,S2,neu,mon_refund,false,,실수 결제 환불 요청
+SYNB-0030,2026-04-07 20:26,ko,짧은 반말,1~2문장,MON,S4,neu,mon_package,false,,패키지 가격 대비 구성 불만
+SYNB-0031,2026-04-07 23:30,ko,정중한 존댓말,1~2문장,MON,S3,neg,mon_package,false,,패키지 가격 대비 구성 불만
+SYNB-0032,2026-04-08 03:31,ko,푸념하듯 늘어지는 말투,1~2문장,COM,S3,neu,com_cheat,false,,매크로·핵 의심 유저 신고
+SYNB-0033,2026-04-08 06:11,en,건조한 보고체,1문장,COM,S2,neg,com_scam,false,,거래 사기 피해 제보
+SYNB-0034,2026-04-08 08:17,ko,푸념하듯 늘어지는 말투,1~2문장,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYNB-0035,2026-04-08 11:00,ko,정중한 존댓말,2~3문장,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYNB-0036,2026-04-08 11:49,ko,푸념하듯 늘어지는 말투,2~3문장,MON,S3,neg,mon_package,false,,패키지 가격 대비 구성 불만
+SYNB-0037,2026-04-08 15:33,ko,감정이 격한 말투,1~2문장,BUG,S2,neu,quest_block,false,,퀘스트 완료 표시가 안 되어 다음 진행 불가
+SYNB-0038,2026-04-08 16:06,ko,정중한 존댓말,1문장,MON,S2,neg,mon_gacha_rate,false,,확률형 상품 확률이 낮게 느껴짐
+SYNB-0039,2026-04-08 17:13,en,푸념하듯 늘어지는 말투,1문장,BAL,S3,neg,bal_matching,false,,매칭에서 실력 차가 큼
+SYNB-0040,2026-04-08 21:25,ko,감정이 격한 말투,1문장,MON,S3,neg,mon_sub,true,BAL,월정액 혜택 부족
+SYNB-0041,2026-04-08 22:28,mixed,푸념하듯 늘어지는 말투,2~3문장,OPS,S2,neu,ops_reward_missing,false,,이벤트 보상이 누락됨
+SYNB-0042,2026-04-09 02:16,ko,정중한 존댓말,2~3문장,BAL,S3,neu,bal_matching,false,,매칭에서 실력 차가 큼
+SYNB-0043,2026-04-09 04:33,ko,정중한 존댓말,1~2문장,OPS,S3,neg,ops_note_mismatch,false,,업데이트 노트와 실제 내용 불일치
+SYNB-0044,2026-04-09 04:57,ko,정중한 존댓말,1~2문장,BUG,S1,neg,data_loss,false,,저장 데이터가 사라짐
+SYNB-0045,2026-04-09 05:26,en,짧은 반말,1문장,BAL,S4,neg,bal_easy,false,,초반 난이도가 너무 쉬움
+SYNB-0046,2026-04-09 08:36,ko,푸념하듯 늘어지는 말투,2~3문장,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYNB-0047,2026-04-09 11:25,ko,감정이 격한 말투,2~3문장,ETC,S4,pos,etc_suggest,false,,새 콘텐츠 제안
+SYNB-0048,2026-04-09 15:31,ko,감정이 격한 말투,1문장,MON,S3,neu,mon_sub,false,,월정액 혜택 부족
+SYNB-0049,2026-04-09 15:41,ko,푸념하듯 늘어지는 말투,1~2문장,BUG,S2,neg,data_loss,false,,저장 데이터가 사라짐
+SYNB-0050,2026-04-09 17:39,ko,정중한 존댓말,1~2문장,BUG,S1,neu,data_loss,false,,저장 데이터가 사라짐
+SYNB-0051,2026-04-09 22:56,ko,감정이 격한 말투,1문장,BAL,S3,neg,bal_nerf,false,,패치 후 무기 성능 하향 불만
+SYNB-0052,2026-04-09 23:20,ko,짧은 반말,2~3문장,COM,S3,neu,com_sanction,false,,제재가 억울하다는 항의
+SYNB-0053,2026-04-10 02:44,en,짧은 반말,1~2문장,BUG,S2,neg,payment_missing,false,,결제 후 재화가 들어오지 않음
+SYNB-0054,2026-04-10 03:45,mixed,감정이 격한 말투,1~2문장,BUG,S2,neg,payment_missing,true,MON,결제 후 재화가 들어오지 않음
+SYNB-0055,2026-04-10 05:33,mixed,푸념하듯 늘어지는 말투,2~3문장,BAL,S4,neg,bal_easy,false,,초반 난이도가 너무 쉬움
+SYNB-0056,2026-04-10 10:47,ko,건조한 보고체,1문장,COM,S3,neu,com_cheat,false,,매크로·핵 의심 유저 신고
+SYNB-0057,2026-04-10 16:22,ko,건조한 보고체,1~2문장,MON,S4,neg,mon_sub,true,BAL,월정액 혜택 부족
+SYNB-0058,2026-04-10 17:07,ko,정중한 존댓말,1~2문장,BAL,S4,neg,bal_easy,false,,초반 난이도가 너무 쉬움
+SYNB-0059,2026-04-10 17:26,ko,건조한 보고체,1~2문장,COM,S2,neu,com_scam,false,,거래 사기 피해 제보
+SYNB-0060,2026-04-10 17:34,ko,감정이 격한 말투,1~2문장,BUG,S4,neu,ui_overlap,false,,UI 글자가 겹쳐 보임
+SYNB-0061,2026-04-10 19:19,ko,푸념하듯 늘어지는 말투,1~2문장,BUG,S1,neg,login_fail,false,,"로그인이 안 됨, 접속 불가"
+SYNB-0062,2026-04-10 23:22,ko,감정이 격한 말투,1~2문장,MON,S2,neg,mon_gacha_rate,false,,확률형 상품 확률이 낮게 느껴짐
+SYNB-0063,2026-04-11 00:07,ko,건조한 보고체,2~3문장,BUG,S2,neg,quest_block,false,,퀘스트 완료 표시가 안 되어 다음 진행 불가
+SYNB-0064,2026-04-11 00:13,mixed,감정이 격한 말투,1~2문장,BAL,S3,neg,bal_boss_hard,false,,보스 난이도가 지나치게 높음
+SYNB-0065,2026-04-11 00:49,mixed,감정이 격한 말투,1문장,OPS,S3,neg,ops_reward_missing,false,,이벤트 보상이 누락됨
+SYNB-0066,2026-04-11 02:35,ko,건조한 보고체,2~3문장,MON,S2,neu,mon_refund,false,,실수 결제 환불 요청
+SYNB-0067,2026-04-11 09:30,ko,짧은 반말,1~2문장,OPS,S3,neu,ops_reward_missing,false,,이벤트 보상이 누락됨
+SYNB-0068,2026-04-11 09:42,ko,푸념하듯 늘어지는 말투,1~2문장,OPS,S3,neu,ops_note_mismatch,false,,업데이트 노트와 실제 내용 불일치
+SYNB-0069,2026-04-11 13:34,ko,짧은 반말,1~2문장,COM,S3,neu,com_cheat,false,,매크로·핵 의심 유저 신고
+SYNB-0070,2026-04-11 14:26,ko,짧은 반말,2~3문장,BAL,S3,neu,bal_boss_hard,false,,보스 난이도가 지나치게 높음
+SYNB-0071,2026-04-11 16:39,mixed,푸념하듯 늘어지는 말투,1문장,BUG,S3,neg,crash_battle,false,,전투 중 앱이 갑자기 튕김
+SYNB-0072,2026-04-11 16:56,ko,정중한 존댓말,2~3문장,BAL,S4,neg,bal_nerf,true,MON,패치 후 무기 성능 하향 불만
+SYNB-0073,2026-04-11 21:45,ko,푸념하듯 늘어지는 말투,1~2문장,MON,S3,neu,mon_package,false,,패키지 가격 대비 구성 불만
+SYNB-0074,2026-04-12 03:08,ko,정중한 존댓말,1문장,BUG,S3,neg,crash_battle,false,,전투 중 앱이 갑자기 튕김
+SYNB-0075,2026-04-12 05:18,ko,정중한 존댓말,1문장,OPS,S3,neg,ops_reward_missing,false,,이벤트 보상이 누락됨
+SYNB-0076,2026-04-12 06:44,ko,건조한 보고체,2~3문장,BUG,S1,neg,data_loss,false,,저장 데이터가 사라짐
+SYNB-0077,2026-04-12 07:16,en,짧은 반말,2~3문장,BAL,S3,neg,bal_boss_hard,false,,보스 난이도가 지나치게 높음
+SYNB-0078,2026-04-12 12:34,en,짧은 반말,2~3문장,ETC,S4,pos,etc_praise,false,,업데이트 칭찬
+SYNB-0079,2026-04-12 12:40,mixed,정중한 존댓말,1문장,MON,S2,neg,mon_rate_suspect,true,BAL,확률 조작 의혹 제기
+SYNB-0080,2026-04-12 13:39,ko,짧은 반말,1문장,BUG,S2,neu,login_fail,false,,"로그인이 안 됨, 접속 불가"

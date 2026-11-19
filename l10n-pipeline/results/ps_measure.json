@@ -1,0 +1,180 @@
+{
+ "card_px": [
+  1000,
+  720
+ ],
+ "body_area_px": [
+  880,
+  520
+ ],
+ "font_px": 28,
+ "rows": [
+  {
+   "name": "N1_en",
+   "lang": "en",
+   "chars": 229,
+   "used_px": 127,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N1_ko",
+   "lang": "ko",
+   "chars": 135,
+   "used_px": 126,
+   "fits": true,
+   "font": "NotoSansKR-Regular"
+  },
+  {
+   "name": "N1_ja",
+   "lang": "ja",
+   "chars": 136,
+   "used_px": 126,
+   "fits": true,
+   "font": "NotoSansJP-Regular"
+  },
+  {
+   "name": "N1_es",
+   "lang": "es",
+   "chars": 261,
+   "used_px": 155,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N2_en",
+   "lang": "en",
+   "chars": 217,
+   "used_px": 122,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N2_ko",
+   "lang": "ko",
+   "chars": 114,
+   "used_px": 92,
+   "fits": true,
+   "font": "NotoSansKR-Regular"
+  },
+  {
+   "name": "N2_ja",
+   "lang": "ja",
+   "chars": 111,
+   "used_px": 125,
+   "fits": true,
+   "font": "NotoSansJP-Regular"
+  },
+  {
+   "name": "N2_es",
+   "lang": "es",
+   "chars": 249,
+   "used_px": 127,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N3_en",
+   "lang": "en",
+   "chars": 209,
+   "used_px": 122,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N3_ko",
+   "lang": "ko",
+   "chars": 130,
+   "used_px": 92,
+   "fits": true,
+   "font": "NotoSansKR-Regular"
+  },
+  {
+   "name": "N3_ja",
+   "lang": "ja",
+   "chars": 118,
+   "used_px": 125,
+   "fits": true,
+   "font": "NotoSansJP-Regular"
+  },
+  {
+   "name": "N3_es",
+   "lang": "es",
+   "chars": 253,
+   "used_px": 127,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N4_en",
+   "lang": "en",
+   "chars": 165,
+   "used_px": 93,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N4_ko",
+   "lang": "ko",
+   "chars": 86,
+   "used_px": 59,
+   "fits": true,
+   "font": "NotoSansKR-Regular"
+  },
+  {
+   "name": "N4_ja",
+   "lang": "ja",
+   "chars": 84,
+   "used_px": 92,
+   "fits": true,
+   "font": "NotoSansJP-Regular"
+  },
+  {
+   "name": "N4_es",
+   "lang": "es",
+   "chars": 188,
+   "used_px": 93,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N5_en",
+   "lang": "en",
+   "chars": 167,
+   "used_px": 93,
+   "fits": true,
+   "font": "ArialMT"
+  },
+  {
+   "name": "N5_ko",
+   "lang": "ko",
+   "chars": 85,
+   "used_px": 92,
+   "fits": true,
+   "font": "NotoSansKR-Regular"
+  },
+  {
+   "name": "N5_ja",
+   "lang": "ja",
+   "chars": 87,
+   "used_px": 92,
+   "fits": true,
+   "font": "NotoSansJP-Regular"
+  },
+  {
+   "name": "N5_es",
+   "lang": "es",
+   "chars": 193,
+   "used_px": 93,
+   "fits": true,
+   "font": "ArialMT"
+  }
+ ],
+ "estimated_capacity_chars": {
+  "en": 921,
+  "ko": 620,
+  "ja": 497,
+  "es": 999
+ },
+ "source": "translated_google_gemma-4-12b-qat.json"
+}

@@ -1,0 +1,134 @@
+[
+ {
+  "id": "N1-maintenance",
+  "en": "{SERVICE} will undergo scheduled maintenance on 2026-12-03 from 02:00 to 06:00 (KST). All services will be unavailable during this time. As compensation, every player will receive 3 Mega Potion and 1 Rare Candy after maintenance.",
+  "terms": [
+   "mh-mega-potion",
+   "rare-candy"
+  ],
+  "prob": null,
+  "tr": {
+   "ko": "{SERVICE}의 정기 점검이 2026-12-03 02:00부터 06:00(KST)까지 진행됩니다. 점검 중에는 모든 서비스를 이용할 수 없습니다. 보상으로 점검 종료 후 모든 플레이어에게 그레이트회복약 3개와 이상한사탕 1개를 지급합니다.",
+   "ja": "{SERVICE}は2026年12月3日午前2時から午前6時まで（KST）定例メンテナンスが行われます。この時間帯中はすべてのサービスが利用不可となります。補償として、メンテナンス後すべてのプレイヤーに回復薬グレートが3個およびふしぎなアメが1個プレゼントされます。",
+   "es": "{SERVICE} estará sometido a mantenimiento programado el 03 de diciembre de 2026, desde las 02:00 hasta las 06:00 (KST). Todos los servicios estarán inaccesibles durante este periodo. Como compensación, cada jugador recibirá 3 Megapoción y 1 Caramelo Raro después del mantenimiento."
+  },
+  "placeholders_kept": {
+   "ja": true,
+   "es": true
+  },
+  "issues": [],
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ja\":\"{SERVICE}は2026年12月3日午前2時から午前6時まで（KST）定例メンテナンスが行われます。この時間帯中はすべてのサービスが利用不可となります。補償として、メンテナンス後すべてのプレイヤーに[[T1]]が3個および[[T2]]が1個プレゼントされます。\",\"es\":\"{SERVICE} estará sometido a mantenimiento programado el 03 de diciembre de 2026, desde las 02:00 hasta las 06:00 (KST). Todos los servicios estarán inaccesibles durante este periodo. Como compensación, cada jugador recibirá 3 [[T1]] y 1 [[T2]] después del mantenimiento.\"}"
+   }
+  ]
+ },
+ {
+  "id": "N2-update",
+  "en": "Update v2.4 adds 2 new raid bosses: Nergigante and Kushala Daora. The daily purchase limit of Armor Sphere has been raised from 10 to 15. Fixed an issue where Pikachu did not appear in the 3rd stage of the lake event.",
+  "terms": [
+   "mh-nergigante",
+   "mh-kushala-daora",
+   "mh-armor-sphere",
+   "pikachu"
+  ],
+  "prob": null,
+  "tr": {
+   "ko": "v2.4 업데이트로 새 레이드 보스 2종, 네르기간테와 크샬다오라가 추가됩니다. 갑옥의 일일 구매 한도가 10개에서 15개로 늘었습니다. 호수 이벤트 3단계에서 피카츄가 나타나지 않던 문제를 수정했습니다.",
+   "ja": "アップデートv2.4では、2つの新しいレイドボスが追加されます:ネルギガンテとクシャルダオラ。鎧玉の毎日の購入上限は10から15に引き上げられました。湖イベントの第3ステージでピカチュウが表示されない不具合を修正しました。",
+   "es": "La actualización v2.4 añade 2 nuevos jefes de raid: Nergigante y Kushala Daora. El límite diario de compra de Esfera armadura se ha aumentado de 10 a 15. Se corrigió un problema donde Pikachu no aparecía en la tercera etapa del evento del lago."
+  },
+  "placeholders_kept": {
+   "ja": true,
+   "es": true
+  },
+  "issues": [],
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ja\":\"アップデートv2.4では、2つの新しいレイドボスが追加されます:[[T1]]と[[T2]]。[[T3]]の毎日の購入上限は10から15に引き上げられました。湖イベントの第3ステージで[[T4]]が表示されない不具合を修正しました。\",\"es\":\"La actualización v2.4 añade 2 nuevos jefes de raid: [[T1]] y [[T2]]. El límite diario de compra de [[T3]] se ha aumentado de 10 a 15. Se corrigió un problema donde [[T4]] no aparecía en la tercera etapa del evento del lago.\"}"
+   }
+  ]
+ },
+ {
+  "id": "N3-event",
+  "en": "The Evening Lake event runs from 2026-12-10 to 2026-12-24. During the event, the encounter rate of Eevee is doubled and Snorlax appears at 20:00 every day. Collect 30 event tokens to claim a Ultra Ball bundle.",
+  "terms": [
+   "eevee",
+   "snorlax",
+   "ultra-ball",
+   "evening-lake"
+  ],
+  "prob": null,
+  "tr": {
+   "ko": "저녁 호수 이벤트가 2026-12-10부터 2026-12-24까지 열립니다. 이벤트 기간 동안 이브이의 출현 확률이 2배가 되고, 매일 20:00에 잠만보가 나타납니다. 이벤트 토큰 30개를 모으면 하이퍼볼 묶음을 받을 수 있습니다.",
+   "ja": "夕暮れの湖イベントは2026-12-10から2026-12-24まで開催されます。イベント期間中、イーブイの出現率が2倍になり、毎日20:00にカビゴンが出現します。イベントトークンを30個集めると、ハイパーボールパッケージを受け取れます。",
+   "es": "El evento Lago del Atardecer se lleva a cabo del 2026-12-10 al 2026-12-24. Durante el evento, la tasa de aparición de Eevee se duplica y Snorlax aparece a las 20:00 cada día. Recoge 30 tokens del evento para reclamar un paquete Ultra Ball."
+  },
+  "placeholders_kept": {
+   "ja": true,
+   "es": true
+  },
+  "issues": [],
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ja\":\"[[T1]]イベントは2026-12-10から2026-12-24まで開催されます。イベント期間中、[[T2]]の出現率が2倍になり、毎日20:00に[[T3]]が出現します。イベントトークンを30個集めると、[[T4]]パッケージを受け取れます。\",\"es\":\"El evento [[T1]] se lleva a cabo del 2026-12-10 al 2026-12-24. Durante el evento, la tasa de aparición de [[T2]] se duplica y [[T3]] aparece a las 20:00 cada día. Recoge 30 tokens del evento para reclamar un paquete [[T4]].\"}"
+   }
+  ]
+ },
+ {
+  "id": "N4-reward",
+  "en": "Rewards for the November ranking will be sent to your mailbox on 2026-12-05. 1st place: 5 Master Ball. 2nd to 10th place: 3 Max Revive. Rewards expire after 14 days.",
+  "terms": [
+   "master-ball",
+   "max-revive"
+  ],
+  "prob": null,
+  "tr": {
+   "ko": "11월 랭킹 보상이 2026-12-05에 우편함으로 지급됩니다. 1위: 마스터볼 5개. 2위부터 10위: 기력의덩어리 3개. 보상은 14일 후 사라집니다.",
+   "ja": "11月のランキング報酬は、2026年12月5日にあなたのメールボックスに送られます。1位：5 マスターボール。2位から10位：3 げんきのかたまり。報酬は14日後に期限切れになります。",
+   "es": "Los premios del ranking de noviembre se enviarán a tu buzón el 05-12-2026. 1º lugar: 5 Master Ball. 2º al 10º lugar: 3 Revivir Máximo. Los premios caducan después de 14 días."
+  },
+  "placeholders_kept": {
+   "ja": true,
+   "es": true
+  },
+  "issues": [],
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ja\":\"11月のランキング報酬は、2026年12月5日にあなたのメールボックスに送られます。1位：5 [[T1]]。2位から10位：3 [[T2]]。報酬は14日後に期限切れになります。\",\"es\":\"Los premios del ranking de noviembre se enviarán a tu buzón el 05-12-2026. 1º lugar: 5 [[T1]]. 2º al 10º lugar: 3 [[T2]]. Los premios caducan después de 14 días.\"}"
+   }
+  ]
+ },
+ {
+  "id": "N5-probability",
+  "en": "Drop rates for the Hunter Box: Wyvern Gem 5%, Rathalos Ruby 15%, Armor Sphere 30%, Mega Potion 50%. Rates are the same for every draw and drawing does not change them.",
+  "terms": [
+   "mh-wyvern-gem",
+   "mh-rathalos-ruby",
+   "mh-armor-sphere",
+   "mh-mega-potion",
+   "hunter-box"
+  ],
+  "prob": true,
+  "tr": {
+   "ko": "헌터 박스 드롭 확률: 용옥 5%, 화룡의 홍옥 15%, 갑옥 30%, 그레이트회복약 50%. 확률은 모든 뽑기에서 같으며 뽑기를 해도 바뀌지 않습니다.",
+   "ja": "ハンターボックスのドロップ率：竜玉 5%、火竜の紅玉 15%、鎧玉 30%、回復薬グレート 50%。ドローごとに同じ確率で、ドローによって変化することはありません。",
+   "es": "Tasas de caída para el Caja del Cazador: Gema de wyvern 5%, Rubí de Rathalos 15%, Esfera armadura 30%, Megapoción 50%. Las tasas son las mismas en cada extracción y no cambian al realizar una extracción."
+  },
+  "placeholders_kept": {
+   "ja": true,
+   "es": true
+  },
+  "issues": [],
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ja\":\"[[T1]]のドロップ率：[[T2]] 5%、[[T3]] 15%、[[T4]] 30%、[[T5]] 50%。ドローごとに同じ確率で、ドローによって変化することはありません。\",\"es\":\"Tasas de caída para el [[T1]]: [[T2]] 5%, [[T3]] 15%, [[T4]] 30%, [[T5]] 50%. Las tasas son las mismas en cada extracción y no cambian al realizar una extracción.\"}"
+   }
+  ]
+ }
+]
