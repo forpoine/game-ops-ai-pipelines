@@ -30,7 +30,7 @@ You translate game service announcements from English into Japanese and Spanish.
 ## voc-pipeline
 
 ### Classifier v1 (base)
-`voc-pipeline/scripts/classify.py (VOC_PROMPT unset)`
+`voc-pipeline/scripts/prompts.py build_system()`
 
 ```text
 너는 게임 서비스 운영팀의 VOC 분류기다. 유저 글 한 건을 읽고 JSON 한 줄만 출력한다.
@@ -42,7 +42,7 @@ You translate game service announcements from English into Japanese and Spanish.
 ```
 
 ### Classifier cap: no S1 from a single post
-`voc-pipeline/scripts/classify.py VOC_PROMPT=cap`
+`voc-pipeline/scripts/prompts.py build_system("cap")`
 
 ```text
 너는 게임 서비스 운영팀의 VOC 분류기다. 유저 글 한 건을 읽고 JSON 한 줄만 출력한다.
@@ -54,7 +54,7 @@ You translate game service announcements from English into Japanese and Spanish.
 ```
 
 ### Classifier cap2: cap + severity boundary rules
-`voc-pipeline/scripts/classify.py VOC_PROMPT=cap2`
+`voc-pipeline/scripts/prompts.py build_system("cap2")`
 
 ```text
 너는 게임 서비스 운영팀의 VOC 분류기다. 유저 글 한 건을 읽고 JSON 한 줄만 출력한다.

@@ -2,7 +2,7 @@
 Prompts live in the scripts themselves; this file reads them from source (AST, no LLM call),
 so PROMPTS.md always matches the code. Run: python tools/extract_prompts.py
 """
-import ast, os, pathlib, sys
+import ast, pathlib, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
@@ -19,21 +19,10 @@ def constants(path, names):
 
 
 def classify_variants():
-    """classify.py builds its prompt from env VOC_PROMPT at import time; run only the prompt part."""
-    src = (ROOT / "voc-pipeline/scripts/classify.py").read_text(encoding="utf-8")
-    head = src[: src.index("def ask")]
-    res = {}
-    for v in ("", "cap", "cap2"):
-        os.environ["VOC_PROMPT"] = v
-        g = {"__file__": str(ROOT / "voc-pipeline/scripts/classify.py")}
-        argv, sys.argv = sys.argv, ["classify.py", "model", "tag"]
-        try:
-            exec(head, g)
-        finally:
-            sys.argv = argv
-        res[v or "base"] = g["SYSTEM"]
-    os.environ.pop("VOC_PROMPT")
-    return res
+    """voc-pipeline/scripts/prompts.py holds the classifier prompt shared by classify.py and classify_api.py."""
+    sys.path.insert(0, str(ROOT / "voc-pipeline/scripts"))
+    from prompts import build_system
+    return {v or "base": build_system(v) for v in ("", "cap", "cap2")}
 
 
 def block(title, where, text):
@@ -51,9 +40,9 @@ t = constants(ROOT / "l10n-pipeline/scripts/translate_notices.py", {"SYS"})
 parts.append(block("Notice translation (5 notices, protected)", "l10n-pipeline/scripts/translate_notices.py SYS", t["SYS"]))
 parts.append("## voc-pipeline\n")
 cv = classify_variants()
-parts.append(block("Classifier v1 (base)", "voc-pipeline/scripts/classify.py (VOC_PROMPT unset)", cv["base"]))
-parts.append(block("Classifier cap: no S1 from a single post", "voc-pipeline/scripts/classify.py VOC_PROMPT=cap", cv["cap"]))
-parts.append(block("Classifier cap2: cap + severity boundary rules", "voc-pipeline/scripts/classify.py VOC_PROMPT=cap2", cv["cap2"]))
+parts.append(block("Classifier v1 (base)", "voc-pipeline/scripts/prompts.py build_system()", cv["base"]))
+parts.append(block("Classifier cap: no S1 from a single post", "voc-pipeline/scripts/prompts.py build_system(\"cap\")", cv["cap"]))
+parts.append(block("Classifier cap2: cap + severity boundary rules", "voc-pipeline/scripts/prompts.py build_system(\"cap2\")", cv["cap2"]))
 s = constants(ROOT / "voc-pipeline/scripts/summarize.py", {"SYSTEM"})
 parts.append(block("Summary for the owning team", "voc-pipeline/scripts/summarize.py SYSTEM", s["SYSTEM"]))
 parts.append("Synthetic data generation prompts are built per row in "
