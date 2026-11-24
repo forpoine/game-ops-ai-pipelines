@@ -82,5 +82,5 @@ python scripts/classify.py google/gemma-4-12b-qat mytag
 
 ## 만든 방식 / How it was built
 
-코드는 Claude Code와 함께 작성했습니다. 분류 기준, 정답 라벨, 측정 전 예측은 직접 정했고, 결과 해석은 직접 하고 확정했습니다.
-Code was written with Claude Code. I set the classification criteria, gold labels and pre-measurement predictions myself, and I interpreted the results and finalized them myself.
+코드는 Claude Code와 함께 작성했습니다. 분류 기준, 정답 라벨, 측정 전 예측은 직접 정했고, 결과 해석과 확정도 제가 했습니다.
+Code was written with Claude Code. I set the classification criteria, gold labels and pre-measurement predictions myself, and I interpreted and finalized the results.
