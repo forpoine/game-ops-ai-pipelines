@@ -6,6 +6,8 @@ from checker import ROOT, load_glossary, check_notice
 
 G = load_glossary()
 MODELS = ["google_gemma-4-12b-qat", "openai_gpt-oss-20b", "qwen3-14b"]
+# 상용 API(measure_api.py, 2026-11-24). 몬헌 측정만 돌렸다. 단가 $/1M(입력, 출력)은 voc-pipeline 02에 기록한 공식 가격(2026-11-19 확인).
+API_MODELS = {"claude-haiku-5-5": (0.10, 0.50), "gemini-3.5-flash-lite": (0.30, 2.50)}
 
 
 def rate(rows, lg):
@@ -30,7 +32,7 @@ def main():
     for suf, title in (("mhw", "몬헌 용어(사용자 검수 288개, 몬헌 전용 틀 22개)"),
                        ("mhw_notice", "몬헌 용어, 공지체 틀 20개(실제 한국어 공지 구조 참고)")):
       print(f"\n## {title}: baseline 일치 | protected 유지")
-      for m in MODELS:
+      for m in MODELS + list(API_MODELS):
         try:
             b = json.load(open(ROOT / "results" / f"{m}_baseline_{suf}.json", encoding="utf-8"))
             p = json.load(open(ROOT / "results" / f"{m}_protected_{suf}.json", encoding="utf-8"))
@@ -43,6 +45,12 @@ def main():
         print(f"{m}: baseline ko {rate(b,'ko')} ja {rate(b,'ja')} es {rate(b,'es')} "
               f"(빈 출력 {empty}; 아이템 {sub(it)}, 몬스터 {sub(mo)}) | "
               f"protected ko {rate(p,'ko')} ja {rate(p,'ja')} es {rate(p,'es')}")
+        if m in API_MODELS:
+            pin, pout = API_MODELS[m]
+            tin = sum(x["in_tok"] for x in b + p); tout = sum(x["out_tok"] for x in b + p)
+            sec = sorted(x["sec"] for x in b + p)
+            print(f"  └ 두 조건 {len(b) + len(p)}문장: 입력 {tin:,} / 출력 {tout:,} 토큰, "
+                  f"${tin / 1e6 * pin + tout / 1e6 * pout:.4f}(실측 토큰 x 단가), 지연 중앙값 {sec[len(sec) // 2]:.2f}초")
     print("\n## 공지 5종 번역(현재 검수기 기준 이슈)")
     for m in MODELS:
         notices = json.load(open(ROOT / "notices" / f"translated_{m}.json", encoding="utf-8"))

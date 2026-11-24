@@ -14,20 +14,34 @@ Two game-service operations tasks automated with local LLMs, with every number m
 
 모델: Gemma 4 12B (QAT), gpt-oss 20B, Qwen3 14B. 모두 LM Studio에서 양자화 모델로 로컬 실행(RTX 4080 SUPER 16GB).
 Models: Gemma 4 12B (QAT), gpt-oss 20B, Qwen3 14B, all quantized and run locally in LM Studio (RTX 4080 SUPER 16GB).
+두 파이프라인 모두 비교용으로 경량 상용 API 두 개(Claude Haiku 5.5, Gemini 3.5 Flash-Lite)도 같은 문장·프롬프트로 측정. / Both pipelines were also measured on two lightweight commercial APIs (Claude Haiku 5.5, Gemini 3.5 Flash-Lite) with the same inputs and prompts.
 
 **l10n-pipeline** (몬스터 헌터 용어 100문장, 공식 표기 일치 ko / ja / es)
 
-| | Gemma | gpt-oss | Qwen3 |
-|---|---|---|---|
-| 통째 번역 / Plain translation | 6 / 10 / 39 | 4 / 7 / 34 | 4 / 6 / 32 |
-| 용어 보호 / Term-protected | 100 / 100 / 100 | 100 / 100 / 100 | 100 / 100 / 100 |
+| | Gemma | gpt-oss | Qwen3 | Claude Haiku 5.5 | Gemini 3.5 Flash-Lite |
+|---|---|---|---|---|---|
+| 통째 번역 / Plain translation | 6 / 10 / 39 | 4 / 7 / 34 | 4 / 6 / 32 | 6 / 13 / 34 | 26 / 41 / 43 |
+| 용어 보호 / Term-protected | 100 / 100 / 100 | 100 / 100 / 100 | 100 / 100 / 100 | 100 / 100 / 100 | 100 / 100 / 100 |
 
 - 용어 보호를 쓰면 공식명 정확도가 모델과 무관해진다. 그래서 가장 빠른 모델(gpt-oss, 문장당 약 3초, Gemma는 약 15초)을 고를 수 있다. / With protection, term accuracy no longer depends on the model, so the fastest model can be used.
+- 상용 API: Haiku는 로컬 모델과 같은 수준이고, Gemini는 한국어 공식명을 4~5배 더 맞혔지만 여전히 70% 넘게 틀렸다. Gemini 오답에는 다른 몬스터·등급의 공식명으로 바꿔 쓴 경우가 섞여 있어 사람이 놓치기 쉽다. 공지체 틀 20개에서도 같은 경향(Gemini ko 28/100, 부분 일치로 셌던 1건을 사람이 오답으로 정정, `results/score_overrides.tsv`). 비용은 두 조건 200문장에 Haiku $0.019, Gemini $0.044. / Haiku matched the local models; Gemini got 4 to 5 times more Korean names right but still missed over 70%, sometimes swapping in the official name of a different monster or item tier. Cost for 200 sentences: Haiku $0.019, Gemini $0.044.
 - 한국어 검수 시험(오류 10개를 심은 15문장): 사람 1회 8/10, 193초. 검수기 10/10, 약 6ms. / Manual review test: one person found 8/10 in 193 s; the checker found 10/10 in about 6 ms.
 
 **voc-pipeline** (합성 유저 의견, 세트별 정답은 사람이 확정한 것만 채점)
 
-- 카테고리 정확도: Set A(150건) Gemma 141, gpt-oss 137. Set B(80건) Gemma 78, gpt-oss 73. / Category accuracy as above.
+카테고리 정답 수(최종 프롬프트 cap2, 정답 v3). 상용 API 두 개는 같은 프롬프트로 비교. / Correct categories with the final prompt (cap2), including two commercial APIs on the same prompt.
+
+| 세트 / Set | Gemma | gpt-oss | Claude Haiku 5.5 | Gemini 3.5 Flash-Lite |
+|---|---|---|---|---|
+| A 합성 / synthetic (150) | 139 | 133 | 145 | 144 |
+| B 합성 / synthetic (80) | 77 | 72 | 77 | 80 |
+| C 합성 / synthetic (80) | 73 | 64 | 76 | 71 |
+| 실제 리뷰 / real reviews (50) | 29 | 33 | 34 | 34 |
+
+
+- 실제 리뷰(Steam 공개 리뷰 50건, 한·영 각 25, 정답은 직접 라벨)에서는 네 모델 모두 합성보다 25~35%p 낮았다. 주로 감상·장난 글과 밸런스·버그 불만의 경계에서 틀렸다. 원문은 공개하지 않는다. / On 50 real public Steam reviews (hand-labeled), all four models scored 25 to 35 points lower than on synthetic data, mostly on the line between casual comments and balance or bug complaints. The review texts are not published.
+- 상용 API는 정확도가 로컬과 비슷하고, 차이는 형식 실패 0건과 속도(글 한 건에 1초 안팎, Gemma 약 14초)에서 났다. 비용은 Set A 150건에 Haiku $0.021, Gemini $0.031(실측 토큰 x 공식 단가). / Commercial APIs matched local accuracy; the gains were zero format failures and speed. Cost for 150 posts: Haiku $0.021, Gemini $0.031.
+- JSON 스키마 강제(LM Studio): Gemma 형식 실패 8건에서 7건. 남은 실패는 추론에 토큰을 다 써서 답이 빈 경우라 스키마로 못 막고, 재시도와 사람 검수로 처리한다. / Schema-constrained output cut Gemma's format failures from 8 to 7; the rest are empty answers after reasoning used up the token budget.
 - 임베딩: bge-m3로 바꾸자 주제 군집 일치도(ARI)가 0.24에서 0.93(Set A)으로 올랐고, 급증 25건이 한 묶음으로 잡혔다. / Switching embeddings to bge-m3 raised cluster agreement (ARI) from 0.24 to 0.93 and kept a 25-post spike in one cluster.
 - 자세한 수치와 해석: [`voc-pipeline/docs/04_결과요약.md`](voc-pipeline/docs/04_결과요약.md)
 
@@ -55,10 +69,10 @@ python scripts/classify.py google/gemma-4-12b-qat mytag
 
 ## 한계 / Limitations
 
-- VOC 데이터는 전부 합성(LLM 생성)이다. 실제 유저 글은 쓰지 않았다. / All VOC data is synthetic.
+- VOC 학습·측정 데이터는 합성(LLM 생성)이다. 실제 글은 Steam 공개 리뷰 50건(게임 하나, 라벨러 한 명)으로만 확인했으므로 방향만 말할 수 있다. / VOC data is synthetic; the real-review check is 50 reviews of one game labeled by one person, so it shows direction only.
 - l10n의 정답 용어는 실제 공식 표기(PokéAPI, 사람이 검수한 몬헌 288개)지만 문장 틀은 직접 만든 것이다. 일본어는 사람이 검증하지 않았다. / Terms are real official names; sentence templates are hand-made. Japanese was not human-verified.
 - 검수기 규칙과 심은 오류를 같은 쪽에서 설계했으므로 검출률은 설계 범위 안의 값이다. / Checker rules and planted errors were designed together.
-- 상용 API와의 비용·품질 비교는 아직 하지 않았다. 시드 1개, 표본이 작아 소수점 차이는 의미 없다. / No commercial-API comparison yet; single seed, small samples.
+- 상용 API는 경량 모델 두 개만 비교했다(상위 모델은 측정하지 않음). l10n은 한국어 표기만 사람이 판정했다. 시드 1개, 표본이 작아 몇 건 차이는 의미 없다. / Only two lightweight commercial models were compared; for l10n only Korean was judged by a person. Single seed, small samples: differences of a few items are not meaningful.
 
 ## 데이터와 권리 / Data and rights
 
@@ -68,5 +82,5 @@ python scripts/classify.py google/gemma-4-12b-qat mytag
 
 ## 만든 방식 / How it was built
 
-코드는 Claude Code와 함께 작성했습니다. 분류 기준, 정답 라벨, 측정 전 예측, 결과 해석은 직접 정하고 확정했습니다.
-Code was written with Claude Code. Classification criteria, gold labels, pre-measurement predictions and interpretation were decided by me.
+코드는 Claude Code와 함께 작성했습니다. 분류 기준, 정답 라벨, 측정 전 예측은 직접 정했고, 결과 해석은 직접 하고 확정했습니다.
+Code was written with Claude Code. I set the classification criteria, gold labels and pre-measurement predictions myself, and I interpreted the results and finalized them myself.

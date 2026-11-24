@@ -1,0 +1,2 @@
+model	tpl	id	match	메모
+gemini-3.5-flash-lite	notice	62	False	'응급약 G'는 공식명 응급약을 품었지만 다른 이름. 띄어쓰기 무시 부분 일치라 정답으로 셌던 것을 사용자 판정으로 오답(2026-11-24)

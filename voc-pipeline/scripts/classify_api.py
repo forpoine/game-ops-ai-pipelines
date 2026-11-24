@@ -1,11 +1,12 @@
-"""상용 API로 같은 분류를 돌려 로컬 모델과 비교한다(2026-11-19). 프롬프트는 prompts.py(로컬과 같은 글자). 합성 데이터만 보낸다.
+"""상용 API로 같은 분류를 돌려 로컬 모델과 비교한다(2026-11-19). 프롬프트는 prompts.py(로컬과 같은 글자). 합성 데이터를 보내고, 예외로 realcheck의 공개 스팀 리뷰 50건을 Haiku로 측정했다(2026-11-19, 결과 pred_real_*는 공개 제외).
 사용: python scripts/classify_api.py <claude|gemini> <model_id> <tag> [N]
   예: VOC_PROMPT=cap2 VOC_GOLD=syn_voc_gold_v3.csv python scripts/classify_api.py claude claude-haiku-5-5 haiku_cap2
       VOC_PROMPT=cap2 VOC_GOLD=syn_voc_gold_v3.csv python scripts/classify_api.py gemini <gemini 모델 id> gemini_cap2
 키: ANTHROPIC_API_KEY, GEMINI_API_KEY 환경 변수 또는 voc-pipeline/.env (코드에 적지 않는다).
 출력: data/pred_<tag>.csv. classify.py와 같은 열 + in_tok, out_tok(추론 토큰 포함). 비용은 scripts/cost.py가 토큰 x 단가로 계산.
 형식 강제: 두 API 모두 JSON 스키마 구조화 출력을 쓴다. 실패(거절, 빈 응답, 오류)는 1회 재시도 후 needs_review=1.
-설정: VOC_EFFORT(Claude effort, 기본 low), VOC_API_SLEEP(호출 사이 초, 무료 등급 분당 한도용, 기본 0).
+설정: VOC_EFFORT(Claude effort, 기본 low), VOC_API_SLEEP(호출 사이 초, 무료 등급 분당 한도용, 기본 0),
+      VOC_RESUME=1(기존 결과에서 API 오류 행만 다시 호출, 429 한도 오류 복구용).
 """
 import csv, json, os, pathlib, re, sys, time
 
@@ -74,11 +75,18 @@ def parse(raw):
 
 rows = list(csv.DictReader(open(GOLD, encoding="utf-8-sig")))
 n = int(sys.argv[4]) if len(sys.argv) > 4 else len(rows)
+# VOC_RESUME=1: 기존 결과 파일에서 API 오류(finish가 error:로 시작, 예: 429 한도)인 글만 다시 묻고 나머지 행은 그대로 둔다.
+# 모델이 낸 형식 실패는 다시 묻지 않는다(측정 대상이므로).
+KEEP = {}
+if os.environ.get("VOC_RESUME") == "1" and OUT.exists():
+    KEEP = {p["id"]: p for p in csv.DictReader(open(OUT, encoding="utf-8-sig")) if not p["finish"].startswith("error:")}
 with open(OUT, "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=["id", "pred_category", "pred_severity", "pred_sentiment", "sec", "raw",
                                       "tries", "needs_review", "in_tok", "out_tok", "finish"])
     w.writeheader()
     for r in rows[:n]:
+        if r["id"] in KEEP:
+            w.writerow(KEEP[r["id"]]); continue
         t0 = time.time(); tries = 0; tin = tout = 0; d, ok, raw, fin = {}, False, "", ""
         while True:
             tries += 1
@@ -86,7 +94,8 @@ with open(OUT, "w", newline="", encoding="utf-8-sig") as f:
                 raw, i, o, fin = ask(r["text"]); tin += i; tout += o
                 d, ok = parse(raw)
             except Exception as e:  # 네트워크·한도 오류: SDK 재시도 후에도 실패하면 기록하고 다음 시도
-                raw, fin = "", f"error:{type(e).__name__}"
+                msg = re.sub(r"\s+", " ", str(e))[:150]  # 오류 코드·메시지 앞부분(원인 확인용, 키는 포함되지 않음)
+                raw, fin = "", f"error:{type(e).__name__}:{getattr(e, 'code', '')}:{msg}"
                 time.sleep(10)
             if ok or tries > RETRY:
                 break

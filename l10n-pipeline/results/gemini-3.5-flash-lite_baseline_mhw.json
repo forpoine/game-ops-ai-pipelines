@@ -1,0 +1,3514 @@
+[
+ {
+  "id": 0,
+  "api_id": "mhw-item-84",
+  "type": "item",
+  "src": "As compensation, all hunters will receive 10 Dung Pod by November 25.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"보상으로 모든 헌터에게 11월 25일까지 거름탄 10개가 지급됩니다.\",\n  \"ja\": \"お詫びとして、11月25日までにすべてのハンターに「こやし玉」を10個配布します。\",\n  \"es\": \"Como compensación, todos los cazadores recibirán 10 cápsulas de estiércol antes del 25 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 54,
+  "out_tok": 103,
+  "sec": 1.1,
+  "langs": {
+   "ko": {
+    "out": "보상으로 모든 헌터에게 11월 25일까지 거름탄 10개가 지급됩니다.",
+    "official": "슬링어 거름탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お詫びとして、11月25日までにすべてのハンターに「こやし玉」を10個配布します。",
+    "official": "スリンガーこやし弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Como compensación, todos los cazadores recibirán 10 cápsulas de estiércol antes del 25 de noviembre.",
+    "official": "Cápsula boñiga",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 1,
+  "api_id": "mhw-item-40",
+  "type": "item",
+  "src": "Hunters who log in during the festival will receive 3 Smokenut.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"축제 기간 동안 접속하는 헌터에게는 연기열매 3개가 지급됩니다.\",\"ja\":\"お祭りの期間中にログインしたハンターには、煙の実が3つ贈られます。\",\"es\":\"Los cazadores que inicien sesión durante el festival recibirán 3 Nueces ahumadas.\"}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 70,
+  "sec": 1.4,
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 접속하는 헌터에게는 연기열매 3개가 지급됩니다.",
+    "official": "연기열매",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "お祭りの期間中にログインしたハンターには、煙の実が3つ贈られます。",
+    "official": "ケムリの実",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores que inicien sesión durante el festival recibirán 3 Nueces ahumadas.",
+    "official": "Nuez de humo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 2,
+  "api_id": "mhw-item-103",
+  "type": "item",
+  "src": "We have fixed an issue where Gunpowder Level 3 could not be sold at the shop.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"화약 레벨 3을 상점에서 판매할 수 없던 문제가 수정되었습니다.\",\n  \"ja\": \"火薬レベル3がショップで売却できなかった問題を修正しました。\",\n  \"es\": \"Hemos solucionado un problema por el cual la Pólvora de Nivel 3 no se podía vender en la tienda.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 78,
+  "sec": 1.29,
+  "langs": {
+   "ko": {
+    "out": "화약 레벨 3을 상점에서 판매할 수 없던 문제가 수정되었습니다.",
+    "official": "LV3 화약분",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "火薬レベル3がショップで売却できなかった問題を修正しました。",
+    "official": "LV3 火薬粉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Hemos solucionado un problema por el cual la Pólvora de Nivel 3 no se podía vender en la tienda.",
+    "official": "Pólvora nivel 3",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 3,
+  "api_id": "mhw-item-851",
+  "type": "item",
+  "src": "The maximum number of Plunderblade you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"소지할 수 있는 약탈약의 최대 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"所持できる掠奪の刀身の最大数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de Cuchillas saqueadoras que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 58,
+  "out_tok": 94,
+  "sec": 0.85,
+  "langs": {
+   "ko": {
+    "out": "소지할 수 있는 약탈약의 최대 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "약탈의 공격의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "所持できる掠奪の刀身の最大数が10個から20個に引き上げられました。",
+    "official": "ぶんどり突撃の指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El número máximo de Cuchillas saqueadoras que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Cortabolsas",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 4,
+  "api_id": "mhw-item-13",
+  "type": "item",
+  "src": "We have fixed an issue where Cool Drink could not be sold at the shop.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"상점에서 쿨드링크를 판매할 수 없던 문제를 수정했습니다.\",\n  \"ja\": \"ショップで「クーラードリンク」が売却できなかった不具合を修正しました。\",\n  \"es\": \"Hemos solucionado un problema por el cual la Bebida fría no se podía vender en la tienda.\"\n}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 76,
+  "sec": 0.99,
+  "langs": {
+   "ko": {
+    "out": "상점에서 쿨드링크를 판매할 수 없던 문제를 수정했습니다.",
+    "official": "쿨드링크",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "ショップで「クーラードリンク」が売却できなかった不具合を修正しました。",
+    "official": "クーラードリンク",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Hemos solucionado un problema por el cual la Bebida fría no se podía vender en la tienda.",
+    "official": "Bebida fría",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 5,
+  "api_id": "mhw-item-20",
+  "type": "item",
+  "src": "The maximum number of Might Seed you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"소지할 수 있는 힘의 씨앗의 최대 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"所持できる力の種の最大数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de Semillas de poder que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 57,
+  "out_tok": 90,
+  "sec": 1.22,
+  "langs": {
+   "ko": {
+    "out": "소지할 수 있는 힘의 씨앗의 최대 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "괴력씨앗",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "所持できる力の種の最大数が10個から20個に引き上げられました。",
+    "official": "怪力の種",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El número máximo de Semillas de poder que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Semilla de poder",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 6,
+  "api_id": "mhw-item-1787",
+  "type": "item",
+  "src": "Each hunter receives one Plunderers: Steamed Cricket as a login reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"모든 헌터는 로그인 보상으로 약탈자: 찐 귀뚜라미 1개를 받습니다.\",\"ja\":\"ハンターの皆様全員に、ログイン報酬として「オトモ探検隊：蒸しコオロギ」が1個贈られます。\",\"es\":\"Cada cazador recibe un Cricket al vapor de Saqueadores como recompensa de inicio de sesión.\"}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 87,
+  "sec": 1.31,
+  "langs": {
+   "ko": {
+    "out": "모든 헌터는 로그인 보상으로 약탈자: 찐 귀뚜라미 1개를 받습니다.",
+    "official": "약탈 부족-골충 찜",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ハンターの皆様全員に、ログイン報酬として「オトモ探検隊：蒸しコオロギ」が1個贈られます。",
+    "official": "ぶんどり族・骨虫蒸し",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada cazador recibe un Cricket al vapor de Saqueadores como recompensa de inicio de sesión.",
+    "official": "Saqueadores: grillo al vapor",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 7,
+  "api_id": "mhw-item-182",
+  "type": "item",
+  "src": "Each hunter receives one First-aid Med+ as a login reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"모든 헌터에게 로그인 보상으로 응급약·G 1개가 지급됩니다.\",\n  \"ja\": \"ログインボーナスとして、ハンターの皆様に「応急薬グレート」を1個プレゼントします。\",\n  \"es\": \"Cada cazador recibe un Supermedicamento como recompensa de inicio de sesión.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 81,
+  "sec": 1.14,
+  "langs": {
+   "ko": {
+    "out": "모든 헌터에게 로그인 보상으로 응급약·G 1개가 지급됩니다.",
+    "official": "그레이트 응급약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ログインボーナスとして、ハンターの皆様に「応急薬グレート」を1個プレゼントします。",
+    "official": "応急薬グレート",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Cada cazador recibe un Supermedicamento como recompensa de inicio de sesión.",
+    "official": "Medicamento+",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 8,
+  "api_id": "mhw-item-26",
+  "type": "item",
+  "src": "Due to a display error, the description of Mega Armorskin was shown incorrectly. This has been fixed.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"표시 오류로 인해 메가 강주약의 설명이 잘못 나타났던 문제가 수정되었습니다.\",\"ja\":\"表示上の不具合により、強走薬グレートの説明文が誤って表示されていましたが、修正されました。\",\"es\":\"Debido a un error de visualización, la descripción del Mega Demondroga se mostró incorrectamente. Esto ya ha sido solucionado.\"}"
+   }
+  ],
+  "in_tok": 58,
+  "out_tok": 82,
+  "sec": 1.24,
+  "langs": {
+   "ko": {
+    "out": "표시 오류로 인해 메가 강주약의 설명이 잘못 나타났던 문제가 수정되었습니다.",
+    "official": "그레이트 경화약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "表示上の不具合により、強走薬グレートの説明文が誤って表示されていましたが、修正されました。",
+    "official": "硬化薬グレート",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un error de visualización, la descripción del Mega Demondroga se mostró incorrectamente. Esto ya ha sido solucionado.",
+    "official": "Piel de armadura+",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 9,
+  "api_id": "mhw-item-95",
+  "type": "item",
+  "src": "The maximum number of Blastnut you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"소지할 수 있는 폭탄열매의 최대 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"所持できるハジケツボミの最大数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de nueces nitro que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 57,
+  "out_tok": 94,
+  "sec": 1.06,
+  "langs": {
+   "ko": {
+    "out": "소지할 수 있는 폭탄열매의 최대 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "폭렬열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "所持できるハジケツボミの最大数が10個から20個に引き上げられました。",
+    "official": "バクレツの実",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El número máximo de nueces nitro que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Nuez pegajosa",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 10,
+  "api_id": "mhw-item-194",
+  "type": "item",
+  "src": "As compensation, all hunters will receive 10 EZ Screamer Pod by November 25.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"보상으로 모든 헌터에게 11월 25일까지 응급 섬광탄 10개가 지급됩니다.\",\n  \"ja\": \"お詫びとして、11月25日までにすべてのハンターに「応急モドリ玉」10個が配布されます。\",\n  \"es\": \"Como compensación, todos los cazadores recibirán 10 cápsulas ultrasónicas G antes del 25 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 56,
+  "out_tok": 106,
+  "sec": 1.15,
+  "langs": {
+   "ko": {
+    "out": "보상으로 모든 헌터에게 11월 25일까지 응급 섬광탄 10개가 지급됩니다.",
+    "official": "지급전용 음폭탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お詫びとして、11月25日までにすべてのハンターに「応急モドリ玉」10個が配布されます。",
+    "official": "支給用音爆弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Como compensación, todos los cazadores recibirán 10 cápsulas ultrasónicas G antes del 25 de noviembre.",
+    "official": "Cápsula chillona (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 11,
+  "api_id": "mhw-item-15",
+  "type": "item",
+  "src": "Bring a Mega Nutrients with you before heading to the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"썩어가는 골짜기로 향하기 전에 영양제를 챙기세요.\",\n  \"ja\": \"瘴気の谷に向かう前に、強走薬を持って行きましょう。\",\n  \"es\": \"Lleva un Meganutriente contigo antes de ir al Valle Putrefacto.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 68,
+  "sec": 0.99,
+  "langs": {
+   "ko": {
+    "out": "썩어가는 골짜기로 향하기 전에 영양제를 챙기세요.",
+    "official": "그레이트 영양제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "瘴気の谷に向かう前に、強走薬を持って行きましょう。",
+    "official": "栄養剤グレート",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Lleva un Meganutriente contigo antes de ir al Valle Putrefacto.",
+    "official": "Meganutrientes",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 12,
+  "api_id": "mhw-item-131",
+  "type": "item",
+  "src": "Each hunter receives one Evasion Mantle as a login reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"모든 헌터에게 로그인 보상으로 회피의 복장이 지급됩니다.\",\"ja\":\"すべてのハンターにログインボーナスとして回避の装衣が配布されます。\",\"es\":\"Cada cazador recibe un Manto de evasión como recompensa de inicio de sesión.\"}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 62,
+  "sec": 0.9,
+  "langs": {
+   "ko": {
+    "out": "모든 헌터에게 로그인 보상으로 회피의 복장이 지급됩니다.",
+    "official": "회피 복장",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "すべてのハンターにログインボーナスとして回避の装衣が配布されます。",
+    "official": "回避の装衣",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Cada cazador recibe un Manto de evasión como recompensa de inicio de sesión.",
+    "official": "Manto de evasión",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 13,
+  "api_id": "mhw-item-56",
+  "type": "item",
+  "src": "Players can buy a Nourishing Extract at the provisions shop for 200 zenny.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"플레이어는 잡화점에서 영양 추출액을 200 제니에 구매할 수 있습니다.\",\n  \"ja\": \"プレイヤーは雑貨屋で栄養エキスを200ゼニーで購入できます。\",\n  \"es\": \"Los jugadores pueden comprar un extracto nutritivo en la tienda de provisiones por 200 zenis.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 83,
+  "sec": 0.85,
+  "langs": {
+   "ko": {
+    "out": "플레이어는 잡화점에서 영양 추출액을 200 제니에 구매할 수 있습니다.",
+    "official": "자양진액",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーは雑貨屋で栄養エキスを200ゼニーで購入できます。",
+    "official": "滋養エキス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar un extracto nutritivo en la tienda de provisiones por 200 zenis.",
+    "official": "Extracto nutritivo",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 14,
+  "api_id": "mhw-item-10",
+  "type": "item",
+  "src": "As compensation, all hunters will receive 10 Rare Steak by November 25.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"보상으로 모든 헌터에게 11월 25일까지 '고급 식고기' 10개가 지급됩니다.\",\n  \"ja\": \"お詫びとして、11月25日までにすべてのハンターに「こんがり肉G」10個が配布されます。\",\n  \"es\": \"Como compensación, todos los cazadores recibirán 10 filetes bien hechos antes del 25 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 54,
+  "out_tok": 106,
+  "sec": 1.34,
+  "langs": {
+   "ko": {
+    "out": "보상으로 모든 헌터에게 11월 25일까지 '고급 식고기' 10개가 지급됩니다.",
+    "official": "설익은 고기",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お詫びとして、11月25日までにすべてのハンターに「こんがり肉G」10個が配布されます。",
+    "official": "生焼け肉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Como compensación, todos los cazadores recibirán 10 filetes bien hechos antes del 25 de noviembre.",
+    "official": "Filete poco hecho",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 15,
+  "api_id": "mhw-item-24",
+  "type": "item",
+  "src": "As compensation, all hunters will receive 10 Adamant Seed by November 25.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"보상으로 모든 헌터에게 11월 25일까지 예리한 씨앗 10개가 지급됩니다.\",\n  \"ja\": \"お詫びとして、11月25日までにすべてのハンターに「力の種」10個を配布いたします。\",\n  \"es\": \"Como compensación, todos los cazadores recibirán 10 Semillas de poder antes del 25 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 102,
+  "sec": 0.88,
+  "langs": {
+   "ko": {
+    "out": "보상으로 모든 헌터에게 11월 25일까지 예리한 씨앗 10개가 지급됩니다.",
+    "official": "인내씨앗",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お詫びとして、11月25日までにすべてのハンターに「力の種」10個を配布いたします。",
+    "official": "忍耐の種",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Como compensación, todos los cazadores recibirán 10 Semillas de poder antes del 25 de noviembre.",
+    "official": "Semilla armadura",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 16,
+  "api_id": "mhw-item-113",
+  "type": "item",
+  "src": "Due to a display error, the description of Great Bomb Arowana Scale was shown incorrectly. This has been fixed.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"디스플레이 오류로 인해 대형 폭탄 아로와나 비늘의 설명이 잘못 표시되었습니다. 이 문제가 수정되었습니다.\",\n  \"ja\": \"表示エラーにより、「大爆弾アロワナのウロコ」の説明文が誤って表示されていましたが、現在は修正されています。\",\n  \"es\": \"Debido a un error de visualización, la descripción de la escama de arowana bomba grande se mostró incorrectamente. Esto ya ha sido solucionado.\"\n}"
+   }
+  ],
+  "in_tok": 60,
+  "out_tok": 111,
+  "sec": 1.13,
+  "langs": {
+   "ko": {
+    "out": "디스플레이 오류로 인해 대형 폭탄 아로와나 비늘의 설명이 잘못 표시되었습니다. 이 문제가 수정되었습니다.",
+    "official": "대형폭렬 비늘",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "表示エラーにより、「大爆弾アロワナのウロコ」の説明文が誤って表示されていましたが、現在は修正されています。",
+    "official": "大バクレツウロコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un error de visualización, la descripción de la escama de arowana bomba grande se mostró incorrectamente. Esto ya ha sido solucionado.",
+    "official": "Escama de arrowana bomba real",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 17,
+  "api_id": "mhw-item-109",
+  "type": "item",
+  "src": "Bring a Great Gunpowderfish Scale with you before heading to the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"썩은 골짜기로 향하기 전에 예쁜 화약鱼의 비늘을 챙겨가세요.\",\n  \"ja\": \"爛用の谷に向かう前に、立派な爆薬魚のウロコを持って行ってください。\",\n  \"es\": \"Lleva una escama de pez pólvora brillante contigo antes de dirigirte al Valle Putrefacto.\"\n}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 87,
+  "sec": 1.02,
+  "langs": {
+   "ko": {
+    "out": "썩은 골짜기로 향하기 전에 예쁜 화약鱼의 비늘을 챙겨가세요.",
+    "official": "대형폭약 비늘",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "爛用の谷に向かう前に、立派な爆薬魚のウロコを持って行ってください。",
+    "official": "大バクヤクウロコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Lleva una escama de pez pólvora brillante contigo antes de dirigirte al Valle Putrefacto.",
+    "official": "Escama de pez pólvora real",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 18,
+  "api_id": "mhw-item-18",
+  "type": "item",
+  "src": "We have fixed an issue where Dash Juice could not be sold at the shop.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"상점에서 대시 주스를 판매할 수 없던 문제가 수정되었습니다.\",\n  \"ja\": \"ショップでダッシュジュースが売却できなかった問題を修正しました。\",\n  \"es\": \"Se ha solucionado un problema por el cual el Jugo Turbo no se podía vender en la tienda.\"\n}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 71,
+  "sec": 1.24,
+  "langs": {
+   "ko": {
+    "out": "상점에서 대시 주스를 판매할 수 없던 문제가 수정되었습니다.",
+    "official": "강주약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ショップでダッシュジュースが売却できなかった問題を修正しました。",
+    "official": "強走薬",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se ha solucionado un problema por el cual el Jugo Turbo no se podía vender en la tienda.",
+    "official": "Zumo de poder",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 19,
+  "api_id": "mhw-item-63",
+  "type": "item",
+  "src": "Bring a Poison Smoke Bomb with you before heading to the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"독연막탄을 챙겨서 독기의 골짜기로 향하세요.\",\n  \"ja\": \"毒けむり玉を持って瘴気の谷へ向かってください。\",\n  \"es\": \"Lleva una bomba de humo venenoso contigo antes de dirigirte al Valle Putrefacto.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 71,
+  "sec": 1.14,
+  "langs": {
+   "ko": {
+    "out": "독연막탄을 챙겨서 독기의 골짜기로 향하세요.",
+    "official": "독연기옥",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "毒けむり玉を持って瘴気の谷へ向かってください。",
+    "official": "毒けむり玉",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Lleva una bomba de humo venenoso contigo antes de dirigirte al Valle Putrefacto.",
+    "official": "Bola de humo venenoso",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 20,
+  "api_id": "mhw-item-25",
+  "type": "item",
+  "src": "The maximum number of Armorskin you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"소지할 수 있는 갑옷피부의 최대 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"所持できる硬化薬の最大数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de Piel de armadura que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 58,
+  "out_tok": 93,
+  "sec": 0.91,
+  "langs": {
+   "ko": {
+    "out": "소지할 수 있는 갑옷피부의 최대 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "경화약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "所持できる硬化薬の最大数が10個から20個に引き上げられました。",
+    "official": "硬化薬",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "El número máximo de Piel de armadura que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Piel de armadura",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 21,
+  "api_id": "mhw-item-186",
+  "type": "item",
+  "src": "Due to a display error, the description of EZ Large Barrel Bomb was shown incorrectly. This has been fixed.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"표시 오류로 인해 EZ 대형나무통폭탄의 설명이 잘못 표시되었습니다. 이 문제가 수정되었습니다.\",\"ja\":\"表示エラーにより、EZ大タル爆弾の説明文が誤って表示されていました。こちらは修正されました。\",\"es\":\"Debido a un error de visualización, la descripción del Barril explosivo grande F se mostraba incorrectamente. Esto ya ha sido solucionado.\"}"
+   }
+  ],
+  "in_tok": 58,
+  "out_tok": 87,
+  "sec": 1.06,
+  "langs": {
+   "ko": {
+    "out": "표시 오류로 인해 EZ 대형나무통폭탄의 설명이 잘못 표시되었습니다. 이 문제가 수정되었습니다.",
+    "official": "지급 대형나무통폭탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "表示エラーにより、EZ大タル爆弾の説明文が誤って表示されていました。こちらは修正されました。",
+    "official": "支給用大タル爆弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un error de visualización, la descripción del Barril explosivo grande F se mostraba incorrectamente. Esto ya ha sido solucionado.",
+    "official": "Bomba barril grande (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 22,
+  "api_id": "mhw-item-110",
+  "type": "item",
+  "src": "As compensation, all hunters will receive 10 Burst Arowana Scale by November 25.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"보상으로 모든 헌터에게 11월 25일까지 폭렬아로와나 비늘 10개가 지급됩니다.\",\n  \"ja\": \"お詫びとして、11月25日までにすべてのハンターに爆薬イワシのウロコ10個が配布されます。\",\n  \"es\": \"Como compensación, todos los cazadores recibirán 10 escamas de Arowana explosiva antes del 25 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 57,
+  "out_tok": 113,
+  "sec": 1.03,
+  "langs": {
+   "ko": {
+    "out": "보상으로 모든 헌터에게 11월 25일까지 폭렬아로와나 비늘 10개가 지급됩니다.",
+    "official": "파열 비늘",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お詫びとして、11月25日までにすべてのハンターに爆薬イワシのウロコ10個が配布されます。",
+    "official": "ハレツウロコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Como compensación, todos los cazadores recibirán 10 escamas de Arowana explosiva antes del 25 de noviembre.",
+    "official": "Escama de arrowana reventona",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 23,
+  "api_id": "mhw-item-16",
+  "type": "item",
+  "src": "Complete the daily bounty to receive Immunizer x5.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"일일 현상금 사냥을 완료하고 면역제 5개를 받으세요.\",\n  \"ja\": \"デイリーバウンティを完了して、免疫剤 x5を手に入れよう。\",\n  \"es\": \"Completa la recompensa diaria para recibir Inmunizador x5.\"\n}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 72,
+  "sec": 1.35,
+  "langs": {
+   "ko": {
+    "out": "일일 현상금 사냥을 완료하고 면역제 5개를 받으세요.",
+    "official": "활력제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "デイリーバウンティを完了して、免疫剤 x5を手に入れよう。",
+    "official": "活力剤",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Completa la recompensa diaria para recibir Inmunizador x5.",
+    "official": "Inmunizador",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 24,
+  "api_id": "mhw-item-189",
+  "type": "item",
+  "src": "Bring a EZ Herbal Powder with you before heading to the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"부식된 골짜기로 향하기 전에 간편 약초 가루를 챙기세요.\",\"ja\":\"烂泥谷に行く前に、お手軽ハーブ粉を持参してください。\",\"es\":\"Lleva contigo un polvo de hierbas fácil antes de dirigirte al Valle Putrefacto.\"}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 65,
+  "sec": 1.25,
+  "langs": {
+   "ko": {
+    "out": "부식된 골짜기로 향하기 전에 간편 약초 가루를 챙기세요.",
+    "official": "지급전용 한방가루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "烂泥谷に行く前に、お手軽ハーブ粉を持参してください。",
+    "official": "支給用漢方の粉塵",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Lleva contigo un polvo de hierbas fácil antes de dirigirte al Valle Putrefacto.",
+    "official": "Polvo de hierbas (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 25,
+  "api_id": "mhw-item-33",
+  "type": "item",
+  "src": "Hunters who log in during the festival will receive 3 Herb.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"축제 기간 동안 접속하는 헌터분들께는 허브 3개가 지급됩니다.\",\"ja\":\"お祭りの期間中にログインしたハンターには、ハーブ3個が贈られます。\",\"es\":\"Los cazadores que inicien sesión durante el festival recibirán 3 hierbas.\"}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 67,
+  "sec": 4.53,
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 접속하는 헌터분들께는 허브 3개가 지급됩니다.",
+    "official": "약초",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お祭りの期間中にログインしたハンターには、ハーブ3個が贈られます。",
+    "official": "薬草",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores que inicien sesión durante el festival recibirán 3 hierbas.",
+    "official": "Hierba",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 26,
+  "api_id": "mhw-item-59",
+  "type": "item",
+  "src": "Players can buy a Tranq Bomb at the provisions shop for 200 zenny.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"플레이어는 보급품 상점에서 마취 폭탄을 200 제니에 구매할 수 있습니다.\",\n  \"ja\": \"プレイヤーは補給品店で麻酔玉を200ゼニーで購入できます。\",\n  \"es\": \"Los jugadores pueden comprar una bomba tranq en la tienda de provisiones por 200 zenis.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 87,
+  "sec": 1.18,
+  "langs": {
+   "ko": {
+    "out": "플레이어는 보급품 상점에서 마취 폭탄을 200 제니에 구매할 수 있습니다.",
+    "official": "포획용마취옥",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーは補給品店で麻酔玉を200ゼニーで購入できます。",
+    "official": "捕獲用麻酔玉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar una bomba tranq en la tienda de provisiones por 200 zenis.",
+    "official": "Bola tranquilizante",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 27,
+  "api_id": "mhw-item-846",
+  "type": "item",
+  "src": "The maximum number of Thunderbug Cage you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"번개빛벌레장의 최대 소지 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"雷光虫かごの最大所持数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de jaulas de rayo que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 58,
+  "out_tok": 92,
+  "sec": 0.97,
+  "langs": {
+   "ko": {
+    "out": "번개빛벌레장의 최대 소지 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "마비 벌레장의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "雷光虫かごの最大所持数が10個から20個に引き上げられました。",
+    "official": "痺れ虫かごの指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El número máximo de jaulas de rayo que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Jaula de electrobicho",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 28,
+  "api_id": "mhw-item-845",
+  "type": "item",
+  "src": "Hunters who log in during the festival will receive 3 Flashfly Cage.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"축제 기간 동안 접속하는 헌터에게는 섬광벌레 우리 3개가 지급됩니다.\",\n  \"ja\": \"フェスティバル期間中にログインしたハンターには、閃光羽虫の籠3個がプレゼントされます。\",\n  \"es\": \"Los cazadores que inicien sesión durante el festival recibirán 3 jaulas de bicho luminoso.\"\n}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 87,
+  "sec": 1.33,
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 접속하는 헌터에게는 섬광벌레 우리 3개가 지급됩니다.",
+    "official": "섬광 벌레장의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "フェスティバル期間中にログインしたハンターには、閃光羽虫の籠3個がプレゼントされます。",
+    "official": "閃光虫かごの指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores que inicien sesión durante el festival recibirán 3 jaulas de bicho luminoso.",
+    "official": "Jaula de noctiluca",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 29,
+  "api_id": "mhw-item-1786",
+  "type": "item",
+  "src": "A Troupers: Horned Urchin will be sent to your item box after maintenance.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"점검 후 아이템 보관함으로 'Troupers: 뿔 성게'가 지급됩니다.\",\n  \"ja\": \"メンテナンス後、アイテムボックスに「トルーパーズ：ツノウニ」が送られます。\",\n  \"es\": \"Se enviará un Troupers: Erizo con cuernos a tu caja de objetos después del mantenimiento.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 86,
+  "sec": 1.33,
+  "langs": {
+   "ko": {
+    "out": "점검 후 아이템 보관함으로 'Troupers: 뿔 성게'가 지급됩니다.",
+    "official": "춤 부족-외뿔 성게",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、アイテムボックスに「トルーパーズ：ツノウニ」が送られます。",
+    "official": "かなで族・一角ウニ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se enviará un Troupers: Erizo con cuernos a tu caja de objetos después del mantenimiento.",
+    "official": "Trovadores: erizo de mar cornudo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 30,
+  "api_id": "mhw-item-1022",
+  "type": "item",
+  "src": "We have fixed an issue where Vigorwasp Revival could not be sold at the shop.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"회복벌레 소생이 상점에서 판매되지 않던 문제를 수정했습니다.\",\n  \"ja\": \"クタビレタケの復活がショップで売却できなかった問題を修正しました。\",\n  \"es\": \"Hemos solucionado un problema por el cual la Reanimación con vigorwasp no se podía vender en la tienda.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 79,
+  "sec": 1.13,
+  "langs": {
+   "ko": {
+    "out": "회복벌레 소생이 상점에서 판매되지 않던 문제를 수정했습니다.",
+    "official": "꿀벌레 근성의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "クタビレタケの復活がショップで売却できなかった問題を修正しました。",
+    "official": "ミツムシど根性の指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Hemos solucionado un problema por el cual la Reanimación con vigorwasp no se podía vender en la tienda.",
+    "official": "Revivir melífera vitae",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 31,
+  "api_id": "mhw-item-192",
+  "type": "item",
+  "src": "Each hunter receives one EZ Dung Pod as a login reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"모든 헌터에게 로그인 보상으로 응급 거름탄 1개가 지급됩니다.\",\n  \"ja\": \"すべてのハンターにログインボーナスとして「応急こやし玉」が1つ配布されます。\",\n  \"es\": \"Cada cazador recibe una Estiércol bal. urg. como recompensa de inicio de sesión.\"\n}"
+   }
+  ],
+  "in_tok": 48,
+  "out_tok": 85,
+  "sec": 1.33,
+  "langs": {
+   "ko": {
+    "out": "모든 헌터에게 로그인 보상으로 응급 거름탄 1개가 지급됩니다.",
+    "official": "지급전용 거름탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "すべてのハンターにログインボーナスとして「応急こやし玉」が1つ配布されます。",
+    "official": "支給用こやし弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada cazador recibe una Estiércol bal. urg. como recompensa de inicio de sesión.",
+    "official": "Cápsula boñiga (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 32,
+  "api_id": "mhw-item-1000",
+  "type": "item",
+  "src": "The maximum number of Hot Drink you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"소지할 수 있는 핫드링크의 최대 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"所持できるホットドリンクの最大数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de Bebidas calientes que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 57,
+  "out_tok": 91,
+  "sec": 0.92,
+  "langs": {
+   "ko": {
+    "out": "소지할 수 있는 핫드링크의 최대 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "핫드링크",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "所持できるホットドリンクの最大数が10個から20個に引き上げられました。",
+    "official": "ホットドリンク",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "El número máximo de Bebidas calientes que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Bebida caliente",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 33,
+  "api_id": "mhw-item-2569",
+  "type": "item",
+  "src": "Players can buy a Red Herb at the provisions shop for 200 zenny.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"플레이어는 보급품 상점에서 200 제니로 레드 허브를 구매할 수 있습니다.\",\n  \"ja\": \"プレイヤーは補給品店でレッドハーブを200ゼニーで購入できます。\",\n  \"es\": \"Los jugadores pueden comprar una hierba roja en la tienda de provisiones por 200 zenis.\"\n}"
+   }
+  ],
+  "in_tok": 54,
+  "out_tok": 86,
+  "sec": 0.98,
+  "langs": {
+   "ko": {
+    "out": "플레이어는 보급품 상점에서 200 제니로 레드 허브를 구매할 수 있습니다.",
+    "official": "빨간 약초",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーは補給品店でレッドハーブを200ゼニーで購入できます。",
+    "official": "レッドハーブ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar una hierba roja en la tienda de provisiones por 200 zenis.",
+    "official": "Hierba roja",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 34,
+  "api_id": "mhw-item-2678",
+  "type": "item",
+  "src": "The drop rate of Snowman has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이벤트 기간 동안 눈사람의 드랍률이 증가했습니다.\",\n  \"ja\": \"イベント期間中、雪だるまのドロップ率がアップしました。\",\n  \"es\": \"La tasa de caída de Muñeco de nieve ha aumentado durante el evento.\"\n}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 67,
+  "sec": 0.96,
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 눈사람의 드랍률이 증가했습니다.",
+    "official": "눈사람",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "イベント期間中、雪だるまのドロップ率がアップしました。",
+    "official": "雪だるま",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "La tasa de caída de Muñeco de nieve ha aumentado durante el evento.",
+    "official": "Muñeco de nieve",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 35,
+  "api_id": "mhw-item-58",
+  "type": "item",
+  "src": "Due to a display error, the description of Catalyst was shown incorrectly. This has been fixed.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"디스플레이 오류로 인해 촉매제 설명이 잘못 표시되었습니다. 이 문제는 수정되었습니다.\",\"ja\":\"表示エラーにより、触媒の説明が誤って表示されていました。こちらは修正されました。\",\"es\":\"Debido a un error de visualización, la descripción de Catalizador se mostró incorrectamente. Esto ya ha sido solucionado.\"}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 74,
+  "sec": 1.4,
+  "langs": {
+   "ko": {
+    "out": "디스플레이 오류로 인해 촉매제 설명이 잘못 표시되었습니다. 이 문제는 수정되었습니다.",
+    "official": "증강제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "表示エラーにより、触媒の説明が誤って表示されていました。こちらは修正されました。",
+    "official": "増強剤",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un error de visualización, la descripción de Catalizador se mostró incorrectamente. Esto ya ha sido solucionado.",
+    "official": "Catalizador",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 36,
+  "api_id": "mhw-item-12",
+  "type": "item",
+  "src": "A Burnt Meat will be sent to your item box after maintenance.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"점검 후 아이템 박스로 탄 고기가 지급됩니다.\",\n  \"ja\": \"メンテナンス後、アイテムBOXに「こげ肉」が送られます。\",\n  \"es\": \"Se enviará una carne quemada a tu cofre de objetos después del mantenimiento.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 66,
+  "sec": 1.22,
+  "langs": {
+   "ko": {
+    "out": "점검 후 아이템 박스로 탄 고기가 지급됩니다.",
+    "official": "탄 고기",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "メンテナンス後、アイテムBOXに「こげ肉」が送られます。",
+    "official": "コゲ肉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se enviará una carne quemada a tu cofre de objetos después del mantenimiento.",
+    "official": "Carne quemada",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 37,
+  "api_id": "mhw-item-187",
+  "type": "item",
+  "src": "As compensation, all hunters will receive 10 EZ Shock Trap by November 25.",
+  "attempts": [
+   {
+    "finish": "error:ServerError:503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please ",
+    "raw": ""
+   },
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"보상으로 모든 헌터에게 11월 25일까지 마비트랩(Z) 10개가 지급됩니다.\",\n  \"ja\": \"お詫びとして、11月25日までにすべてのハンターに「シビレ罠G」10個が配布されます。\",\n  \"es\": \"Como compensación, todos los cazadores recibirán 10 trampas de choque EZ antes del 25 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 107,
+  "sec": 11.76,
+  "langs": {
+   "ko": {
+    "out": "보상으로 모든 헌터에게 11월 25일까지 마비트랩(Z) 10개가 지급됩니다.",
+    "official": "휴대 마비덫",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お詫びとして、11月25日までにすべてのハンターに「シビレ罠G」10個が配布されます。",
+    "official": "支給用シビレ罠",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Como compensación, todos los cazadores recibirán 10 trampas de choque EZ antes del 25 de noviembre.",
+    "official": "Trampa eléctrica (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 38,
+  "api_id": "mhw-item-36",
+  "type": "item",
+  "src": "The drop rate of Flowfern has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이벤트 기간 동안 물결고사리의 획득 확률이 증가했습니다.\",\n  \"ja\": \"イベント期間中、水生シダのドロップ率がアップしました。\",\n  \"es\": \"La tasa de caída de Helecho acuático ha aumentado durante el evento.\"\n}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 69,
+  "sec": 1.22,
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 물결고사리의 획득 확률이 증가했습니다.",
+    "official": "유수초",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、水生シダのドロップ率がアップしました。",
+    "official": "流水草",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída de Helecho acuático ha aumentado durante el evento.",
+    "official": "Helechoflor",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 39,
+  "api_id": "mhw-item-76",
+  "type": "item",
+  "src": "Complete the daily bounty to receive Mega Barrel Bomb x5.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"일일 현상금을 완료하고 대형바렐폭탄 x5개를 받으세요.\",\n  \"ja\": \"デイリーバウンティを完了して大タル爆弾×5個を受け取ろう。\",\n  \"es\": \"Completa la recompensa diaria para recibir 5 Barriles bomba grandes.\"\n}"
+   }
+  ],
+  "in_tok": 48,
+  "out_tok": 75,
+  "sec": 1.14,
+  "langs": {
+   "ko": {
+    "out": "일일 현상금을 완료하고 대형바렐폭탄 x5개를 받으세요.",
+    "official": "대형나무통폭탄G",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "デイリーバウンティを完了して大タル爆弾×5個を受け取ろう。",
+    "official": "大タル爆弾Ｇ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Completa la recompensa diaria para recibir 5 Barriles bomba grandes.",
+    "official": "Megabomba de barril",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 40,
+  "api_id": "mhw-item-1028",
+  "type": "item",
+  "src": "Complete the daily bounty to receive zenny x5.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"일일 현상금을 완료하고 제니 x5를 받으세요.\",\"ja\":\"デイリーバウンティを完了してゼニーx5を受け取りましょう。\",\"es\":\"Completa la recompensa diaria para recibir x5 zenis.\"}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 55,
+  "sec": 0.76,
+  "langs": {
+   "ko": {
+    "out": "일일 현상금을 완료하고 제니 x5를 받으세요.",
+    "official": "제니",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "デイリーバウンティを完了してゼニーx5を受け取りましょう。",
+    "official": "ゼニー",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Completa la recompensa diaria para recibir x5 zenis.",
+    "official": "zenis",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 41,
+  "api_id": "mhw-item-38",
+  "type": "item",
+  "src": "The maximum number of Sleep Herb you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"소지할 수 있는 수면초의 최대 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"所持できる睡眠草の最大数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de hierbas somníferas que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 57,
+  "out_tok": 92,
+  "sec": 0.86,
+  "langs": {
+   "ko": {
+    "out": "소지할 수 있는 수면초의 최대 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "수면초",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "所持できる睡眠草の最大数が10個から20個に引き上げられました。",
+    "official": "ネムリ草",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El número máximo de hierbas somníferas que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Hierba somnífera",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 42,
+  "api_id": "mhw-item-183",
+  "type": "item",
+  "src": "Each hunter receives one EZ Ration as a login reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"모든 헌터에게 로그인 보상으로 응급약 1개가 지급됩니다.\",\n  \"ja\": \"すべてのハンターにログインボーナスとして応急薬が1個贈られます。\",\n  \"es\": \"Cada cazador recibe una Ración SE como recompensa de inicio de sesión.\"\n}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 73,
+  "sec": 1.04,
+  "langs": {
+   "ko": {
+    "out": "모든 헌터에게 로그인 보상으로 응급약 1개가 지급됩니다.",
+    "official": "지급전용 휴대 식량",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "すべてのハンターにログインボーナスとして応急薬が1個贈られます。",
+    "official": "支給用携帯食料",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada cazador recibe una Ración SE como recompensa de inicio de sesión.",
+    "official": "Ración (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 43,
+  "api_id": "mhw-item-32",
+  "type": "item",
+  "src": "A Honey will be sent to your item box after maintenance.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"점검 후 아이템 보관함으로 꿀이 지급됩니다.\",\"ja\":\"メンテナンス後、アイテムBOXにハチミツが送られます。\",\"es\":\"Se enviará una Miel a tu caja de objetos después del mantenimiento.\"}"
+   }
+  ],
+  "in_tok": 48,
+  "out_tok": 54,
+  "sec": 1.15,
+  "langs": {
+   "ko": {
+    "out": "점검 후 아이템 보관함으로 꿀이 지급됩니다.",
+    "official": "벌꿀",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、アイテムBOXにハチミツが送られます。",
+    "official": "ハチミツ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Se enviará una Miel a tu caja de objetos después del mantenimiento.",
+    "official": "Miel",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 44,
+  "api_id": "mhw-item-191",
+  "type": "item",
+  "src": "The maximum number of EZ Hardshell Powder you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"소지할 수 있는 EZ 경질 파우더의 최대 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"所持できるEZハードシェルパウダーの最大数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de Polvo duro EZ que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 60,
+  "out_tok": 97,
+  "sec": 1.35,
+  "langs": {
+   "ko": {
+    "out": "소지할 수 있는 EZ 경질 파우더의 최대 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "지급전용 경화의 가루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "所持できるEZハードシェルパウダーの最大数が10個から20個に引き上げられました。",
+    "official": "支給用硬化の粉塵",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El número máximo de Polvo duro EZ que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Polvo de cáscara (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 45,
+  "api_id": "mhw-item-80",
+  "type": "item",
+  "src": "Complete the daily bounty to receive Pitfall Trap x5.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"일일 현상금 사냥을 완료하고 함정 x5개를 받으세요.\",\n  \"ja\": \"デイリーバウンティを完了して落とし穴 x5を手に入れよう。\",\n  \"es\": \"Completa la recompensa diaria para recibir Trampa de foso x5.\"\n}"
+   }
+  ],
+  "in_tok": 48,
+  "out_tok": 73,
+  "sec": 0.96,
+  "langs": {
+   "ko": {
+    "out": "일일 현상금 사냥을 완료하고 함정 x5개를 받으세요.",
+    "official": "구멍 함정",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "デイリーバウンティを完了して落とし穴 x5を手に入れよう。",
+    "official": "落とし穴",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Completa la recompensa diaria para recibir Trampa de foso x5.",
+    "official": "Trampa de escollo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 46,
+  "api_id": "mhw-item-188",
+  "type": "item",
+  "src": "EZ Pitfall Trap can now be gathered in the Ancient Forest.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이제 고대 나무숲에서 간편 함정 함정을 채집할 수 있습니다.\",\n  \"ja\": \"古代樹の森で「簡単に作れる落とし穴」を採集できるようになりました。\",\n  \"es\": \"Ahora se puede recolectar la trampa de foso fácil en el Bosque Primigenio.\"\n}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 79,
+  "sec": 0.87,
+  "langs": {
+   "ko": {
+    "out": "이제 고대 나무숲에서 간편 함정 함정을 채집할 수 있습니다.",
+    "official": "지급전용 함정",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "古代樹の森で「簡単に作れる落とし穴」を採集できるようになりました。",
+    "official": "支給用落とし穴",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Ahora se puede recolectar la trampa de foso fácil en el Bosque Primigenio.",
+    "official": "Trampa de escollo (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 47,
+  "api_id": "mhw-item-48",
+  "type": "item",
+  "src": "Due to a display error, the description of Exciteshroom was shown incorrectly. This has been fixed.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"표시 오류로 인해 흥분버섯의 설명이 잘못 나타나던 문제가 수정되었습니다.\",\n  \"ja\": \"表示の不具合により、ワクワクタケの説明文が正しく表示されていなかった問題を修正しました。\",\n  \"es\": \"Debido a un error de visualización, la descripción del Hongo acelerador se mostraba incorrectamente. Esto ya ha sido solucionado.\"\n}"
+   }
+  ],
+  "in_tok": 58,
+  "out_tok": 93,
+  "sec": 1.01,
+  "langs": {
+   "ko": {
+    "out": "표시 오류로 인해 흥분버섯의 설명이 잘못 나타나던 문제가 수정되었습니다.",
+    "official": "두근두근버섯",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "表示の不具合により、ワクワクタケの説明文が正しく表示されていなかった問題を修正しました。",
+    "official": "ドキドキノコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un error de visualización, la descripción del Hongo acelerador se mostraba incorrectamente. Esto ya ha sido solucionado.",
+    "official": "Seta excitante",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 48,
+  "api_id": "mhw-item-28",
+  "type": "item",
+  "src": "A Lifepowder will be sent to your item box after maintenance.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"점검 후 아이템 박스로 생명의 가루가 지급됩니다.\",\"ja\":\"メンテナンス後、アイテムボックスに「生命の粉塵」が送られます。\",\"es\":\"Se enviará un Polvo de vida a tu cofre de objetos después del mantenimiento.\"}"
+   }
+  ],
+  "in_tok": 51,
+  "out_tok": 59,
+  "sec": 0.99,
+  "langs": {
+   "ko": {
+    "out": "점검 후 아이템 박스로 생명의 가루가 지급됩니다.",
+    "official": "생명의 가루",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "メンテナンス後、アイテムボックスに「生命の粉塵」が送られます。",
+    "official": "生命の粉塵",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Se enviará un Polvo de vida a tu cofre de objetos después del mantenimiento.",
+    "official": "Polvo de vida",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 49,
+  "api_id": "mhw-item-193",
+  "type": "item",
+  "src": "Complete the daily bounty to receive EZ Flash Pod x5.",
+  "attempts": [
+   {
+    "finish": "error:ServerError:503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please ",
+    "raw": ""
+   },
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"일일 현상금 수배를 완료하고 EZ 플래시 포드 x5를 받으세요.\",\n  \"ja\": \"デイリーバウンティを完了して、EZフラッシュポッド x5を受け取ろう。\",\n  \"es\": \"Completa la recompensa diaria para recibir x5 cápsulas Flash EZ.\"\n}"
+   }
+  ],
+  "in_tok": 48,
+  "out_tok": 79,
+  "sec": 11.79,
+  "langs": {
+   "ko": {
+    "out": "일일 현상금 수배를 완료하고 EZ 플래시 포드 x5를 받으세요.",
+    "official": "지급전용 섬광탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "デイリーバウンティを完了して、EZフラッシュポッド x5を受け取ろう。",
+    "official": "支給用閃光弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Completa la recompensa diaria para recibir x5 cápsulas Flash EZ.",
+    "official": "Cápsula flash (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 50,
+  "api_id": "mhw-item-864",
+  "type": "item",
+  "src": "Bomb Pod can now be gathered in the Ancient Forest.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"이제 고대 나무숲에서 폭탄버섯을 채집할 수 있습니다.\",\"ja\":\"古代樹の森で爆破弾が入手できるようになりました。\",\"es\":\"Ahora se puede recolectar la vaina bomba en el Bosque Primigenio.\"}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 58,
+  "sec": 1.08,
+  "langs": {
+   "ko": {
+    "out": "이제 고대 나무숲에서 폭탄버섯을 채집할 수 있습니다.",
+    "official": "슬링어 폭발탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "古代樹の森で爆破弾が入手できるようになりました。",
+    "official": "スリンガー爆発弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Ahora se puede recolectar la vaina bomba en el Bosque Primigenio.",
+    "official": "Cápsula bomba",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 51,
+  "api_id": "mhw-item-848",
+  "type": "item",
+  "src": "Due to a display error, the description of Shieldspire Bash was shown incorrectly. This has been fixed.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"표시 오류로 인해 실드스파이어 배시의 설명이 잘못 표시되었습니다. 이 문제가 수정되었습니다.\",\n  \"ja\": \"表示エラーにより、シールドスパイヤー・バッシュの説明文が正しく表示されていませんでした。こちらは修正されました。\",\n  \"es\": \"Debido a un error de visualización, la descripción de Embate de torreescudo se mostraba incorrectamente. Esto ya ha sido solucionado.\"\n}"
+   }
+  ],
+  "in_tok": 58,
+  "out_tok": 102,
+  "sec": 1.15,
+  "langs": {
+   "ko": {
+    "out": "표시 오류로 인해 실드스파이어 배시의 설명이 잘못 표시되었습니다. 이 문제가 수정되었습니다.",
+    "official": "방패 배시의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "表示エラーにより、シールドスパイヤー・バッシュの説明文が正しく表示されていませんでした。こちらは修正されました。",
+    "official": "大盾バッシュの指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un error de visualización, la descripción de Embate de torreescudo se mostraba incorrectamente. Esto ya ha sido solucionado.",
+    "official": "Golpe escudo hormig.",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 52,
+  "api_id": "mhw-item-50",
+  "type": "item",
+  "src": "As compensation, all hunters will receive 10 Flashbug by November 25.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"보상으로 모든 헌터에게 11월 25일까지 빛벌레 10마리가 지급됩니다.\",\n  \"ja\": \"お詫びとして、11月25日までにすべてのハンターに「光虫」10個が配布されます。\",\n  \"es\": \"Como compensación, todos los cazadores recibirán 10 bichos luminosos antes del 25 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 54,
+  "out_tok": 100,
+  "sec": 1.17,
+  "langs": {
+   "ko": {
+    "out": "보상으로 모든 헌터에게 11월 25일까지 빛벌레 10마리가 지급됩니다.",
+    "official": "광충",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お詫びとして、11月25日までにすべてのハンターに「光虫」10個が配布されます。",
+    "official": "光蟲",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Como compensación, todos los cazadores recibirán 10 bichos luminosos antes del 25 de noviembre.",
+    "official": "Luminsecto",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 53,
+  "api_id": "mhw-item-97",
+  "type": "item",
+  "src": "Complete the daily bounty to receive Slashberry x5.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"일일 현상 수배를 완료하고 슬래시베리 5개를 받으세요.\",\"ja\":\"デイリーバウンティを完了してスラッシュベリー×5を受け取ろう。\",\"es\":\"Completa la recompensa diaria para recibir x5 bayas cortantes.\"}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 63,
+  "sec": 1.2,
+  "langs": {
+   "ko": {
+    "out": "일일 현상 수배를 완료하고 슬래시베리 5개를 받으세요.",
+    "official": "참렬열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "デイリーバウンティを完了してスラッシュベリー×5を受け取ろう。",
+    "official": "ザンレツの実",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Completa la recompensa diaria para recibir x5 bayas cortantes.",
+    "official": "Rajabaya",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 54,
+  "api_id": "mhw-item-1788",
+  "type": "item",
+  "src": "Hunters who log in during the festival will receive 3 Grimalkyne: Pot-au-magma.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"축제 기간 동안 접속하는 헌터에게는 아이루: 마그마 팟 오 푀가 지급됩니다.\",\"ja\":\"お祭り期間中にログインしたハンターには、オトモアイルー：マグマポットがプレゼントされます。\",\"es\":\"Los cazadores que inicien sesión durante el festival recibirán 3 Felynes: Olla de magma.\"}"
+   }
+  ],
+  "in_tok": 59,
+  "out_tok": 83,
+  "sec": 1.03,
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 접속하는 헌터에게는 아이루: 마그마 팟 오 푀가 지급됩니다.",
+    "official": "기면족-마그마 전골",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "お祭り期間中にログインしたハンターには、オトモアイルー：マグマポットがプレゼントされます。",
+    "official": "奇面族・マグマ鍋",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores que inicien sesión durante el festival recibirán 3 Felynes: Olla de magma.",
+    "official": "Grimalkyne: cocido de magma",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 55,
+  "api_id": "mhw-item-185",
+  "type": "item",
+  "src": "Bring a EZ Max Potion with you before heading to the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"독기도의 골짜기로 향하기 전에 휴대용 최대포약을 챙기세요.\",\"ja\":\"瘴気の谷に向かう前に、携帯タマゴ持ち込み…ではなく、携帯古いにしえの秘薬を持って行きましょう。\",\"es\":\"Lleva una Maximeta portátil contigo antes de dirigirte al Valle Putrefacto.\"}"
+   }
+  ],
+  "in_tok": 51,
+  "out_tok": 74,
+  "sec": 1.43,
+  "langs": {
+   "ko": {
+    "out": "독기도의 골짜기로 향하기 전에 휴대용 최대포약을 챙기세요.",
+    "official": "지급전용 비약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "瘴気の谷に向かう前に、携帯タマゴ持ち込み…ではなく、携帯古いにしえの秘薬を持って行きましょう。",
+    "official": "支給用秘薬",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Lleva una Maximeta portátil contigo antes de dirigirte al Valle Putrefacto.",
+    "official": "Poción máxima (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 56,
+  "api_id": "mhw-item-17",
+  "type": "item",
+  "src": "Complete the daily bounty to receive Astera Jerky x5.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"일일 현상수행을 완료하고 아스테라육포 5개를 받으세요.\",\n  \"ja\": \"デイリーバウンティを完了して、アステラジャーキーx5を受け取ろう。\",\n  \"es\": \"Completa la recompensa diaria para recibir 5 raciones de Jerky de Astera.\"\n}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 81,
+  "sec": 1.23,
+  "langs": {
+   "ko": {
+    "out": "일일 현상수행을 완료하고 아스테라육포 5개를 받으세요.",
+    "official": "아스테라저키",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "デイリーバウンティを完了して、アステラジャーキーx5を受け取ろう。",
+    "official": "アステラジャーキー",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Completa la recompensa diaria para recibir 5 raciones de Jerky de Astera.",
+    "official": "Cecina de Astera",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 57,
+  "api_id": "mhw-item-1008",
+  "type": "item",
+  "src": "The drop rate of Dust of Life has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이벤트 기간 동안 생명의 가루 드롭률이 증가했습니다.\",\n  \"ja\": \"イベント期間中、命の粉のドロップ率が上昇しました。\",\n  \"es\": \"La tasa de caída de Polvo de vida ha aumentado durante el evento.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 66,
+  "sec": 0.87,
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 생명의 가루 드롭률이 증가했습니다.",
+    "official": "생명의 큰 가루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、命の粉のドロップ率が上昇しました。",
+    "official": "生命の大粉塵",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída de Polvo de vida ha aumentado durante el evento.",
+    "official": "Fuente de vida",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 58,
+  "api_id": "mhw-item-999",
+  "type": "item",
+  "src": "A Assassin's Hood will be sent to your item box after maintenance.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"점검 후 아이템 보관함으로 암살자의 후드가 지급됩니다.\",\n  \"ja\": \"メンテナンス後、アサシンフードがアイテムボックスに送られます。\",\n  \"es\": \"Se enviará una capucha de asesino a tu caja de objetos después del mantenimiento.\"\n}"
+   }
+  ],
+  "in_tok": 51,
+  "out_tok": 69,
+  "sec": 0.92,
+  "langs": {
+   "ko": {
+    "out": "점검 후 아이템 보관함으로 암살자의 후드가 지급됩니다.",
+    "official": "어쌔신 복장",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、アサシンフードがアイテムボックスに送られます。",
+    "official": "アサシンの装衣",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se enviará una capucha de asesino a tu caja de objetos después del mantenimiento.",
+    "official": "Capucha de asesino",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 59,
+  "api_id": "mhw-item-843",
+  "type": "item",
+  "src": "Each hunter receives one Vigorwasp Delivery as a login reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"모든 헌터에게 로그인 보상으로 활력벌레 배달 1개가 지급됩니다.\",\n  \"ja\": \"すべてのハンターにログインボーナスとして生命の粉塵の配達が1つ配布されます。\",\n  \"es\": \"Cada cazador recibe una Entrega de Vigorwasp como recompensa de inicio de sesión.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 83,
+  "sec": 1.24,
+  "langs": {
+   "ko": {
+    "out": "모든 헌터에게 로그인 보상으로 활력벌레 배달 1개가 지급됩니다.",
+    "official": "꿀벌레 전달의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "すべてのハンターにログインボーナスとして生命の粉塵の配達が1つ配布されます。",
+    "official": "ミツムシお届けの指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Cada cazador recibe una Entrega de Vigorwasp como recompensa de inicio de sesión.",
+    "official": "Aerosol melífera vitae",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 60,
+  "api_id": "mhw-item-54",
+  "type": "item",
+  "src": "A Kelbi Horn will be sent to your item box after maintenance.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"유지보수 후 켈비의 뿔이 아이템 박스로 지급됩니다.\",\n  \"ja\": \"メンテナンス後、ケルビの角がアイテムボックスに送られます。\",\n  \"es\": \"Se enviará un cuerno de Kelbi a tu baúl de objetos después del mantenimiento.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 73,
+  "sec": 0.86,
+  "langs": {
+   "ko": {
+    "out": "유지보수 후 켈비의 뿔이 아이템 박스로 지급됩니다.",
+    "official": "켈비의 뿔",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "メンテナンス後、ケルビの角がアイテムボックスに送られます。",
+    "official": "ケルビの角",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Se enviará un cuerno de Kelbi a tu baúl de objetos después del mantenimiento.",
+    "official": "Cuerno de Kelbi",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 61,
+  "api_id": "mhw-item-129",
+  "type": "item",
+  "src": "A Cleanser Booster will be sent to your item box after maintenance.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"점검 후 아이템 보관함으로 클렌저 부스터가 지급됩니다.\",\n  \"ja\": \"メンテナンス後、クレンザーブースターがアイテムボックスに送られます。\",\n  \"es\": \"Se enviará un potenciador purificador a tu inventario después del mantenimiento.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 71,
+  "sec": 0.9,
+  "langs": {
+   "ko": {
+    "out": "점검 후 아이템 보관함으로 클렌저 부스터가 지급됩니다.",
+    "official": "해제의 연통",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、クレンザーブースターがアイテムボックスに送られます。",
+    "official": "解除の煙筒",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se enviará un potenciador purificador a tu inventario después del mantenimiento.",
+    "official": "Potenciador de pureza",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 62,
+  "api_id": "mhw-item-181",
+  "type": "item",
+  "src": "The drop rate of First-aid Med has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이벤트 기간 동안 구급상자의 드롭률이 증가했습니다.\",\n  \"ja\": \"イベント期間中、応急処置キットのドロップ率が上昇しました。\",\n  \"es\": \"Se ha aumentado la tasa de caída del botiquín de primeros auxilios durante el evento.\"\n}"
+   }
+  ],
+  "in_tok": 51,
+  "out_tok": 72,
+  "sec": 1.18,
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 구급상자의 드롭률이 증가했습니다.",
+    "official": "응급약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、応急処置キットのドロップ率が上昇しました。",
+    "official": "応急薬",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se ha aumentado la tasa de caída del botiquín de primeros auxilios durante el evento.",
+    "official": "Medicamento",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 63,
+  "api_id": "mhw-item-111",
+  "type": "item",
+  "src": "Bring a Great Burst Arowana Scale with you before heading to the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"썩은 골짜기로 향하기 전에 거대한 터질 듯한 아로와나의 비늘을 가져가세요.\",\"ja\":\"腐敗の谷に向かう前に、特大の爆発アロワナのウロコを持参してください。\",\"es\":\"Trae una escama de pez dragón estallido grande contigo antes de dirigirte al Valle Putrefacto.\"}"
+   }
+  ],
+  "in_tok": 53,
+  "out_tok": 86,
+  "sec": 1.26,
+  "langs": {
+   "ko": {
+    "out": "썩은 골짜기로 향하기 전에 거대한 터질 듯한 아로와나의 비늘을 가져가세요.",
+    "official": "대형파열 비늘",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "腐敗の谷に向かう前に、特大の爆発アロワナのウロコを持参してください。",
+    "official": "大ハレツウロコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Trae una escama de pez dragón estallido grande contigo antes de dirigirte al Valle Putrefacto.",
+    "official": "Escama arrowana reventona real",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 64,
+  "api_id": "mhw-item-82",
+  "type": "item",
+  "src": "The drop rate of Rolled-up Dung has been increased during the event.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"이벤트 기간 동안 뭉친 똥의 획득 확률이 증가했습니다.\",\"ja\":\"イベント期間中、まるまったフンのドロップ率がアップしました。\",\"es\":\"La tasa de caída de Estiércol enrollado se ha incrementado durante el evento.\"}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 62,
+  "sec": 1.07,
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 뭉친 똥의 획득 확률이 증가했습니다.",
+    "official": "굴린 응가",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、まるまったフンのドロップ率がアップしました。",
+    "official": "ころがされたフン",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La tasa de caída de Estiércol enrollado se ha incrementado durante el evento.",
+    "official": "Boñiga enrollada",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 65,
+  "api_id": "mhw-item-121",
+  "type": "item",
+  "src": "Players can buy a Rocksteady Mantle at the provisions shop for 200 zenny.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"플레이어는 보급품 상점에서 200 제니로 든든한 망토를 구매할 수 있습니다.\",\n  \"ja\": \"プレイヤーは補給品店で200ゼニーで不動の装衣を購入できます。\",\n  \"es\": \"Los jugadores pueden comprar un Manto Inmutable en la tienda de provisiones por 200 zenny.\"\n}"
+   }
+  ],
+  "in_tok": 56,
+  "out_tok": 91,
+  "sec": 0.94,
+  "langs": {
+   "ko": {
+    "out": "플레이어는 보급품 상점에서 200 제니로 든든한 망토를 구매할 수 있습니다.",
+    "official": "부동 복장",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "プレイヤーは補給品店で200ゼニーで不動の装衣を購入できます。",
+    "official": "不動の装衣",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Los jugadores pueden comprar un Manto Inmutable en la tienda de provisiones por 200 zenny.",
+    "official": "Manto de firmeza",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 66,
+  "api_id": "mhw-item-956",
+  "type": "item",
+  "src": "The maximum number of Igni Sign you can carry has been raised from 10 to 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"소지할 수 있는 이그니 표창의 최대 개수가 10개에서 20개로 늘어났습니다.\",\n  \"ja\": \"所持できるイグニの印の最大数が10個から20個に引き上げられました。\",\n  \"es\": \"El número máximo de señales Igni que puedes llevar ha aumentado de 10 a 20.\"\n}"
+   }
+  ],
+  "in_tok": 58,
+  "out_tok": 94,
+  "sec": 0.95,
+  "langs": {
+   "ko": {
+    "out": "소지할 수 있는 이그니 표창의 최대 개수가 10개에서 20개로 늘어났습니다.",
+    "official": "이그니 표식",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "所持できるイグニの印の最大数が10個から20個に引き上げられました。",
+    "official": "イグニの印",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "El número máximo de señales Igni que puedes llevar ha aumentado de 10 a 20.",
+    "official": "Señal de Igni",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 67,
+  "api_id": "mhw-item-118",
+  "type": "item",
+  "src": "We have fixed an issue where Ghillie Mantle could not be sold at the shop.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"길리 슈트를 상점에서 판매할 수 없던 문제를 수정했습니다.\",\"ja\":\"ギリースーツがショップで売却できなかった不具合を修正しました。\",\"es\":\"Hemos solucionado un problema por el cual el Manto de camuflaje no se podía vender en la tienda.\"}"
+   }
+  ],
+  "in_tok": 54,
+  "out_tok": 63,
+  "sec": 1.4,
+  "langs": {
+   "ko": {
+    "out": "길리 슈트를 상점에서 판매할 수 없던 문제를 수정했습니다.",
+    "official": "은신 복장",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ギリースーツがショップで売却できなかった不具合を修正しました。",
+    "official": "隠れ身の装衣",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Hemos solucionado un problema por el cual el Manto de camuflaje no se podía vender en la tienda.",
+    "official": "Manto de camuflaje",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 68,
+  "api_id": "mhw-item-94",
+  "type": "item",
+  "src": "A Needleberry will be sent to your item box after maintenance.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"유지보수 후 바늘딸기가 아이템 박스로 전송됩니다.\",\n  \"ja\": \"メンテナンス後、アイテムボックスにトゲベリーが送られます。\",\n  \"es\": \"Se enviará un agavallena a tu caja de objetos después del mantenimiento.\"\n}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 68,
+  "sec": 1.09,
+  "langs": {
+   "ko": {
+    "out": "유지보수 후 바늘딸기가 아이템 박스로 전송됩니다.",
+    "official": "바늘열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "メンテナンス後、アイテムボックスにトゲベリーが送られます。",
+    "official": "ハリの実",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se enviará un agavallena a tu caja de objetos después del mantenimiento.",
+    "official": "Baya aguja",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 69,
+  "api_id": "mhw-item-78",
+  "type": "item",
+  "src": "Due to a display error, the description of Net was shown incorrectly. This has been fixed.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"표시 오류로 인해 넷의 설명이 잘못 표시되었습니다. 이 문제가 수정되었습니다.\",\n  \"ja\": \"表示エラーにより、ネットの説明が正しく表示されていませんでした。こちらは修正されました。\",\n  \"es\": \"Debido a un error de visualización, la descripción de Red se mostraba incorrectamente. Esto ya ha sido solucionado.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 84,
+  "sec": 0.89,
+  "langs": {
+   "ko": {
+    "out": "표시 오류로 인해 넷의 설명이 잘못 표시되었습니다. 이 문제가 수정되었습니다.",
+    "official": "그물",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "表示エラーにより、ネットの説明が正しく表示されていませんでした。こちらは修正されました。",
+    "official": "ネット",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Debido a un error de visualización, la descripción de Red se mostraba incorrectamente. Esto ya ha sido solucionado.",
+    "official": "Red",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 70,
+  "api_id": "mhw-monster-51",
+  "type": "pokemon",
+  "src": "Slay Ancient Leshen within 15 minutes to receive bonus points.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"15분 이내에 고대 레셴을 토벌하여 보너스 포인트를 획득하세요.\",\n  \"ja\": \"古代レーシェンを15分以内に討伐するとボーナスポイントを獲得できます。\",\n  \"es\": \"Derrota al Leshen antiguo en menos de 15 minutos para recibir puntos de bonificación.\"\n}"
+   }
+  ],
+  "in_tok": 51,
+  "out_tok": 86,
+  "sec": 0.93,
+  "langs": {
+   "ko": {
+    "out": "15분 이내에 고대 레셴을 토벌하여 보너스 포인트를 획득하세요.",
+    "official": "고대 레셴",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "古代レーシェンを15分以内に討伐するとボーナスポイントを獲得できます。",
+    "official": "エンシェント・レーシェン",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Derrota al Leshen antiguo en menos de 15 minutos para recibir puntos de bonificación.",
+    "official": "Leshen antiguo",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 71,
+  "api_id": "mhw-monster-32",
+  "type": "pokemon",
+  "src": "Legiana has been sighted in the Ancient Forest.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"고대수의 숲에 레이기에나가 목격되었습니다.\",\"ja\":\"古代樹の森でレイギエナが目撃されました。\",\"es\":\"Se ha avistado a Legiana en el Bosque Primigenio.\"}"
+   }
+  ],
+  "in_tok": 46,
+  "out_tok": 53,
+  "sec": 1.05,
+  "langs": {
+   "ko": {
+    "out": "고대수의 숲에 레이기에나가 목격되었습니다.",
+    "official": "레이기에나",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "古代樹の森でレイギエナが目撃されました。",
+    "official": "レイギエナ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Se ha avistado a Legiana en el Bosque Primigenio.",
+    "official": "Legiana",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 72,
+  "api_id": "mhw-monster-81",
+  "type": "pokemon",
+  "src": "Hunt Shara Ishvalda to earn a special reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"안 이슈발다를 사냥하고 특별 보상을 받으세요.\",\"ja\":\"アン・イシュワルダを討伐して特別な報酬を手に入れよう。\",\"es\":\"Caza a Shara Ishvalda para conseguir una recompensa especial.\"}"
+   }
+  ],
+  "in_tok": 48,
+  "out_tok": 57,
+  "sec": 0.89,
+  "langs": {
+   "ko": {
+    "out": "안 이슈발다를 사냥하고 특별 보상을 받으세요.",
+    "official": "안-이슈왈다",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "アン・イシュワルダを討伐して特別な報酬を手に入れよう。",
+    "official": "アン・イシュワルダ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Caza a Shara Ishvalda para conseguir una recompensa especial.",
+    "official": "Shara Ishvalda",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 73,
+  "api_id": "mhw-monster-19",
+  "type": "pokemon",
+  "src": "The event quest featuring Lavasioth will run until December 3.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"볼가노스가 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.\",\n  \"ja\": \"ヴォルガノスが登場するイベントクエストは12月3日まで開催されます。\",\n  \"es\": \"La misión de evento con Lavasioth estará disponible hasta el 3 de diciembre.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 77,
+  "sec": 0.9,
+  "langs": {
+   "ko": {
+    "out": "볼가노스가 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.",
+    "official": "볼가노스",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "ヴォルガノスが登場するイベントクエストは12月3日まで開催されます。",
+    "official": "ヴォルガノス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "La misión de evento con Lavasioth estará disponible hasta el 3 de diciembre.",
+    "official": "Lavasioth",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 74,
+  "api_id": "mhw-monster-91",
+  "type": "pokemon",
+  "src": "After the update, Rajang will no longer appear in the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"업데이트 후, 독기의 골짜기에서 라잔이 더 이상 등장하지 않습니다.\",\"ja\":\"アップデート後、瘴気の谷にラージャンが登場しなくなります。\",\"es\":\"Tras la actualización, Rajang dejará de aparecer en el Valle Putrefacto.\"}"
+   }
+  ],
+  "in_tok": 51,
+  "out_tok": 61,
+  "sec": 1.18,
+  "langs": {
+   "ko": {
+    "out": "업데이트 후, 독기의 골짜기에서 라잔이 더 이상 등장하지 않습니다.",
+    "official": "라잔",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "アップデート後、瘴気の谷にラージャンが登場しなくなります。",
+    "official": "ラージャン",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Tras la actualización, Rajang dejará de aparecer en el Valle Putrefacto.",
+    "official": "Rajang",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 75,
+  "api_id": "mhw-monster-88",
+  "type": "pokemon",
+  "src": "We have fixed an issue where Gold Rathian could become stuck in the Ancient Forest.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"고대수의 숲에서 금화룡 리오레이아 희소종이 끼이는 현상을 수정했습니다.\",\n  \"ja\": \"古代樹の森でリオレイア希少種が動けなくなる不具合を修正しました。\",\n  \"es\": \"Hemos solucionado un problema por el cual Rathian Dorada podía quedarse atascada en el Bosque Primigenio.\"\n}"
+   }
+  ],
+  "in_tok": 53,
+  "out_tok": 90,
+  "sec": 1.55,
+  "langs": {
+   "ko": {
+    "out": "고대수의 숲에서 금화룡 리오레이아 희소종이 끼이는 현상을 수정했습니다.",
+    "official": "리오레이아 희소종",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "古代樹の森でリオレイア希少種が動けなくなる不具合を修正しました。",
+    "official": "リオレイア希少種",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Hemos solucionado un problema por el cual Rathian Dorada podía quedarse atascada en el Bosque Primigenio.",
+    "official": "Rathian Dorada",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 76,
+  "api_id": "mhw-monster-79",
+  "type": "pokemon",
+  "src": "A stronger Velkhana will appear in the Ancient Forest from November 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"11월 20일부터 고대수의 숲에 더 강력한 이베르카나가 등장합니다.\",\n  \"ja\": \"11月20日より、古代樹の森にさらに強力なイヴェルカーナが出現します。\",\n  \"es\": \"Un Velkhana más fuerte aparecerá en el Bosque Primigenio a partir del 20 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 53,
+  "out_tok": 93,
+  "sec": 1.24,
+  "langs": {
+   "ko": {
+    "out": "11월 20일부터 고대수의 숲에 더 강력한 이베르카나가 등장합니다.",
+    "official": "이베르카나",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "11月20日より、古代樹の森にさらに強力なイヴェルカーナが出現します。",
+    "official": "イヴェルカーナ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Un Velkhana más fuerte aparecerá en el Bosque Primigenio a partir del 20 de noviembre.",
+    "official": "Velkhana",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 77,
+  "api_id": "mhw-monster-97",
+  "type": "pokemon",
+  "src": "A stronger Safi'jiiva will appear in the Ancient Forest from November 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"11월 20일부터 고대수의 삼림에 더 강력한 무알지바가 등장합니다.\",\n  \"ja\": \"11月20日より、古代樹の森により強力なムフェト・ジーヴァが出現します。\",\n  \"es\": \"Un Safi'jiiva más fuerte aparecerá en el Bosque Primigenio a partir del 20 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 97,
+  "sec": 1.1,
+  "langs": {
+   "ko": {
+    "out": "11월 20일부터 고대수의 삼림에 더 강력한 무알지바가 등장합니다.",
+    "official": "무페토-지바",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "11月20日より、古代樹の森により強力なムフェト・ジーヴァが出現します。",
+    "official": "ムフェト・ジーヴァ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Un Safi'jiiva más fuerte aparecerá en el Bosque Primigenio a partir del 20 de noviembre.",
+    "official": "Safi'jiiva",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 78,
+  "api_id": "mhw-monster-30",
+  "type": "pokemon",
+  "src": "We have fixed an issue where Tobi-Kadachi could become stuck in the Ancient Forest.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"토비카가치가 고대수의 숲에서 끼이는 문제를 수정했습니다.\",\n  \"ja\": \"トビカガチが古代樹の森で動けなくなる不具合を修正しました。\",\n  \"es\": \"Hemos solucionado un problema por el cual Tobi-Kadachi podía quedarse atascado en el Bosque Primigenio.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 84,
+  "sec": 1.44,
+  "langs": {
+   "ko": {
+    "out": "토비카가치가 고대수의 숲에서 끼이는 문제를 수정했습니다.",
+    "official": "토비카가치",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "トビカガチが古代樹の森で動けなくなる不具合を修正しました。",
+    "official": "トビカガチ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Hemos solucionado un problema por el cual Tobi-Kadachi podía quedarse atascado en el Bosque Primigenio.",
+    "official": "Tobi-Kadachi",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 79,
+  "api_id": "mhw-monster-87",
+  "type": "pokemon",
+  "src": "Hunt Alatreon to earn a special reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"알바트리온을 사냥하고 특별한 보상을 받으세요.\",\n  \"ja\": \"アルバトリオンを討伐して特別な報酬を手に入れよう。\",\n  \"es\": \"Caza a Alatreon para conseguir una recompensa especial.\"\n}"
+   }
+  ],
+  "in_tok": 46,
+  "out_tok": 64,
+  "sec": 1.15,
+  "langs": {
+   "ko": {
+    "out": "알바트리온을 사냥하고 특별한 보상을 받으세요.",
+    "official": "알바트리온",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "アルバトリオンを討伐して特別な報酬を手に入れよう。",
+    "official": "アルバトリオン",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Caza a Alatreon para conseguir una recompensa especial.",
+    "official": "Alatreon",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 80,
+  "api_id": "mhw-monster-37",
+  "type": "pokemon",
+  "src": "After the update, Dodogama will no longer appear in the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"업데이트 이후 도도가마가 독기의 골짜기에 더 이상 등장하지 않습니다.\",\n  \"ja\": \"アップデート後、ドドガマは瘴気の谷に出現しなくなります。\",\n  \"es\": \"Después de la actualización, Dodogama ya no aparecerá en el Valle Putrefacto.\"\n}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 75,
+  "sec": 1.29,
+  "langs": {
+   "ko": {
+    "out": "업데이트 이후 도도가마가 독기의 골짜기에 더 이상 등장하지 않습니다.",
+    "official": "도도가마루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "アップデート後、ドドガマは瘴気の谷に出現しなくなります。",
+    "official": "ドドガマル",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Después de la actualización, Dodogama ya no aparecerá en el Valle Putrefacto.",
+    "official": "Dodogama",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 81,
+  "api_id": "mhw-monster-4",
+  "type": "pokemon",
+  "src": "A stronger Zorah Magdaros will appear in the Ancient Forest from November 20.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"11월 20일부터 고대수의 숲에 더 강력한 조라 마그다라os가 등장합니다.\",\n  \"ja\": \"11月20日より、古代樹の森にさらに強力なゾラ・マグダラオスが出現します。\",\n  \"es\": \"Un Zorah Magdaros más fuerte aparecerá en el Bosque Primigenio a partir del 20 de noviembre.\"\n}"
+   }
+  ],
+  "in_tok": 55,
+  "out_tok": 102,
+  "sec": 1.3,
+  "langs": {
+   "ko": {
+    "out": "11월 20일부터 고대수의 숲에 더 강력한 조라 마그다라os가 등장합니다.",
+    "official": "조라-마그다라오스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "11月20日より、古代樹の森にさらに強力なゾラ・マグダラオスが出現します。",
+    "official": "ゾラ・マグダラオス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Un Zorah Magdaros más fuerte aparecerá en el Bosque Primigenio a partir del 20 de noviembre.",
+    "official": "Zorah Magdaros",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 82,
+  "api_id": "mhw-monster-77",
+  "type": "pokemon",
+  "src": "Beotodus has been sighted in the Ancient Forest.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"고대숲에서 토비카가라의 아종인 '빙어룡' 베오도루스가 목격되었습니다.\",\n  \"ja\": \"古代樹の森に凍魚竜ベリオロスが目撃されました。\",\n  \"es\": \"Se ha avistado a Beotodus en el Bosque Primigenio.\"\n}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 81,
+  "sec": 1.42,
+  "langs": {
+   "ko": {
+    "out": "고대숲에서 토비카가라의 아종인 '빙어룡' 베오도루스가 목격되었습니다.",
+    "official": "브란토도스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "古代樹の森に凍魚竜ベリオロスが目撃されました。",
+    "official": "ブラントドス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se ha avistado a Beotodus en el Bosque Primigenio.",
+    "official": "Beotodus",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 83,
+  "api_id": "mhw-monster-12",
+  "type": "pokemon",
+  "src": "Capture Diablos three times to unlock a limited title.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"디아블로스를 세 번 포획하여 한정 칭호를 해제하세요.\",\"ja\":\"ディアブロスを3回討伐して限定称号をアンロックしよう。\",\"es\":\"Captura a Diablos tres veces para desbloquear un título limitado.\"}"
+   }
+  ],
+  "in_tok": 48,
+  "out_tok": 60,
+  "sec": 0.9,
+  "langs": {
+   "ko": {
+    "out": "디아블로스를 세 번 포획하여 한정 칭호를 해제하세요.",
+    "official": "디아블로스",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "ディアブロスを3回討伐して限定称号をアンロックしよう。",
+    "official": "ディアブロス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Captura a Diablos tres veces para desbloquear un título limitado.",
+    "official": "Diablos",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 84,
+  "api_id": "mhw-monster-16",
+  "type": "pokemon",
+  "src": "After the update, Kushala Daora will no longer appear in the Rotten Vale.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"업데이트 이후, 쓱싹독기(오도가론 등) 지역에서 크샬다오라가 더 이상 등장하지 않습니다.\",\n  \"ja\": \"アップデート後、クシャルダオラは瘴気の谷に出現しなくなります。\",\n  \"es\": \"Después de la actualización, Kushala Daora ya no aparecerá en el Valle Putrefacto.\"\n}"
+   }
+  ],
+  "in_tok": 53,
+  "out_tok": 88,
+  "sec": 0.97,
+  "langs": {
+   "ko": {
+    "out": "업데이트 이후, 쓱싹독기(오도가론 등) 지역에서 크샬다오라가 더 이상 등장하지 않습니다.",
+    "official": "크샬다오라",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "アップデート後、クシャルダオラは瘴気の谷に出現しなくなります。",
+    "official": "クシャルダオラ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Después de la actualización, Kushala Daora ya no aparecerá en el Valle Putrefacto.",
+    "official": "Kushala Daora",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 85,
+  "api_id": "mhw-monster-57",
+  "type": "pokemon",
+  "src": "The event quest featuring Invalid Message will run until December 3.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"잘못된 메시지가 등장하는 이벤트 퀘스트가 12월 3일까지 진행됩니다.\",\n  \"ja\": \"無効なメッセージが登場するイベントクエストは12月3日まで開催されます。\",\n  \"es\": \"La misión de evento que incluye Mensaje no válido estará disponible hasta el 3 de diciembre.\"\n}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 79,
+  "sec": 0.97,
+  "langs": {
+   "ko": {
+    "out": "잘못된 메시지가 등장하는 이벤트 퀘스트가 12월 3일까지 진행됩니다.",
+    "official": "Invalid Message",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "無効なメッセージが登場するイベントクエストは12月3日まで開催されます。",
+    "official": "Invalid Message",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La misión de evento que incluye Mensaje no válido estará disponible hasta el 3 de diciembre.",
+    "official": "Invalid Message",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 86,
+  "api_id": "mhw-monster-35",
+  "type": "pokemon",
+  "src": "The event quest featuring Radobaan will run until December 3.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"라도바킨이 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.\",\n  \"ja\": \"ラドバルキンが登場するイベントクエストは12月3日まで開催されます。\",\n  \"es\": \"La misión de evento con Radobaan estará disponible hasta el 3 de diciembre.\"\n}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 75,
+  "sec": 0.9,
+  "langs": {
+   "ko": {
+    "out": "라도바킨이 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.",
+    "official": "라도발킨",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ラドバルキンが登場するイベントクエストは12月3日まで開催されます。",
+    "official": "ラドバルキン",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "La misión de evento con Radobaan estará disponible hasta el 3 de diciembre.",
+    "official": "Radobaan",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 87,
+  "api_id": "mhw-monster-78",
+  "type": "pokemon",
+  "src": "The event quest featuring Banbaro will run until December 3.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이베르카나가 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.\",\n  \"ja\": \"バフバルロが登場するイベントクエストは12月3日まで開催されます。\",\n  \"es\": \"El evento de misión con Banbaro estará disponible hasta el 3 de diciembre.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 77,
+  "sec": 1.1,
+  "langs": {
+   "ko": {
+    "out": "이베르카나가 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.",
+    "official": "버프바로",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "バフバルロが登場するイベントクエストは12月3日まで開催されます。",
+    "official": "バフバロ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El evento de misión con Banbaro estará disponible hasta el 3 de diciembre.",
+    "official": "Banbaro",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 88,
+  "api_id": "mhw-monster-95",
+  "type": "pokemon",
+  "src": "The event quest featuring Stygian Zinogre will run until December 3.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"진오우거 아종이 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.\",\"ja\":\"ジンオウガ亜種が登場するイベントクエストは12月3日まで配信されます。\",\"es\":\"La misión de evento con Stygian Zinogre estará disponible hasta el 3 de diciembre.\"}"
+   }
+  ],
+  "in_tok": 53,
+  "out_tok": 73,
+  "sec": 1.14,
+  "langs": {
+   "ko": {
+    "out": "진오우거 아종이 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.",
+    "official": "진오우거 아종",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "ジンオウガ亜種が登場するイベントクエストは12月3日まで配信されます。",
+    "official": "ジンオウガ亜種",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "La misión de evento con Stygian Zinogre estará disponible hasta el 3 de diciembre.",
+    "official": "Zinogre Estigio",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 89,
+  "api_id": "mhw-monster-73",
+  "type": "pokemon",
+  "src": "Shrieking Legiana appears twice as often in the Rotten Vale this weekend.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이번 주말 독기 유골 장소에서 얼려찌르는 레이기에나가 평소보다 두 배 더 자주 등장합니다.\",\n  \"ja\": \"今週末、瘴気の谷で凍て刺すレイギエナの出現率が2倍になります。\",\n  \"es\": \"El Legiana Aullador aparece el doble de veces en el Valle Putrefacto este fin de semana.\"\n}"
+   }
+  ],
+  "in_tok": 52,
+  "out_tok": 93,
+  "sec": 1.28,
+  "langs": {
+   "ko": {
+    "out": "이번 주말 독기 유골 장소에서 얼려찌르는 레이기에나가 평소보다 두 배 더 자주 등장합니다.",
+    "official": "얼려 찌르는 레이기에나",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "今週末、瘴気の谷で凍て刺すレイギエナの出現率が2倍になります。",
+    "official": "凍て刺すレイギエナ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "El Legiana Aullador aparece el doble de veces en el Valle Putrefacto este fin de semana.",
+    "official": "Legiana Aullador",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 90,
+  "api_id": "mhw-monster-18",
+  "type": "pokemon",
+  "src": "Capture Teostra three times to unlock a limited title.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"테오 테스토마를 3번 토벌하면 한정 칭호를 획득할 수 있습니다.\",\n  \"ja\": \"テオ・テスカトルを3回討伐して限定称号を解除しよう。\",\n  \"es\": \"Captura a Teostra tres veces para desbloquear un título limitado.\"\n}"
+   }
+  ],
+  "in_tok": 48,
+  "out_tok": 79,
+  "sec": 1.32,
+  "langs": {
+   "ko": {
+    "out": "테오 테스토마를 3번 토벌하면 한정 칭호를 획득할 수 있습니다.",
+    "official": "테오-테스카토르",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "テオ・テスカトルを3回討伐して限定称号を解除しよう。",
+    "official": "テオ・テスカトル",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Captura a Teostra tres veces para desbloquear un título limitado.",
+    "official": "Teostra",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 91,
+  "api_id": "mhw-monster-75",
+  "type": "pokemon",
+  "src": "The event quest featuring Blackveil Vaal Hazak will run until December 3.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"사체왕 발하크(죽음을 두른 발하크)가 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.\",\n  \"ja\": \"死を纏うヴァルハザクが登場するイベントクエストは12月3日まで開催されます。\",\n  \"es\": \"La misión de evento con Vaal Hazak Espora estará disponible hasta el 3 de diciembre.\"\n}"
+   }
+  ],
+  "in_tok": 53,
+  "out_tok": 97,
+  "sec": 1.19,
+  "langs": {
+   "ko": {
+    "out": "사체왕 발하크(죽음을 두른 발하크)가 등장하는 이벤트 퀘스트는 12월 3일까지 진행됩니다.",
+    "official": "죽음을 두른 발하자크",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "死を纏うヴァルハザクが登場するイベントクエストは12月3日まで開催されます。",
+    "official": "死を纏うヴァルハザク",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "La misión de evento con Vaal Hazak Espora estará disponible hasta el 3 de diciembre.",
+    "official": "Vaal Hazak Espóreo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 92,
+  "api_id": "mhw-monster-66",
+  "type": "pokemon",
+  "src": "Glavenus has been sighted in the Ancient Forest.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"고대숲에 디노발드가 목격되었습니다.\",\n  \"ja\": \"古代樹の森にディノバルドが目撃されました。\",\n  \"es\": \"Se ha avistado a Glavenus en el Bosque Primigenio.\"\n}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 64,
+  "sec": 1.01,
+  "langs": {
+   "ko": {
+    "out": "고대숲에 디노발드가 목격되었습니다.",
+    "official": "디노발드",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "古代樹の森にディノバルドが目撃されました。",
+    "official": "ディノバルド",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Se ha avistado a Glavenus en el Bosque Primigenio.",
+    "official": "Glavenus",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 93,
+  "api_id": "mhw-monster-1",
+  "type": "pokemon",
+  "src": "Rathalos has been added to the new event quest lineup.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"리오레우스가 새로운 이벤트 퀘스트 라인업에 추가되었습니다.\",\n  \"ja\": \"リオレウスが新しいイベントクエストのラインナップに追加されました。\",\n  \"es\": \"Rathalos se ha añadido a la nueva alineación de misiones de evento.\"\n}"
+   }
+  ],
+  "in_tok": 49,
+  "out_tok": 67,
+  "sec": 1.08,
+  "langs": {
+   "ko": {
+    "out": "리오레우스가 새로운 이벤트 퀘스트 라인업에 추가되었습니다.",
+    "official": "리오레우스",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "リオレウスが新しいイベントクエストのラインナップに追加されました。",
+    "official": "リオレウス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Rathalos se ha añadido a la nueva alineación de misiones de evento.",
+    "official": "Rathalos",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 94,
+  "api_id": "mhw-monster-62",
+  "type": "pokemon",
+  "src": "Nargacuga appears twice as often in the Rotten Vale this weekend.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이번 주말 독기瘴谷에서 나루가쿠르가의 출현 확률이 2배로 증가합니다.\",\n  \"ja\": \"今週末、瘴気の谷でナルガクルガの出現率が2倍になります。\",\n  \"es\": \"Nargacuga aparece el doble de veces en el Valle Putrefacto este fin de semana.\"\n}"
+   }
+  ],
+  "in_tok": 51,
+  "out_tok": 85,
+  "sec": 1.09,
+  "langs": {
+   "ko": {
+    "out": "이번 주말 독기瘴谷에서 나루가쿠르가의 출현 확률이 2배로 증가합니다.",
+    "official": "나르가쿠르가",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "今週末、瘴気の谷でナルガクルガの出現率が2倍になります。",
+    "official": "ナルガクルガ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Nargacuga aparece el doble de veces en el Valle Putrefacto este fin de semana.",
+    "official": "Nargacuga",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 95,
+  "api_id": "mhw-monster-69",
+  "type": "pokemon",
+  "src": "Coral Pukei-Pukei has been added to the new event quest lineup.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"산호세조아리(오도가론 아종 또는 치치야크 등 대상에 맞는 몬스터)가 새로운 이벤트 퀘스트 라인업에 추가되었습니다.\",\n  \"ja\": \"パオウルムー亜種が新しいイベントクエストのラインナップに追加されました。\",\n  \"es\": \"El Paolumu Somnus (o Pukei-Pukei Coral) se ha añadido a la nueva lista de misiones de evento.\"\n}"
+   }
+  ],
+  "in_tok": 54,
+  "out_tok": 106,
+  "sec": 1.0,
+  "langs": {
+   "ko": {
+    "out": "산호세조아리(오도가론 아종 또는 치치야크 등 대상에 맞는 몬스터)가 새로운 이벤트 퀘스트 라인업에 추가되었습니다.",
+    "official": "푸케푸케 아종",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "パオウルムー亜種が新しいイベントクエストのラインナップに追加されました。",
+    "official": "プケプケ亜種",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El Paolumu Somnus (o Pukei-Pukei Coral) se ha añadido a la nueva lista de misiones de evento.",
+    "official": "Pukei-Pukei Coralino",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 96,
+  "api_id": "mhw-monster-101",
+  "type": "pokemon",
+  "src": "Capture Fatalis three times to unlock a limited title.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"밀라보레아스를 세 번 토벌하고 한정 칭호를 획득하세요.\",\"ja\":\"ミラボレアスを3回討伐して限定称号をゲットしよう。\",\"es\":\"Caza a Fatalis tres veces para desbloquear un título limitado.\"}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 61,
+  "sec": 1.18,
+  "langs": {
+   "ko": {
+    "out": "밀라보레아스를 세 번 토벌하고 한정 칭호를 획득하세요.",
+    "official": "밀라보레아스",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "ミラボレアスを3回討伐して限定称号をゲットしよう。",
+    "official": "ミラボレアス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Caza a Fatalis tres veces para desbloquear un título limitado.",
+    "official": "Fatalis",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 97,
+  "api_id": "mhw-monster-90",
+  "type": "pokemon",
+  "src": "Hunt Yian Garuga to earn a special reward.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\"ko\":\"얀가루루가를 사냥하고 특별한 보상을 받으세요.\",\"ja\":\"イャンガルルガを狩猟して特別な報酬を手に入れよう。\",\"es\":\"Caza a Yian Garuga para conseguir una recompensa especial.\"}"
+   }
+  ],
+  "in_tok": 47,
+  "out_tok": 56,
+  "sec": 1.25,
+  "langs": {
+   "ko": {
+    "out": "얀가루루가를 사냥하고 특별한 보상을 받으세요.",
+    "official": "얀가루루가",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "イャンガルルガを狩猟して特別な報酬を手に入れよう。",
+    "official": "イャンガルルガ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Caza a Yian Garuga para conseguir una recompensa especial.",
+    "official": "Yian Garuga",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 98,
+  "api_id": "mhw-monster-29",
+  "type": "pokemon",
+  "src": "Jyuratodus appears twice as often in the Rotten Vale this weekend.",
+  "attempts": [
+   {
+    "finish": "error:ServerError:503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please ",
+    "raw": ""
+   },
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"이번 주말 독기瘴谷(썩은 골짜기)에서 토비카가치(가아니라 주라토도스)의 출현 확률이 2배로 증가합니다.\",\n  \"ja\": \"今週末、瘴気の谷でジュラトドスの出現率が2倍になります。\",\n  \"es\": \"Jyuratodus aparece el doble de veces en el Valle Putrefacto este fin de semana.\"\n}"
+   }
+  ],
+  "in_tok": 50,
+  "out_tok": 102,
+  "sec": 12.31,
+  "langs": {
+   "ko": {
+    "out": "이번 주말 독기瘴谷(썩은 골짜기)에서 토비카가치(가아니라 주라토도스)의 출현 확률이 2배로 증가합니다.",
+    "official": "쥬라토도스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "今週末、瘴気の谷でジュラトドスの出現率が2倍になります。",
+    "official": "ジュラトドス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Jyuratodus aparece el doble de veces en el Valle Putrefacto este fin de semana.",
+    "official": "Jyuratodus",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 99,
+  "api_id": "mhw-monster-65",
+  "type": "pokemon",
+  "src": "We have fixed an issue where Brachydios could become stuck in the Ancient Forest.",
+  "attempts": [
+   {
+    "finish": "STOP",
+    "raw": "{\n  \"ko\": \"브라키디오스가 고대의 숲에서 끼여 움직이지 못하던 문제를 수정했습니다.\",\n  \"ja\": \"ブラキディオスが古代樹の森でスタックしてしまう不具合を修正しました。\",\n  \"es\": \"Hemos solucionado un problema por el cual Brachydios podía quedarse atascado en el Bosque Primigenio.\"\n}"
+   }
+  ],
+  "in_tok": 54,
+  "out_tok": 85,
+  "sec": 1.38,
+  "langs": {
+   "ko": {
+    "out": "브라키디오스가 고대의 숲에서 끼여 움직이지 못하던 문제를 수정했습니다.",
+    "official": "브라키디오스",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "ブラキディオスが古代樹の森でスタックしてしまう不具合を修正しました。",
+    "official": "ブラキディオス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Hemos solucionado un problema por el cual Brachydios podía quedarse atascado en el Bosque Primigenio.",
+    "official": "Brachydios",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ }
+]
