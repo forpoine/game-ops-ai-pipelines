@@ -15,7 +15,7 @@ Two game-service operations tasks automated with local LLMs, with every number m
 모델: Gemma 4 12B (QAT), gpt-oss 20B, Qwen3 14B. 모두 LM Studio에서 양자화 모델로 로컬 실행(RTX 4080 SUPER 16GB).
 Models: Gemma 4 12B (QAT), gpt-oss 20B, Qwen3 14B, all quantized and run locally in LM Studio (RTX 4080 SUPER 16GB).
 두 파이프라인 모두 비교용으로 경량 상용 API 두 개(Claude Haiku 5.5, Gemini 3.5 Flash-Lite)도 같은 문장·프롬프트로 측정. / Both pipelines were also measured on two lightweight commercial APIs (Claude Haiku 5.5, Gemini 3.5 Flash-Lite) with the same inputs and prompts.
-나중에 로컬 모델 Raon-1 mini(Q4_K_M, 전용 llama.cpp 빌드의 llama-server로 실행)도 같은 문장·프롬프트로 측정. / Later, the local model Raon-1 mini (Q4_K_M, served by llama-server from a dedicated llama.cpp build) was measured with the same inputs and prompts.
+나중에 크래프톤의 로컬 모델 Raon-1 mini(Q4_K_M, 전용 llama.cpp 빌드의 llama-server로 실행)도 같은 문장·프롬프트로 측정. / Later, Krafton's local model Raon-1 mini (Q4_K_M, served by llama-server from a dedicated llama.cpp build) was measured with the same inputs and prompts.
 
 **l10n-pipeline** (몬스터 헌터 용어 100문장, 공식 표기 일치 ko / ja / es)
 
