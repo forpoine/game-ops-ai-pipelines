@@ -1,0 +1,3202 @@
+[
+ {
+  "id": 0,
+  "api_id": "mhw-item-84",
+  "type": "item",
+  "src": "Hunters at HR 21 or above will receive Dung Pod x5 after clearing the investigation mission.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 21 이상의 헌터는 조사 미션을 클리어한 후 Dung Pod x5를 받게 됩니다.\",\"ja\":\"HR21以上のハンターは調査ミッションをクリアした後、Dung Pod x5を受け取ります。\",\"es\":\"Los cazadores con HR 21 o superior recibirán Dung Pod x5 después de completar la misión de investigación.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 21 이상의 헌터는 조사 미션을 클리어한 후 Dung Pod x5를 받게 됩니다.",
+    "official": "슬링어 거름탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR21以上のハンターは調査ミッションをクリアした後、Dung Pod x5を受け取ります。",
+    "official": "スリンガーこやし弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores con HR 21 o superior recibirán Dung Pod x5 después de completar la misión de investigación.",
+    "official": "Cápsula boñiga",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 1,
+  "api_id": "mhw-item-40",
+  "type": "item",
+  "src": "During the festival, Smokenut x10 will be delivered to all hunters who reach HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 Smokenut x10이 지급됩니다.\",\"ja\":\"祭り期間中、HR100以上に到達したすべてのハンターにSmokenut x10を配布します。\",\"es\":\"Durante el festival, se entregará Smokenut x10 a todos los cazadores que alcancen HR 100 o superior.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 Smokenut x10이 지급됩니다.",
+    "official": "연기열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "祭り期間中、HR100以上に到達したすべてのハンターにSmokenut x10を配布します。",
+    "official": "ケムリの実",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el festival, se entregará Smokenut x10 a todos los cazadores que alcancen HR 100 o superior.",
+    "official": "Nuez de humo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 2,
+  "api_id": "mhw-item-103",
+  "type": "item",
+  "src": "Due to an issue, Gunpowder Level 3 was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 Gunpowder Level 3이 아이템 박스에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題により、Gunpowder Level 3がアイテムボックスに表示されませんでした。これは次のアップデートで修正されます。\",\"es\":\"Debido a un problema, Gunpowder Level 3 no se mostró en el inventario/caja de objetos. Esto se solucionará en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 Gunpowder Level 3이 아이템 박스에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "LV3 화약분",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "問題により、Gunpowder Level 3がアイテムボックスに表示されませんでした。これは次のアップデートで修正されます。",
+    "official": "LV3 火薬粉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, Gunpowder Level 3 no se mostró en el inventario/caja de objetos. Esto se solucionará en la próxima actualización.",
+    "official": "Pólvora nivel 3",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 3,
+  "api_id": "mhw-item-851",
+  "type": "item",
+  "src": "During the festival, Plunderblade x10 will be delivered to all hunters who reach HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 Plunderblade x10이 지급됩니다.\",\"ja\":\"祭り期間中、HR 100以上に到達したすべてのハンターにPlunderblade x10が配布されます。\",\"es\":\"Durante el festival, se entregará Plunderblade x10 a todos los cazadores que alcancen HR 100 o superior.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 Plunderblade x10이 지급됩니다.",
+    "official": "약탈의 공격의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "祭り期間中、HR 100以上に到達したすべてのハンターにPlunderblade x10が配布されます。",
+    "official": "ぶんどり突撃の指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el festival, se entregará Plunderblade x10 a todos los cazadores que alcancen HR 100 o superior.",
+    "official": "Cortabolsas",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 4,
+  "api_id": "mhw-item-13",
+  "type": "item",
+  "src": "Due to an issue, Cool Drink was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 쿨 드링크가 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題により、クールドリンクがアイテムボックスに表示されませんでした。次回のアップデートで修正されます。\",\"es\":\"Debido a un problema, Cool Drink no se mostró en la caja de objetos. Esto se corregirá en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 쿨 드링크가 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "쿨드링크",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "問題により、クールドリンクがアイテムボックスに表示されませんでした。次回のアップデートで修正されます。",
+    "official": "クーラードリンク",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, Cool Drink no se mostró en la caja de objetos. Esto se corregirá en la próxima actualización.",
+    "official": "Bebida fría",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 5,
+  "api_id": "mhw-item-20",
+  "type": "item",
+  "src": "From HR 50, Might Seed can be obtained repeatedly from optional quests that could only be cleared once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 스토리에서 한 번만 클리어할 수 있었던 선택 퀘스트에서 마이트 시드를 반복해서 얻을 수 있습니다.\",\"ja\":\"HR50から、ストーリーで一度しかクリアできないオプションクエストでマイトシードを繰り返し入手できます。\",\"es\":\"A partir de HR 50, se puede obtener la Semilla de Fuerza repetidamente de misiones opcionales que solo podían completarse una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 스토리에서 한 번만 클리어할 수 있었던 선택 퀘스트에서 마이트 시드를 반복해서 얻을 수 있습니다.",
+    "official": "괴력씨앗",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR50から、ストーリーで一度しかクリアできないオプションクエストでマイトシードを繰り返し入手できます。",
+    "official": "怪力の種",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "A partir de HR 50, se puede obtener la Semilla de Fuerza repetidamente de misiones opcionales que solo podían completarse una vez en la historia.",
+    "official": "Semilla de poder",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 6,
+  "api_id": "mhw-item-1787",
+  "type": "item",
+  "src": "From HR 50, Plunderers: Steamed Cricket can be obtained repeatedly from optional quests that could only be cleared once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 '약탈자들: 찐 귀뚜라미'는 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트에서 반복해서 얻을 수 있습니다.\",\"ja\":\"HR 50から、『略奪者たち：蒸し蟋蟀』は、ストーリーで一度しかクリアできないオプションクエストで繰り返し入手できます。\",\"es\":\"A partir de HR 50, Plunderers: Grillo al vapor se puede obtener repetidamente de misiones opcionales que solo podían completarse una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 '약탈자들: 찐 귀뚜라미'는 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트에서 반복해서 얻을 수 있습니다.",
+    "official": "약탈 부족-골충 찜",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 50から、『略奪者たち：蒸し蟋蟀』は、ストーリーで一度しかクリアできないオプションクエストで繰り返し入手できます。",
+    "official": "ぶんどり族・骨虫蒸し",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "A partir de HR 50, Plunderers: Grillo al vapor se puede obtener repetidamente de misiones opcionales que solo podían completarse una vez en la historia.",
+    "official": "Saqueadores: grillo al vapor",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 7,
+  "api_id": "mhw-item-182",
+  "type": "item",
+  "src": "Prepare First-aid Med+ in advance before taking on the high-difficulty optional quest!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고난이도 선택 퀘스트에 도전하기 전에 미리 First-aid Med+를 준비하세요!\",\"ja\":\"高難易度のオプションクエストに挑む前に、事前にFirst-aid Med+を準備しておきましょう！\",\"es\":\"¡Prepárate el First-aid Med+ con anticipación antes de enfrentar la misión opcional de alta dificultad!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고난이도 선택 퀘스트에 도전하기 전에 미리 First-aid Med+를 준비하세요!",
+    "official": "그레이트 응급약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "高難易度のオプションクエストに挑む前に、事前にFirst-aid Med+を準備しておきましょう！",
+    "official": "応急薬グレート",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "¡Prepárate el First-aid Med+ con anticipación antes de enfrentar la misión opcional de alta dificultad!",
+    "official": "Medicamento+",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 8,
+  "api_id": "mhw-item-26",
+  "type": "item",
+  "src": "Due to an issue, Mega Armorskin was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 Mega Armorskin이 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題により、Mega Armorskinがアイテムボックスに表示されませんでした。次回のアップデートで修正されます。\",\"es\":\"Debido a un problema, Mega Armorskin no se mostró en la caja de objetos. Se corregirá en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 Mega Armorskin이 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "그레이트 경화약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "問題により、Mega Armorskinがアイテムボックスに表示されませんでした。次回のアップデートで修正されます。",
+    "official": "硬化薬グレート",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, Mega Armorskin no se mostró en la caja de objetos. Se corregirá en la próxima actualización.",
+    "official": "Piel de armadura+",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 9,
+  "api_id": "mhw-item-95",
+  "type": "item",
+  "src": "From HR 50, Blastnut can be obtained repeatedly from optional quests that could only be cleared once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 블래스넛을 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트에서 반복해서 얻을 수 있습니다.\",\"ja\":\"HR50から、ストーリーで一度しかクリアできないオプションクエストでブラストナットを繰り返し入手できます。\",\"es\":\"A partir de HR 50, Blastnut se puede obtener repetidamente de misiones opcionales que solo podían completarse una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 블래스넛을 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트에서 반복해서 얻을 수 있습니다.",
+    "official": "폭렬열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR50から、ストーリーで一度しかクリアできないオプションクエストでブラストナットを繰り返し入手できます。",
+    "official": "バクレツの実",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "A partir de HR 50, Blastnut se puede obtener repetidamente de misiones opcionales que solo podían completarse una vez en la historia.",
+    "official": "Nuez pegajosa",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 10,
+  "api_id": "mhw-item-194",
+  "type": "item",
+  "src": "HR 100 or above: clearing the arch-tempered quest now rewards EZ Screamer Pod x3. ※ The event quest must be cleared first.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 100 이상: 이제 아처 템퍼드 퀘스트를 클리어하면 EZ Screamer Pod x3를 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.\",\"ja\":\"HR 100以上：アーチテンパードクエストをクリアすると、EZスクリーマー・ポッドx3が報酬として入手できます。※イベントクエストを先にクリアしておく必要があります。\",\"es\":\"HR 100 o superior: ahora, al completar la misión del monstruo arch-tempered, obtienes EZ Screamer Pod x3 como recompensa. ※ Debes completar primero la misión de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 100 이상: 이제 아처 템퍼드 퀘스트를 클리어하면 EZ Screamer Pod x3를 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.",
+    "official": "지급전용 음폭탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 100以上：アーチテンパードクエストをクリアすると、EZスクリーマー・ポッドx3が報酬として入手できます。※イベントクエストを先にクリアしておく必要があります。",
+    "official": "支給用音爆弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "HR 100 o superior: ahora, al completar la misión del monstruo arch-tempered, obtienes EZ Screamer Pod x3 como recompensa. ※ Debes completar primero la misión de evento.",
+    "official": "Cápsula chillona (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 11,
+  "api_id": "mhw-item-15",
+  "type": "item",
+  "src": "Prepare Mega Nutrients in advance before taking on the high-difficulty optional quest!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고난이도 선택 퀘스트에 도전하기 전에 미리 메가 영양제를 준비하세요!\",\"ja\":\"高難易度のオプションクエストに挑む前に、メガ栄養素をあらかじめ用意しておきましょう！\",\"es\":\"¡Prepárate los Mega Nutrientes con anticipación antes de enfrentar la misión opcional de alta dificultad!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고난이도 선택 퀘스트에 도전하기 전에 미리 메가 영양제를 준비하세요!",
+    "official": "그레이트 영양제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "高難易度のオプションクエストに挑む前に、メガ栄養素をあらかじめ用意しておきましょう！",
+    "official": "栄養剤グレート",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "¡Prepárate los Mega Nutrientes con anticipación antes de enfrentar la misión opcional de alta dificultad!",
+    "official": "Meganutrientes",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 12,
+  "api_id": "mhw-item-131",
+  "type": "item",
+  "src": "During the festival, Evasion Mantle x10 will be delivered to all hunters who reach HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"축제 기간 동안 회피 망토 x10이 HR 100 이상에 도달한 모든 헌터에게 지급됩니다.\",\"ja\":\"祭り期間中、回避マントル×10がHR100以上に到達したすべてのハンターに配布されます。\",\"es\":\"Durante el festival, se entregará Manto de Evasión x10 a todos los cazadores que alcancen HR 100 o superior.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 회피 망토 x10이 HR 100 이상에 도달한 모든 헌터에게 지급됩니다.",
+    "official": "회피 복장",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "祭り期間中、回避マントル×10がHR100以上に到達したすべてのハンターに配布されます。",
+    "official": "回避の装衣",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el festival, se entregará Manto de Evasión x10 a todos los cazadores que alcancen HR 100 o superior.",
+    "official": "Manto de evasión",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 13,
+  "api_id": "mhw-item-56",
+  "type": "item",
+  "src": "Due to an issue, Nourishing Extract was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 Nourishing Extract가 아이템 박스에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題により、Nourishing Extractがアイテムボックスに表示されませんでした。これは次のアップデートで修正されます。\",\"es\":\"Debido a un problema, Nourishing Extract no se mostró en la caja de objetos. Esto se corregirá en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 Nourishing Extract가 아이템 박스에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "자양진액",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "問題により、Nourishing Extractがアイテムボックスに表示されませんでした。これは次のアップデートで修正されます。",
+    "official": "滋養エキス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, Nourishing Extract no se mostró en la caja de objetos. Esto se corregirá en la próxima actualización.",
+    "official": "Extracto nutritivo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 14,
+  "api_id": "mhw-item-10",
+  "type": "item",
+  "src": "Prepare Rare Steak in advance before taking on the high-difficulty optional quest!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고난이도 선택 퀘스트에 도전하기 전에 희귀 스테이크를 미리 준비하세요!\",\"ja\":\"高難易度のオプションクエストに挑む前に、レアステーキを事前に用意しておこう！\",\"es\":\"¡Prepara el bistec raro con anticipación antes de enfrentar la misión opcional de alta dificultad!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고난이도 선택 퀘스트에 도전하기 전에 희귀 스테이크를 미리 준비하세요!",
+    "official": "설익은 고기",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "高難易度のオプションクエストに挑む前に、レアステーキを事前に用意しておこう！",
+    "official": "生焼け肉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "¡Prepara el bistec raro con anticipación antes de enfrentar la misión opcional de alta dificultad!",
+    "official": "Filete poco hecho",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 15,
+  "api_id": "mhw-item-24",
+  "type": "item",
+  "src": "The bonus reward for the endurance quest has been changed to Adamant Seed. ※ Rewards already received are not affected.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"인내 퀘스트의 보너스 보상이 Adamant Seed로 변경되었습니다. ※ 이미 수령한 보상에는 영향이 없습니다.\",\"ja\":\"エンドランスクエストのボーナス報酬はAdamant Seedに変更されました。※すでに受け取った報酬には影響しません。\",\"es\":\"La recompensa adicional de la misión de resistencia ha cambiado a Adamant Seed. ※ Las recompensas ya recibidas no se ven afectadas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "인내 퀘스트의 보너스 보상이 Adamant Seed로 변경되었습니다. ※ 이미 수령한 보상에는 영향이 없습니다.",
+    "official": "인내씨앗",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "エンドランスクエストのボーナス報酬はAdamant Seedに変更されました。※すでに受け取った報酬には影響しません。",
+    "official": "忍耐の種",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La recompensa adicional de la misión de resistencia ha cambiado a Adamant Seed. ※ Las recompensas ya recibidas no se ven afectadas.",
+    "official": "Semilla armadura",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 16,
+  "api_id": "mhw-item-113",
+  "type": "item",
+  "src": "Hunters at HR 21 or above will receive Great Bomb Arowana Scale x5 after clearing the investigation mission.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 21 이상의 헌터들은 조사 미션을 완료한 후 그레이트 봄 아로와나 비늘 x5를 받게 됩니다.\",\"ja\":\"HR 21以上のハンターは調査ミッションをクリアした後、グレートボムアロワナの鱗×5を受け取ります。\",\"es\":\"Los cazadores de HR 21 o superior recibirán Escama de Arowana Gran Bomba x5 tras completar la misión de investigación.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 21 이상의 헌터들은 조사 미션을 완료한 후 그레이트 봄 아로와나 비늘 x5를 받게 됩니다.",
+    "official": "대형폭렬 비늘",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 21以上のハンターは調査ミッションをクリアした後、グレートボムアロワナの鱗×5を受け取ります。",
+    "official": "大バクレツウロコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores de HR 21 o superior recibirán Escama de Arowana Gran Bomba x5 tras completar la misión de investigación.",
+    "official": "Escama de arrowana bomba real",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 17,
+  "api_id": "mhw-item-109",
+  "type": "item",
+  "src": "HR 100 or above: clearing the arch-tempered quest now rewards Great Gunpowderfish Scale x3. ※ The event quest must be cleared first.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 100 이상: 이제 아치 템퍼드 퀘스트를 클리어하면 그레이트 화약물고기 비늘 x3을 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.\",\"ja\":\"HR 100以上：アーチ・テンパードクエストをクリアすると、グレート火薬魚の鱗x3が報酬として手に入ります。※イベントクエストを先にクリアしておく必要があります。\",\"es\":\"HR 100 o superior: al completar ahora la misión del Arch-Tempered, obtendrás Escama de pez pólvora Grande x3 como recompensa. ※ Debes completar primero la misión de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 100 이상: 이제 아치 템퍼드 퀘스트를 클리어하면 그레이트 화약물고기 비늘 x3을 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.",
+    "official": "대형폭약 비늘",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 100以上：アーチ・テンパードクエストをクリアすると、グレート火薬魚の鱗x3が報酬として手に入ります。※イベントクエストを先にクリアしておく必要があります。",
+    "official": "大バクヤクウロコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "HR 100 o superior: al completar ahora la misión del Arch-Tempered, obtendrás Escama de pez pólvora Grande x3 como recompensa. ※ Debes completar primero la misión de evento.",
+    "official": "Escama de pez pólvora real",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 18,
+  "api_id": "mhw-item-18",
+  "type": "item",
+  "src": "Due to an issue, Dash Juice was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 대시 주스가 아이템 박스에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題により、ダッシュジュースがアイテムボックスに表示されませんでした。次回のアップデートで修正されます。\",\"es\":\"Debido a un problema, Dash Juice no se mostró en el cajón de objetos. Esto se corregirá en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 대시 주스가 아이템 박스에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "강주약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "問題により、ダッシュジュースがアイテムボックスに表示されませんでした。次回のアップデートで修正されます。",
+    "official": "強走薬",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, Dash Juice no se mostró en el cajón de objetos. Esto se corregirá en la próxima actualización.",
+    "official": "Zumo de poder",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 19,
+  "api_id": "mhw-item-63",
+  "type": "item",
+  "src": "Hunters at HR 21 or above will receive Poison Smoke Bomb x5 after clearing the investigation mission.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 21 이상의 헌터는 조사 미션을 완료하면 독 연기 폭탄 x5를 받게 됩니다.\",\"ja\":\"HR 21以上のハンターは調査ミッションをクリアすると、毒煙弾x5を受け取ります。\",\"es\":\"Los cazadores de HR 21 o superior recibirán 5 Bombas de Humo Venenoso tras completar la misión de investigación.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 21 이상의 헌터는 조사 미션을 완료하면 독 연기 폭탄 x5를 받게 됩니다.",
+    "official": "독연기옥",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 21以上のハンターは調査ミッションをクリアすると、毒煙弾x5を受け取ります。",
+    "official": "毒けむり玉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores de HR 21 o superior recibirán 5 Bombas de Humo Venenoso tras completar la misión de investigación.",
+    "official": "Bola de humo venenoso",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 20,
+  "api_id": "mhw-item-25",
+  "type": "item",
+  "src": "※ Armorskin will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아머스킨은 아스테라에서 보급 담당관과 대화한 후 보급품 비축고에 추가됩니다.\",\"ja\":\"※ アーマースキンは、アステラでクォーターマスターに話しかけた後、備蓄倉庫に追加されます。\",\"es\":\"※ Armorskin se añadirá al depósito de provisiones después de hablar con el Proveedor en Astera.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아머스킨은 아스테라에서 보급 담당관과 대화한 후 보급품 비축고에 추가됩니다.",
+    "official": "경화약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アーマースキンは、アステラでクォーターマスターに話しかけた後、備蓄倉庫に追加されます。",
+    "official": "硬化薬",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ Armorskin se añadirá al depósito de provisiones después de hablar con el Proveedor en Astera.",
+    "official": "Piel de armadura",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 21,
+  "api_id": "mhw-item-186",
+  "type": "item",
+  "src": "During the festival, EZ Large Barrel Bomb x10 will be delivered to all hunters who reach HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"축제 기간 동안 HR 100 이상에 도달한 모든 헌터는 EZ 대형 통폭탄 x10을 받게 됩니다.\",\"ja\":\"祭り期間中、HR100以上に到達したすべてのハンターにEZ大型樽爆弾x10を配布します。\",\"es\":\"Durante el festival, se entregará a todos los cazadores que alcancen HR 100 o superior EZ Gran Barril Bomba x10.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 HR 100 이상에 도달한 모든 헌터는 EZ 대형 통폭탄 x10을 받게 됩니다.",
+    "official": "지급 대형나무통폭탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "祭り期間中、HR100以上に到達したすべてのハンターにEZ大型樽爆弾x10を配布します。",
+    "official": "支給用大タル爆弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el festival, se entregará a todos los cazadores que alcancen HR 100 o superior EZ Gran Barril Bomba x10.",
+    "official": "Bomba barril grande (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 22,
+  "api_id": "mhw-item-110",
+  "type": "item",
+  "src": "From HR 50, Burst Arowana Scale can be obtained repeatedly from optional quests that could only be cleared once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 버스트 아로와나 비늘은 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트에서 반복해서 얻을 수 있습니다.\",\"ja\":\"HR 50から、バストアロワナスケールは物語で一度しかクリアできないオプションクエストから繰り返し入手できます。\",\"es\":\"A partir de HR 50, la Escama de Arowana Burst se puede obtener repetidamente de misiones opcionales que solo se podían completar una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 버스트 아로와나 비늘은 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트에서 반복해서 얻을 수 있습니다.",
+    "official": "파열 비늘",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 50から、バストアロワナスケールは物語で一度しかクリアできないオプションクエストから繰り返し入手できます。",
+    "official": "ハレツウロコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "A partir de HR 50, la Escama de Arowana Burst se puede obtener repetidamente de misiones opcionales que solo se podían completar una vez en la historia.",
+    "official": "Escama de arrowana reventona",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 23,
+  "api_id": "mhw-item-16",
+  "type": "item",
+  "src": "Due to an issue, Immunizer was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 Immunizer가 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題により、Immunizerがアイテムボックスに表示されませんでした。これは次のアップデートで修正されます。\",\"es\":\"Debido a un problema, Immunizer no se mostró en la caja de objetos. Esto se solucionará en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 Immunizer가 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "활력제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "問題により、Immunizerがアイテムボックスに表示されませんでした。これは次のアップデートで修正されます。",
+    "official": "活力剤",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, Immunizer no se mostró en la caja de objetos. Esto se solucionará en la próxima actualización.",
+    "official": "Inmunizador",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 24,
+  "api_id": "mhw-item-189",
+  "type": "item",
+  "src": "HR 100 or above: clearing the arch-tempered quest now rewards EZ Herbal Powder x3. ※ The event quest must be cleared first.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 100 이상: 이제 아처 템퍼드 퀘스트를 클리어하면 EZ 허브 파우더 x3을 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.\",\"ja\":\"HR 100以上：アーチ・テンパードクエストをクリアすると、EZハーブパウダーx3が報酬として獲得できます。※イベントクエストを先にクリアする必要があります。\",\"es\":\"HR 100 o superior: ahora, al completar la misión del jefe arch-tempered, se obtienen EZ Herbal Powder x3 como recompensa. ※ Debe completarse primero la misión de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 100 이상: 이제 아처 템퍼드 퀘스트를 클리어하면 EZ 허브 파우더 x3을 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.",
+    "official": "지급전용 한방가루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 100以上：アーチ・テンパードクエストをクリアすると、EZハーブパウダーx3が報酬として獲得できます。※イベントクエストを先にクリアする必要があります。",
+    "official": "支給用漢方の粉塵",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "HR 100 o superior: ahora, al completar la misión del jefe arch-tempered, se obtienen EZ Herbal Powder x3 como recompensa. ※ Debe completarse primero la misión de evento.",
+    "official": "Polvo de hierbas (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 25,
+  "api_id": "mhw-item-33",
+  "type": "item",
+  "src": "Herb can now be gathered with low probability in the Rotten Vale during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 썩은 계곡에서 허브를 낮은 확률로 채집할 수 있게 되었습니다.\",\"ja\":\"イベント期間中、ロットンベイルでハーブを低確率で採取できるようになりました。\",\"es\":\"Durante el evento, ahora se pueden recolectar hierbas con baja probabilidad en la Fosa Podrida.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 썩은 계곡에서 허브를 낮은 확률로 채집할 수 있게 되었습니다.",
+    "official": "약초",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、ロットンベイルでハーブを低確率で採取できるようになりました。",
+    "official": "薬草",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, ahora se pueden recolectar hierbas con baja probabilidad en la Fosa Podrida.",
+    "official": "Hierba",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 26,
+  "api_id": "mhw-item-59",
+  "type": "item",
+  "src": "Prepare Tranq Bomb in advance before taking on the high-difficulty optional quest!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고난이도 선택 퀘스트에 도전하기 전에 미리 트랜크 폭탄을 준비하세요!\",\"ja\":\"高難易度のオプションクエストに挑む前に、トランク爆弾を事前に準備しておこう！\",\"es\":\"¡Prepara el Tranq Bomb con anticipación antes de enfrentar la misión opcional de alta dificultad!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고난이도 선택 퀘스트에 도전하기 전에 미리 트랜크 폭탄을 준비하세요!",
+    "official": "포획용마취옥",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "高難易度のオプションクエストに挑む前に、トランク爆弾を事前に準備しておこう！",
+    "official": "捕獲用麻酔玉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "¡Prepara el Tranq Bomb con anticipación antes de enfrentar la misión opcional de alta dificultad!",
+    "official": "Bola tranquilizante",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 27,
+  "api_id": "mhw-item-846",
+  "type": "item",
+  "src": "※ Thunderbug Cage will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라의 보급 담당관과 대화한 후 천둥벌레 케이지가 보급품 비축고에 추가됩니다.\",\"ja\":\"※ アステラの物資担当者と話した後、サンダーバグケージが備蓄倉庫に追加されます。\",\"es\":\"※ Después de hablar con el proveedor de suministros en Astera, la jaula Thunderbug se añadirá al depósito de provisiones.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라의 보급 담당관과 대화한 후 천둥벌레 케이지가 보급품 비축고에 추가됩니다.",
+    "official": "마비 벌레장의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラの物資担当者と話した後、サンダーバグケージが備蓄倉庫に追加されます。",
+    "official": "痺れ虫かごの指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ Después de hablar con el proveedor de suministros en Astera, la jaula Thunderbug se añadirá al depósito de provisiones.",
+    "official": "Jaula de electrobicho",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 28,
+  "api_id": "mhw-item-845",
+  "type": "item",
+  "src": "Flashfly Cage can now be gathered with low probability in the Rotten Vale during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 썩은 계곡에서 낮은 확률로 플래시플라이 케이지를 채집할 수 있습니다.\",\"ja\":\"イベント期間中、腐った谷で低確率でフラッシュフライケージを採集できるようになりました。\",\"es\":\"Durante el evento, ahora puedes recolectar la Flashfly Cage con baja probabilidad en el Valle Podrido.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 썩은 계곡에서 낮은 확률로 플래시플라이 케이지를 채집할 수 있습니다.",
+    "official": "섬광 벌레장의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、腐った谷で低確率でフラッシュフライケージを採集できるようになりました。",
+    "official": "閃光虫かごの指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, ahora puedes recolectar la Flashfly Cage con baja probabilidad en el Valle Podrido.",
+    "official": "Jaula de noctiluca",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 29,
+  "api_id": "mhw-item-1786",
+  "type": "item",
+  "src": "The bonus reward for the endurance quest has been changed to Troupers: Horned Urchin. ※ Rewards already received are not affected.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"인내 퀘스트의 보너스 보상이 Troupers: Horned Urchin으로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.\",\"ja\":\"エンドランスクエストのボーナス報酬が Troupers: Horned Urchin に変更されました。※ すでに受け取った報酬には影響しません。\",\"es\":\"La recompensa adicional de la misión de resistencia ha cambiado a Troupers: Horned Urchin. ※ Las recompensas ya recibidas no se ven afectadas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "인내 퀘스트의 보너스 보상이 Troupers: Horned Urchin으로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.",
+    "official": "춤 부족-외뿔 성게",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "エンドランスクエストのボーナス報酬が Troupers: Horned Urchin に変更されました。※ すでに受け取った報酬には影響しません。",
+    "official": "かなで族・一角ウニ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La recompensa adicional de la misión de resistencia ha cambiado a Troupers: Horned Urchin. ※ Las recompensas ya recibidas no se ven afectadas.",
+    "official": "Trovadores: erizo de mar cornudo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 30,
+  "api_id": "mhw-item-1022",
+  "type": "item",
+  "src": "The bonus reward for the endurance quest has been changed to Vigorwasp Revival. ※ Rewards already received are not affected.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"지구력 퀘스트의 보너스 보상이 Vigorwasp Revival로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.\",\"ja\":\"耐久クエストのボーナス報酬がVigorwasp Revivalに変更されました。※ すでに受け取った報酬には影響しません。\",\"es\":\"La recompensa adicional para la misión de resistencia ha cambiado a Vigorwasp Revival. ※ Las recompensas ya recibidas no se ven afectadas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "지구력 퀘스트의 보너스 보상이 Vigorwasp Revival로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.",
+    "official": "꿀벌레 근성의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "耐久クエストのボーナス報酬がVigorwasp Revivalに変更されました。※ すでに受け取った報酬には影響しません。",
+    "official": "ミツムシど根性の指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La recompensa adicional para la misión de resistencia ha cambiado a Vigorwasp Revival. ※ Las recompensas ya recibidas no se ven afectadas.",
+    "official": "Revivir melífera vitae",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 31,
+  "api_id": "mhw-item-192",
+  "type": "item",
+  "src": "Due to an issue, EZ Dung Pod was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 EZ Dung Pod가 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題により、EZ Dung Podがアイテムボックスに表示されませんでした。次回のアップデートで修正されます。\",\"es\":\"Debido a un problema, EZ Dung Pod no se mostró en la caja de objetos. Esto se corregirá en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 EZ Dung Pod가 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "지급전용 거름탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "問題により、EZ Dung Podがアイテムボックスに表示されませんでした。次回のアップデートで修正されます。",
+    "official": "支給用こやし弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, EZ Dung Pod no se mostró en la caja de objetos. Esto se corregirá en la próxima actualización.",
+    "official": "Cápsula boñiga (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 32,
+  "api_id": "mhw-item-1000",
+  "type": "item",
+  "src": "From HR 50, Hot Drink can be obtained repeatedly from optional quests that could only be cleared once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 핫 드링크는 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트에서 반복해서 얻을 수 있습니다.\",\"ja\":\"HR50から、ホットドリンクはストーリーで一度しかクリアできないオプションクエストで繰り返し入手できます。\",\"es\":\"A partir de HR 50, Hot Drink se puede obtener repetidamente de misiones opcionales que solo podían completarse una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 핫 드링크는 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트에서 반복해서 얻을 수 있습니다.",
+    "official": "핫드링크",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "HR50から、ホットドリンクはストーリーで一度しかクリアできないオプションクエストで繰り返し入手できます。",
+    "official": "ホットドリンク",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "A partir de HR 50, Hot Drink se puede obtener repetidamente de misiones opcionales que solo podían completarse una vez en la historia.",
+    "official": "Bebida caliente",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 33,
+  "api_id": "mhw-item-2569",
+  "type": "item",
+  "src": "※ Red Herb will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라에서 보급 담당관과 대화한 후 레드 허브가 보급품 저장소에 추가됩니다.\",\"ja\":\"※ アステラで物資担当者と話した後、レッドハーブが備蓄倉庫に追加されます。\",\"es\":\"※ La Hierba Roja se añadirá al depósito de provisiones después de hablar con el Proveedor en Astera.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라에서 보급 담당관과 대화한 후 레드 허브가 보급품 저장소에 추가됩니다.",
+    "official": "빨간 약초",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラで物資担当者と話した後、レッドハーブが備蓄倉庫に追加されます。",
+    "official": "レッドハーブ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "※ La Hierba Roja se añadirá al depósito de provisiones después de hablar con el Proveedor en Astera.",
+    "official": "Hierba roja",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 34,
+  "api_id": "mhw-item-2678",
+  "type": "item",
+  "src": "Due to an issue, Snowman was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 스노우맨이 아이템 박스에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題により、スノーマンがアイテムボックスに表示されませんでした。次のアップデートで修正されます。\",\"es\":\"Debido a un problema, Snowman no se mostró en la caja de ítems. Esto se corregirá en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 스노우맨이 아이템 박스에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "눈사람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "問題により、スノーマンがアイテムボックスに表示されませんでした。次のアップデートで修正されます。",
+    "official": "雪だるま",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, Snowman no se mostró en la caja de ítems. Esto se corregirá en la próxima actualización.",
+    "official": "Muñeco de nieve",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 35,
+  "api_id": "mhw-item-58",
+  "type": "item",
+  "src": "The bonus reward for the endurance quest has been changed to Catalyst. ※ Rewards already received are not affected.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"지구력 퀘스트의 보너스 보상이 카탈리스트로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.\",\"ja\":\"エンドランスクエストのボーナス報酬がカタリストに変更されました。※すでに受け取った報酬には影響しません。\",\"es\":\"La recompensa adicional de la misión de resistencia ha cambiado a Catalizador. ※ Las recompensas ya recibidas no se ven afectadas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "지구력 퀘스트의 보너스 보상이 카탈리스트로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.",
+    "official": "증강제",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "エンドランスクエストのボーナス報酬がカタリストに変更されました。※すでに受け取った報酬には影響しません。",
+    "official": "増強剤",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La recompensa adicional de la misión de resistencia ha cambiado a Catalizador. ※ Las recompensas ya recibidas no se ven afectadas.",
+    "official": "Catalizador",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 36,
+  "api_id": "mhw-item-12",
+  "type": "item",
+  "src": "Clear all special environment quests to unlock the option to craft Burnt Meat at the workshop.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"모든 특수 환경 퀘스트를 완료하여 워크숍에서 구운 고기 제작 옵션을 잠금 해제하세요.\",\"ja\":\"すべての特殊環境クエストをクリアして、ワークショップで焼き肉をクラフトするオプションを解除してください。\",\"es\":\"Completa todas las misiones especiales de entorno para desbloquear la opción de elaborar Carne Quemada en el taller.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "모든 특수 환경 퀘스트를 완료하여 워크숍에서 구운 고기 제작 옵션을 잠금 해제하세요.",
+    "official": "탄 고기",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "すべての特殊環境クエストをクリアして、ワークショップで焼き肉をクラフトするオプションを解除してください。",
+    "official": "コゲ肉",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Completa todas las misiones especiales de entorno para desbloquear la opción de elaborar Carne Quemada en el taller.",
+    "official": "Carne quemada",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 37,
+  "api_id": "mhw-item-187",
+  "type": "item",
+  "src": "Prepare EZ Shock Trap in advance before taking on the high-difficulty optional quest!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고난이도 선택 퀘스트에 도전하기 전에 EZ 쇼크 트랩을 미리 준비하세요!\",\"ja\":\"高難易度のオプションクエストに挑む前に、EZショックトラップを事前に準備しておきましょう！\",\"es\":\"¡Prepárate el EZ Shock Trap con anticipación antes de enfrentar la misión opcional de alta dificultad!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고난이도 선택 퀘스트에 도전하기 전에 EZ 쇼크 트랩을 미리 준비하세요!",
+    "official": "휴대 마비덫",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "高難易度のオプションクエストに挑む前に、EZショックトラップを事前に準備しておきましょう！",
+    "official": "支給用シビレ罠",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "¡Prepárate el EZ Shock Trap con anticipación antes de enfrentar la misión opcional de alta dificultad!",
+    "official": "Trampa eléctrica (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 38,
+  "api_id": "mhw-item-36",
+  "type": "item",
+  "src": "※ Flowfern will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라에서 보급관과 대화한 후 플로우펀이 보급품 비축고에 추가됩니다.\",\"ja\":\"※ アステラでクォーターマスターに話しかけた後、フローフェンが物資備蓄庫に追加されます。\",\"es\":\"※ Después de hablar con el Proveedor en Astera, Flowfern se agregará al depósito de provisiones.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라에서 보급관과 대화한 후 플로우펀이 보급품 비축고에 추가됩니다.",
+    "official": "유수초",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラでクォーターマスターに話しかけた後、フローフェンが物資備蓄庫に追加されます。",
+    "official": "流水草",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ Después de hablar con el Proveedor en Astera, Flowfern se agregará al depósito de provisiones.",
+    "official": "Helechoflor",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 39,
+  "api_id": "mhw-item-76",
+  "type": "item",
+  "src": "The bonus reward for the endurance quest has been changed to Mega Barrel Bomb. ※ Rewards already received are not affected.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\" endurance 퀘스트의 보너스 보상이 'Mega Barrel Bomb'으로 변경되었습니다. ※ 이미 획득한 보상은 영향을 받지 않습니다.\",\"ja\":\" endurance クエストのボーナス報酬がメガバレル爆弾に変更されました。※すでに受け取った報酬には影響しません。\",\"es\":\"La recompensa adicional de la misión de resistencia ha cambiado a Mega Barrel Bomb. ※ Las recompensas ya recibidas no se ven afectadas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": " endurance 퀘스트의 보너스 보상이 'Mega Barrel Bomb'으로 변경되었습니다. ※ 이미 획득한 보상은 영향을 받지 않습니다.",
+    "official": "대형나무통폭탄G",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": " endurance クエストのボーナス報酬がメガバレル爆弾に変更されました。※すでに受け取った報酬には影響しません。",
+    "official": "大タル爆弾Ｇ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La recompensa adicional de la misión de resistencia ha cambiado a Mega Barrel Bomb. ※ Las recompensas ya recibidas no se ven afectadas.",
+    "official": "Megabomba de barril",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 40,
+  "api_id": "mhw-item-1028",
+  "type": "item",
+  "src": "Clear all special environment quests to unlock the option to craft zenny at the workshop.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"모든 특수 환경 퀘스트를 클리어하여 워크숍에서 제니 제작 옵션을 잠금 해제하세요.\",\"ja\":\"すべての特殊環境クエストをクリアして、ワークショップでゼニーを生成するオプションを解除してください。\",\"es\":\"Completa todas las misiones especiales de entorno para desbloquear la opción de fabricar zeny en el taller.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "모든 특수 환경 퀘스트를 클리어하여 워크숍에서 제니 제작 옵션을 잠금 해제하세요.",
+    "official": "제니",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "すべての特殊環境クエストをクリアして、ワークショップでゼニーを生成するオプションを解除してください。",
+    "official": "ゼニー",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Completa todas las misiones especiales de entorno para desbloquear la opción de fabricar zeny en el taller.",
+    "official": "zenis",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 41,
+  "api_id": "mhw-item-38",
+  "type": "item",
+  "src": "Prepare Sleep Herb in advance before taking on the high-difficulty optional quest!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고난이도 선택 퀘스트에 도전하기 전에 미리 수면 허브를 준비하세요!\",\"ja\":\"高難易度のオプションクエストに挑む前に、あらかじめ睡眠ハーブを用意しておきましょう！\",\"es\":\"¡Prepárate la Hierba del Sueño con anticipación antes de enfrentar la misión opcional de alta dificultad!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고난이도 선택 퀘스트에 도전하기 전에 미리 수면 허브를 준비하세요!",
+    "official": "수면초",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "高難易度のオプションクエストに挑む前に、あらかじめ睡眠ハーブを用意しておきましょう！",
+    "official": "ネムリ草",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "¡Prepárate la Hierba del Sueño con anticipación antes de enfrentar la misión opcional de alta dificultad!",
+    "official": "Hierba somnífera",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 42,
+  "api_id": "mhw-item-183",
+  "type": "item",
+  "src": "The bonus reward for the endurance quest has been changed to EZ Ration. ※ Rewards already received are not affected.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"인내 퀘스트의 보너스 보상이 EZ Ration으로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.\",\"ja\":\"耐久クエストのボーナス報酬がEZ Rationに変更されました。※ すでに受け取った報酬には影響しません。\",\"es\":\"La recompensa adicional de la misión de resistencia ha cambiado a EZ Ration. ※ Las recompensas ya recibidas no se ven afectadas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "인내 퀘스트의 보너스 보상이 EZ Ration으로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.",
+    "official": "지급전용 휴대 식량",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "耐久クエストのボーナス報酬がEZ Rationに変更されました。※ すでに受け取った報酬には影響しません。",
+    "official": "支給用携帯食料",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La recompensa adicional de la misión de resistencia ha cambiado a EZ Ration. ※ Las recompensas ya recibidas no se ven afectadas.",
+    "official": "Ración (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 43,
+  "api_id": "mhw-item-32",
+  "type": "item",
+  "src": "Hunters at HR 21 or above will receive Honey x5 after clearing the investigation mission.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 21 이상의 헌터들은 조사 미션을 클리어한 후 꿀 x5를 받게 됩니다.\",\"ja\":\"HR 21以上のハンターは調査任務をクリアした後、蜂蜜x5を受け取ります。\",\"es\":\"Los cazadores con HR 21 o superior recibirán Miel x5 después de completar la misión de investigación.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 21 이상의 헌터들은 조사 미션을 클리어한 후 꿀 x5를 받게 됩니다.",
+    "official": "벌꿀",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 21以上のハンターは調査任務をクリアした後、蜂蜜x5を受け取ります。",
+    "official": "ハチミツ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores con HR 21 o superior recibirán Miel x5 después de completar la misión de investigación.",
+    "official": "Miel",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 44,
+  "api_id": "mhw-item-191",
+  "type": "item",
+  "src": "The bonus reward for the endurance quest has been changed to EZ Hardshell Powder. ※ Rewards already received are not affected.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"인내 퀘스트의 보너스 보상이 EZ Hardshell Powder로 변경되었습니다. ※ 이미 받은 보상은 영향을 받지 않습니다.\",\"ja\":\"エンドランスクエストのボーナス報酬がEZハードシェルパウダーに変更されました。※すでに受け取った報酬には影響しません。\",\"es\":\"La recompensa adicional de la misión de resistencia ha cambiado a EZ Hardshell Powder. ※ Las recompensas ya recibidas no se ven afectadas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "인내 퀘스트의 보너스 보상이 EZ Hardshell Powder로 변경되었습니다. ※ 이미 받은 보상은 영향을 받지 않습니다.",
+    "official": "지급전용 경화의 가루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "エンドランスクエストのボーナス報酬がEZハードシェルパウダーに変更されました。※すでに受け取った報酬には影響しません。",
+    "official": "支給用硬化の粉塵",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "La recompensa adicional de la misión de resistencia ha cambiado a EZ Hardshell Powder. ※ Las recompensas ya recibidas no se ven afectadas.",
+    "official": "Polvo de cáscara (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 45,
+  "api_id": "mhw-item-80",
+  "type": "item",
+  "src": "Pitfall Trap can now be gathered with low probability in the Rotten Vale during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 썩은 계곡에서 낮은 확률로 함정 덫을 채집할 수 있습니다.\",\"ja\":\"イベント期間中、腐った谷で低確率で落とし穴罠を採取できるようになりました。\",\"es\":\"La trampa de pozo ahora se puede recolectar con baja probabilidad en el Valle Podrido durante el evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 썩은 계곡에서 낮은 확률로 함정 덫을 채집할 수 있습니다.",
+    "official": "구멍 함정",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、腐った谷で低確率で落とし穴罠を採取できるようになりました。",
+    "official": "落とし穴",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "La trampa de pozo ahora se puede recolectar con baja probabilidad en el Valle Podrido durante el evento.",
+    "official": "Trampa de escollo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 46,
+  "api_id": "mhw-item-188",
+  "type": "item",
+  "src": "※ EZ Pitfall Trap will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라의 보급 담당관에게 말을 걸면 EZ 함정 함정이 보급품 저장소에 추가됩니다.\",\"ja\":\"※ アステラの物資担当者に話しかけると、EZ落とし穴罠が備蓄倉庫に追加されます。\",\"es\":\"※ Se añadirá la trampa de foso EZ al depósito de provisiones después de hablar con el proveedor de suministros en Astera.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라의 보급 담당관에게 말을 걸면 EZ 함정 함정이 보급품 저장소에 추가됩니다.",
+    "official": "지급전용 함정",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラの物資担当者に話しかけると、EZ落とし穴罠が備蓄倉庫に追加されます。",
+    "official": "支給用落とし穴",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ Se añadirá la trampa de foso EZ al depósito de provisiones después de hablar con el proveedor de suministros en Astera.",
+    "official": "Trampa de escollo (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 47,
+  "api_id": "mhw-item-48",
+  "type": "item",
+  "src": "From HR 50, Exciteshroom can be obtained repeatedly from optional quests that could only be cleared once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트를 통해 엑시트버섯을 반복해서 얻을 수 있습니다.\",\"ja\":\"HR50から、ストーリーで一度しかクリアできないオプションクエストからエキサイトショウロを繰り返し入手できます。\",\"es\":\"A partir de HR 50, el Exciteshroom se puede obtener repetidamente de misiones opcionales que solo se podían completar una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 스토리에서 한 번만 클리어할 수 있는 선택 퀘스트를 통해 엑시트버섯을 반복해서 얻을 수 있습니다.",
+    "official": "두근두근버섯",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR50から、ストーリーで一度しかクリアできないオプションクエストからエキサイトショウロを繰り返し入手できます。",
+    "official": "ドキドキノコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "A partir de HR 50, el Exciteshroom se puede obtener repetidamente de misiones opcionales que solo se podían completar una vez en la historia.",
+    "official": "Seta excitante",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 48,
+  "api_id": "mhw-item-28",
+  "type": "item",
+  "src": "※ Lifepowder will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라의 보급 담당관과 대화한 후 라이프파우더가 보급품 비축분에 추가됩니다.\",\"ja\":\"※ アステラの物資担当者と話した後、ライフオンダーが備蓄に追加されます。\",\"es\":\"※ La lifepowder se añadirá al depósito de provisiones después de hablar con el proveedor de suministros en Astera.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라의 보급 담당관과 대화한 후 라이프파우더가 보급품 비축분에 추가됩니다.",
+    "official": "생명의 가루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラの物資担当者と話した後、ライフオンダーが備蓄に追加されます。",
+    "official": "生命の粉塵",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ La lifepowder se añadirá al depósito de provisiones después de hablar con el proveedor de suministros en Astera.",
+    "official": "Polvo de vida",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 49,
+  "api_id": "mhw-item-193",
+  "type": "item",
+  "src": "※ EZ Flash Pod will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라에서 보급 담당관과 대화한 후 EZ Flash Pod가 보급품 비축분에 추가됩니다.\",\"ja\":\"※ アステラで物資担当者と話した後、EZ Flash Podが備蓄に追加されます。\",\"es\":\"※ Se añadirá el EZ Flash Pod al depósito de provisiones después de hablar con el Quartermaster en Astera.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라에서 보급 담당관과 대화한 후 EZ Flash Pod가 보급품 비축분에 추가됩니다.",
+    "official": "지급전용 섬광탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラで物資担当者と話した後、EZ Flash Podが備蓄に追加されます。",
+    "official": "支給用閃光弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ Se añadirá el EZ Flash Pod al depósito de provisiones después de hablar con el Quartermaster en Astera.",
+    "official": "Cápsula flash (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 50,
+  "api_id": "mhw-item-864",
+  "type": "item",
+  "src": "Bomb Pod can now be gathered with low probability in the Rotten Vale during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 썩은 계곡(Rotten Vale)에서 폭탄 포드(Bomb Pod)를 낮은 확률로 채집할 수 있게 되었습니다.\",\"ja\":\"イベント期間中、ロットンベイル（Rotten Vale）で爆弾ポッド（Bomb Pod）を低確率で入手できるようになりました。\",\"es\":\"Durante el evento, ahora se pueden recolectar Bomb Pods con baja probabilidad en la Valle Podrido (Rotten Vale).\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 썩은 계곡(Rotten Vale)에서 폭탄 포드(Bomb Pod)를 낮은 확률로 채집할 수 있게 되었습니다.",
+    "official": "슬링어 폭발탄",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、ロットンベイル（Rotten Vale）で爆弾ポッド（Bomb Pod）を低確率で入手できるようになりました。",
+    "official": "スリンガー爆発弾",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, ahora se pueden recolectar Bomb Pods con baja probabilidad en la Valle Podrido (Rotten Vale).",
+    "official": "Cápsula bomba",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 51,
+  "api_id": "mhw-item-848",
+  "type": "item",
+  "src": "Shieldspire Bash can now be gathered with low probability in the Rotten Vale during the event.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"이벤트 기간 동안 썩은 계곡에서 낮은 확률로 Shieldspire Bash를 수집할 수 있습니다.\",\"ja\":\"イベント期間中、ローテンヴェイルで低確率でShieldspire Bashを入手できるようになりました。\",\"es\":\"Durante el evento, Shieldspire Bash ahora se puede recolectar con baja probabilidad en el Valle Podrido.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "이벤트 기간 동안 썩은 계곡에서 낮은 확률로 Shieldspire Bash를 수집할 수 있습니다.",
+    "official": "방패 배시의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "イベント期間中、ローテンヴェイルで低確率でShieldspire Bashを入手できるようになりました。",
+    "official": "大盾バッシュの指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el evento, Shieldspire Bash ahora se puede recolectar con baja probabilidad en el Valle Podrido.",
+    "official": "Golpe escudo hormig.",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 52,
+  "api_id": "mhw-item-50",
+  "type": "item",
+  "src": "HR 100 or above: clearing the arch-tempered quest now rewards Flashbug x3. ※ The event quest must be cleared first.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 100 이상: 이제 아치 템퍼드 퀘스트를 클리어하면 플래시버그 x3을 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.\",\"ja\":\"HR 100以上：アーチテンパードクエストをクリアすると、今後はフラッシュバグx3が報酬として獲得できます。※イベントクエストを先にクリアする必要があります。\",\"es\":\"HR 100 o superior: ahora, al completar la misión Arch-Tempered se obtendrán Flashbug x3. ※ Primero debe completarse la misión de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 100 이상: 이제 아치 템퍼드 퀘스트를 클리어하면 플래시버그 x3을 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.",
+    "official": "광충",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 100以上：アーチテンパードクエストをクリアすると、今後はフラッシュバグx3が報酬として獲得できます。※イベントクエストを先にクリアする必要があります。",
+    "official": "光蟲",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "HR 100 o superior: ahora, al completar la misión Arch-Tempered se obtendrán Flashbug x3. ※ Primero debe completarse la misión de evento.",
+    "official": "Luminsecto",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 53,
+  "api_id": "mhw-item-97",
+  "type": "item",
+  "src": "Due to an issue, Slashberry was not shown in the item box. This will be fixed in the next update.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"문제로 인해 Slashberry가 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.\",\"ja\":\"問題が発生したため、Slashberryがアイテムボックスに表示されませんでした。次のアップデートで修正されます。\",\"es\":\"Debido a un problema, Slashberry no se mostró en el cofre de objetos. Esto se corregirá en la próxima actualización.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "문제로 인해 Slashberry가 아이템 상자에 표시되지 않았습니다. 다음 업데이트에서 수정될 예정입니다.",
+    "official": "참렬열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "問題が発生したため、Slashberryがアイテムボックスに表示されませんでした。次のアップデートで修正されます。",
+    "official": "ザンレツの実",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Debido a un problema, Slashberry no se mostró en el cofre de objetos. Esto se corregirá en la próxima actualización.",
+    "official": "Rajabaya",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 54,
+  "api_id": "mhw-item-1788",
+  "type": "item",
+  "src": "During the festival, Grimalkyne: Pot-au-magma x10 will be delivered to all hunters who reach HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 그리말크인: 포타오마그마 x10이 지급됩니다.\",\"ja\":\"祭期間中、HR100以上に到達したすべてのハンターにグリマルクイン：ポタオマグマx10が配信されます。\",\"es\":\"Durante el festival, se entregará a todos los cazadores que alcancen HR 100 o superior Grimalkyne: Pot-au-magma x10.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 그리말크인: 포타오마그마 x10이 지급됩니다.",
+    "official": "기면족-마그마 전골",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "祭期間中、HR100以上に到達したすべてのハンターにグリマルクイン：ポタオマグマx10が配信されます。",
+    "official": "奇面族・マグマ鍋",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el festival, se entregará a todos los cazadores que alcancen HR 100 o superior Grimalkyne: Pot-au-magma x10.",
+    "official": "Grimalkyne: cocido de magma",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 55,
+  "api_id": "mhw-item-185",
+  "type": "item",
+  "src": "※ EZ Max Potion will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라의 보급 담당관에게 말을 걸면 EZ 맥스포션이 보급품 비축량에 추가됩니다.\",\"ja\":\"※ アステラの物資担当官に話しかけると、EZマックスポーションが備蓄品に追加されます。\",\"es\":\"※ Se añadirá una EZ Max Potion al depósito de provisiones después de hablar con el Proveedor en Astera.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라의 보급 담당관에게 말을 걸면 EZ 맥스포션이 보급품 비축량에 추가됩니다.",
+    "official": "지급전용 비약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラの物資担当官に話しかけると、EZマックスポーションが備蓄品に追加されます。",
+    "official": "支給用秘薬",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ Se añadirá una EZ Max Potion al depósito de provisiones después de hablar con el Proveedor en Astera.",
+    "official": "Poción máxima (apoyo)",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 56,
+  "api_id": "mhw-item-17",
+  "type": "item",
+  "src": "Prepare Astera Jerky in advance before taking on the high-difficulty optional quest!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고난이도 선택 퀘스트에 도전하기 전에 아스테라 저키를 미리 준비하세요!\",\"ja\":\"高難易度のオプションクエストに挑む前に、アステラジャーキーを事前に準備しておこう！\",\"es\":\"¡Prepara Astera Jerky con anticipación antes de enfrentar la misión opcional de alta dificultad!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고난이도 선택 퀘스트에 도전하기 전에 아스테라 저키를 미리 준비하세요!",
+    "official": "아스테라저키",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "高難易度のオプションクエストに挑む前に、アステラジャーキーを事前に準備しておこう！",
+    "official": "アステラジャーキー",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "¡Prepara Astera Jerky con anticipación antes de enfrentar la misión opcional de alta dificultad!",
+    "official": "Cecina de Astera",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 57,
+  "api_id": "mhw-item-1008",
+  "type": "item",
+  "src": "Prepare Dust of Life in advance before taking on the high-difficulty optional quest!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고난도 선택 퀘스트에 도전하기 전에 '생명의 먼지'를 미리 준비해 두세요!\",\"ja\":\"ハイ難易度のオプションクエストに挑む前に「生命の塵」をあらかじめ用意しておこう！\",\"es\":\"¡Prepárate el Polvo de Vida antes de enfrentar la misión opcional de alta dificultad!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고난도 선택 퀘스트에 도전하기 전에 '생명의 먼지'를 미리 준비해 두세요!",
+    "official": "생명의 큰 가루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ハイ難易度のオプションクエストに挑む前に「生命の塵」をあらかじめ用意しておこう！",
+    "official": "生命の大粉塵",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "¡Prepárate el Polvo de Vida antes de enfrentar la misión opcional de alta dificultad!",
+    "official": "Fuente de vida",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 58,
+  "api_id": "mhw-item-999",
+  "type": "item",
+  "src": "HR 100 or above: clearing the arch-tempered quest now rewards Assassin's Hood x3. ※ The event quest must be cleared first.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 100 이상: 이제 아치 템퍼드 퀘스트를 클리어하면 Assassin's Hood x3을 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.\",\"ja\":\"HR 100以上：アーチ・テンパードクエストをクリアすると、Assassin's Hood x3が報酬として手に入ります。※イベントクエストを先にクリアしておく必要があります。\",\"es\":\"HR 100 o superior: ahora, al completar la misión arch-temperada se obtienen Assassin's Hood x3 como recompensa. ※ Debes completar primero la misión de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 100 이상: 이제 아치 템퍼드 퀘스트를 클리어하면 Assassin's Hood x3을 보상으로 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.",
+    "official": "어쌔신 복장",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 100以上：アーチ・テンパードクエストをクリアすると、Assassin's Hood x3が報酬として手に入ります。※イベントクエストを先にクリアしておく必要があります。",
+    "official": "アサシンの装衣",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "HR 100 o superior: ahora, al completar la misión arch-temperada se obtienen Assassin's Hood x3 como recompensa. ※ Debes completar primero la misión de evento.",
+    "official": "Capucha de asesino",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 59,
+  "api_id": "mhw-item-843",
+  "type": "item",
+  "src": "※ Vigorwasp Delivery will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라에서 보급품 담당관과 대화한 후 비고가스 배달이 보급품 저장고에 추가됩니다.\",\"ja\":\"※ アステラで物資担当官と話した後、ヴィゴルワスプ配達が物資備蓄庫に追加されます。\",\"es\":\"※ Después de hablar con el intendente en Astera, se agregará la entrega de Vigorwasp al depósito de provisiones.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라에서 보급품 담당관과 대화한 후 비고가스 배달이 보급품 저장고에 추가됩니다.",
+    "official": "꿀벌레 전달의 휘파람",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラで物資担当官と話した後、ヴィゴルワスプ配達が物資備蓄庫に追加されます。",
+    "official": "ミツムシお届けの指笛",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ Después de hablar con el intendente en Astera, se agregará la entrega de Vigorwasp al depósito de provisiones.",
+    "official": "Aerosol melífera vitae",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 60,
+  "api_id": "mhw-item-54",
+  "type": "item",
+  "src": "The bonus reward for the endurance quest has been changed to Kelbi Horn. ※ Rewards already received are not affected.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"인내 퀘스트의 보너스 보상이 켈비 뿔로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.\",\"ja\":\"耐久クエストのボーナス報酬がケルビの角に変更されました。※ すでに受け取った報酬には影響しません。\",\"es\":\"La recompensa adicional de la misión de resistencia ha cambiado a cuerno de Kelbi. ※ Las recompensas ya recibidas no se ven afectadas.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "인내 퀘스트의 보너스 보상이 켈비 뿔로 변경되었습니다. ※ 이미 수령한 보상은 영향을 받지 않습니다.",
+    "official": "켈비의 뿔",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "耐久クエストのボーナス報酬がケルビの角に変更されました。※ すでに受け取った報酬には影響しません。",
+    "official": "ケルビの角",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "La recompensa adicional de la misión de resistencia ha cambiado a cuerno de Kelbi. ※ Las recompensas ya recibidas no se ven afectadas.",
+    "official": "Cuerno de Kelbi",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 61,
+  "api_id": "mhw-item-129",
+  "type": "item",
+  "src": "Clear all special environment quests to unlock the option to craft Cleanser Booster at the workshop.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"모든 특수 환경 퀘스트를 클리어하여 워크숍에서 클렌저 부스터 제작 옵션을 잠금 해제하세요.\",\"ja\":\"すべての特殊環境クエストをクリアして、ワークショップでクレンザーブースターを製作するオプションを解除してください。\",\"es\":\"Completa todas las misiones especiales de entorno para desbloquear la opción de fabricar Cleanser Booster en el taller.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "모든 특수 환경 퀘스트를 클리어하여 워크숍에서 클렌저 부스터 제작 옵션을 잠금 해제하세요.",
+    "official": "해제의 연통",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "すべての特殊環境クエストをクリアして、ワークショップでクレンザーブースターを製作するオプションを解除してください。",
+    "official": "解除の煙筒",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Completa todas las misiones especiales de entorno para desbloquear la opción de fabricar Cleanser Booster en el taller.",
+    "official": "Potenciador de pureza",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 62,
+  "api_id": "mhw-item-181",
+  "type": "item",
+  "src": "Hunters at HR 21 or above will receive First-aid Med x5 after clearing the investigation mission.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 21 이상의 헌터들은 조사 미션을 완료하면 구급약 x5를 받게 됩니다.\",\"ja\":\"HR 21以上のハンターは、調査任務をクリアするとファーストエイドメドx5を受け取ります。\",\"es\":\"Los cazadores con HR 21 o superior recibirán Primeros auxilios x5 después de completar la misión de investigación.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 21 이상의 헌터들은 조사 미션을 완료하면 구급약 x5를 받게 됩니다.",
+    "official": "응급약",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 21以上のハンターは、調査任務をクリアするとファーストエイドメドx5を受け取ります。",
+    "official": "応急薬",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores con HR 21 o superior recibirán Primeros auxilios x5 después de completar la misión de investigación.",
+    "official": "Medicamento",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 63,
+  "api_id": "mhw-item-111",
+  "type": "item",
+  "src": "During the festival, Great Burst Arowana Scale x10 will be delivered to all hunters who reach HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 대폭발 아로와나 비늘 x10이 지급됩니다.\",\"ja\":\"祭り期間中、HR 100以上に到達したすべてのハンターに大バーストアロワナの鱗x10を配布します。\",\"es\":\"Durante el festival, se entregará a todos los cazadores que alcancen HR 100 o superior x10 Escamas de Arowana Gran Explosión.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 대폭발 아로와나 비늘 x10이 지급됩니다.",
+    "official": "대형파열 비늘",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "祭り期間中、HR 100以上に到達したすべてのハンターに大バーストアロワナの鱗x10を配布します。",
+    "official": "大ハレツウロコ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el festival, se entregará a todos los cazadores que alcancen HR 100 o superior x10 Escamas de Arowana Gran Explosión.",
+    "official": "Escama arrowana reventona real",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 64,
+  "api_id": "mhw-item-82",
+  "type": "item",
+  "src": "During the festival, Rolled-up Dung x10 will be delivered to all hunters who reach HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 말린 똥 x10이 지급됩니다.\",\"ja\":\"祭り期間中、HR100以上に到達したすべてのハンターに丸められたフンx10が配布されます。\",\"es\":\"Durante el festival, se entregará a todos los cazadores que alcancen HR 100 o superior x10 Estiércol enrollado.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 HR 100 이상에 도달한 모든 헌터에게 말린 똥 x10이 지급됩니다.",
+    "official": "굴린 응가",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "祭り期間中、HR100以上に到達したすべてのハンターに丸められたフンx10が配布されます。",
+    "official": "ころがされたフン",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el festival, se entregará a todos los cazadores que alcancen HR 100 o superior x10 Estiércol enrollado.",
+    "official": "Boñiga enrollada",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 65,
+  "api_id": "mhw-item-121",
+  "type": "item",
+  "src": "Hunters at HR 21 or above will receive Rocksteady Mantle x5 after clearing the investigation mission.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 21 이상의 헌터는 조사 미션을 클리어한 후 록스테디 망토 x5를 받게 됩니다.\",\"ja\":\"HR21以上のハンターは調査任務をクリアした後、ロックステディマントルx5を受け取ります。\",\"es\":\"Los cazadores con HR 21 o superior recibirán x5 del Manto Rocksteady tras completar la misión de investigación.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 21 이상의 헌터는 조사 미션을 클리어한 후 록스테디 망토 x5를 받게 됩니다.",
+    "official": "부동 복장",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR21以上のハンターは調査任務をクリアした後、ロックステディマントルx5を受け取ります。",
+    "official": "不動の装衣",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Los cazadores con HR 21 o superior recibirán x5 del Manto Rocksteady tras completar la misión de investigación.",
+    "official": "Manto de firmeza",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 66,
+  "api_id": "mhw-item-956",
+  "type": "item",
+  "src": "※ Igni Sign will be added to the provisions stockpile after you talk to the Quartermaster in Astera.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"※ 아스테라에서 보급품 담당관과 대화한 후, 이그니 사인이 보급품 저장소에 추가됩니다.\",\"ja\":\"※ アステラの物資担当官に話しかけた後、イグニサインが備蓄倉庫に追加されます。\",\"es\":\"※ Después de hablar con el proveedor de suministros en Astera, Igni Sign se añadirá al depósito de provisiones.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "※ 아스테라에서 보급품 담당관과 대화한 후, 이그니 사인이 보급품 저장소에 추가됩니다.",
+    "official": "이그니 표식",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "※ アステラの物資担当官に話しかけた後、イグニサインが備蓄倉庫に追加されます。",
+    "official": "イグニの印",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "※ Después de hablar con el proveedor de suministros en Astera, Igni Sign se añadirá al depósito de provisiones.",
+    "official": "Señal de Igni",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 67,
+  "api_id": "mhw-item-118",
+  "type": "item",
+  "src": "Clear all special environment quests to unlock the option to craft Ghillie Mantle at the workshop.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"모든 특수 환경 퀘스트를 완료하여 워크숍에서 길리 망토를 제작할 수 있는 옵션을 잠금 해제하세요.\",\"ja\":\"すべての特殊環境クエストをクリアして、ワークショップでギリーマントをクラフトできるオプションを解除してください。\",\"es\":\"Completa todas las misiones especiales de entorno para desbloquear la opción de fabricar el Manto Ghillie en la taller.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "모든 특수 환경 퀘스트를 완료하여 워크숍에서 길리 망토를 제작할 수 있는 옵션을 잠금 해제하세요.",
+    "official": "은신 복장",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "すべての特殊環境クエストをクリアして、ワークショップでギリーマントをクラフトできるオプションを解除してください。",
+    "official": "隠れ身の装衣",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Completa todas las misiones especiales de entorno para desbloquear la opción de fabricar el Manto Ghillie en la taller.",
+    "official": "Manto de camuflaje",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 68,
+  "api_id": "mhw-item-94",
+  "type": "item",
+  "src": "During the festival, Needleberry x10 will be delivered to all hunters who reach HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"축제 기간 동안 HR 100 이상을 달성한 모든 헌터에게 Needleberry x10이 지급됩니다.\",\"ja\":\"祭り期間中、HR100以上に到達したすべてのハンターにNeedleberry x10が配布されます。\",\"es\":\"Durante el festival, se entregará Needleberry x10 a todos los cazadores que alcancen HR 100 o superior.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "축제 기간 동안 HR 100 이상을 달성한 모든 헌터에게 Needleberry x10이 지급됩니다.",
+    "official": "바늘열매",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "祭り期間中、HR100以上に到達したすべてのハンターにNeedleberry x10が配布されます。",
+    "official": "ハリの実",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Durante el festival, se entregará Needleberry x10 a todos los cazadores que alcancen HR 100 o superior.",
+    "official": "Baya aguja",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 69,
+  "api_id": "mhw-item-78",
+  "type": "item",
+  "src": "HR 100 or above: clearing the arch-tempered quest now rewards Net x3. ※ The event quest must be cleared first.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 100 이상: 이제 아처 템퍼드 퀘스트를 클리어하면 Net x3 보상을 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.\",\"ja\":\"HR 100以上：アーチテンパードクエストをクリアすると、Net x3の報酬が得られます。※イベントクエストを先にクリアしておく必要があります。\",\"es\":\"HR 100 o superior: ahora, al completar la misión Arch-Tempered, se obtienen Net x3. ※ Debes completar primero la misión de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 100 이상: 이제 아처 템퍼드 퀘스트를 클리어하면 Net x3 보상을 받습니다. ※ 이벤트 퀘스트를 먼저 클리어해야 합니다.",
+    "official": "그물",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 100以上：アーチテンパードクエストをクリアすると、Net x3の報酬が得られます。※イベントクエストを先にクリアしておく必要があります。",
+    "official": "ネット",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "HR 100 o superior: ahora, al completar la misión Arch-Tempered, se obtienen Net x3. ※ Debes completar primero la misión de evento.",
+    "official": "Red",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 70,
+  "api_id": "mhw-monster-51",
+  "type": "pokemon",
+  "src": "Ancient Leshen will be shown in the environment overview once you clear the specific mission unlocked at HR 50.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"고대 레셴은 HR 50에서 해금되는 특정 미션을 클리어하면 환경 개요에 표시됩니다.\",\"ja\":\"古代レーゼンはHR50で解放される特定のミッションをクリアすると、環境概要に表示されます。\",\"es\":\"El antiguo Leshen se mostrará en la descripción general del entorno una vez que completes la misión específica desbloqueada en HR 50.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "고대 레셴은 HR 50에서 해금되는 특정 미션을 클리어하면 환경 개요에 표시됩니다.",
+    "official": "고대 레셴",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "古代レーゼンはHR50で解放される特定のミッションをクリアすると、環境概要に表示されます。",
+    "official": "エンシェント・レーシェン",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El antiguo Leshen se mostrará en la descripción general del entorno una vez que completes la misión específica desbloqueada en HR 50.",
+    "official": "Leshen antiguo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 71,
+  "api_id": "mhw-monster-32",
+  "type": "pokemon",
+  "src": "Slay Legiana twice in a row within 30 minutes to earn a limited guild card title.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"30분 이내에 레기오나를 연속으로 두 번 처치하여 한정판 길드 카드 칭호를 획득하세요.\",\"ja\":\"30分以内にレギアーナを連続で2回倒し、限定ギルドカード称号を獲得しよう。\",\"es\":\"Mata a Legiana dos veces seguidas en un plazo de 30 minutos para obtener un título de carta de gremio limitado.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "30분 이내에 레기오나를 연속으로 두 번 처치하여 한정판 길드 카드 칭호를 획득하세요.",
+    "official": "레이기에나",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "30分以内にレギアーナを連続で2回倒し、限定ギルドカード称号を獲得しよう。",
+    "official": "レイギエナ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Mata a Legiana dos veces seguidas en un plazo de 30 minutos para obtener un título de carta de gremio limitado.",
+    "official": "Legiana",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 72,
+  "api_id": "mhw-monster-81",
+  "type": "pokemon",
+  "src": "A new endurance quest featuring Shara Ishvalda has been added. ※ Unlocked after clearing all event quests.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"샤라 이쉬발다가 등장하는 새로운 인내 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후 잠금 해제됩니다.\",\"ja\":\"シャラ・イシュヴァルダが登場する新しい耐久クエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。\",\"es\":\"Se ha añadido una nueva misión de resistencia con Shara Ishvalda. ※ Desbloqueada tras completar todas las misiones de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "샤라 이쉬발다가 등장하는 새로운 인내 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후 잠금 해제됩니다.",
+    "official": "안-이슈왈다",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "シャラ・イシュヴァルダが登場する新しい耐久クエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。",
+    "official": "アン・イシュワルダ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se ha añadido una nueva misión de resistencia con Shara Ishvalda. ※ Desbloqueada tras completar todas las misiones de evento.",
+    "official": "Shara Ishvalda",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 73,
+  "api_id": "mhw-monster-19",
+  "type": "pokemon",
+  "src": "A new endurance quest featuring Lavasioth has been added. ※ Unlocked after clearing all event quests.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"라바시오스가 등장하는 새로운 endurance 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후 잠금 해제됩니다.\",\"ja\":\"ラヴァシオスが登場する新しい耐久クエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。\",\"es\":\"Se ha añadido una nueva misión de resistencia que incluye a Lavasioth. ※ Desbloqueada tras completar todas las misiones de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "라바시오스가 등장하는 새로운 endurance 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후 잠금 해제됩니다.",
+    "official": "볼가노스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ラヴァシオスが登場する新しい耐久クエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。",
+    "official": "ヴォルガノス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se ha añadido una nueva misión de resistencia que incluye a Lavasioth. ※ Desbloqueada tras completar todas las misiones de evento.",
+    "official": "Lavasioth",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 74,
+  "api_id": "mhw-monster-91",
+  "type": "pokemon",
+  "src": "A new endurance quest featuring Rajang has been added. ※ Unlocked after clearing all event quests.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"새로운 라잔이 등장하는 지구력 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후 잠금 해제됩니다.\",\"ja\":\"新しいラージャンが登場するエンドレスクエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。\",\"es\":\"Se ha añadido una nueva misión de resistencia con Rajang. ※ Desbloqueada tras completar todas las misiones de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "새로운 라잔이 등장하는 지구력 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후 잠금 해제됩니다.",
+    "official": "라잔",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "新しいラージャンが登場するエンドレスクエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。",
+    "official": "ラージャン",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Se ha añadido una nueva misión de resistencia con Rajang. ※ Desbloqueada tras completar todas las misiones de evento.",
+    "official": "Rajang",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 75,
+  "api_id": "mhw-monster-88",
+  "type": "pokemon",
+  "src": "A new endurance quest featuring Gold Rathian has been added. ※ Unlocked after clearing all event quests.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"골드 라티아가 등장하는 새로운 엔드런스 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후에 잠금 해제됩니다.\",\"ja\":\"ゴールドラティアンが登場する新しいエンドレスクエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。\",\"es\":\"Se ha añadido una nueva misión de resistencia con Gold Rathian. ※ Desbloqueada tras completar todas las misiones de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "골드 라티아가 등장하는 새로운 엔드런스 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후에 잠금 해제됩니다.",
+    "official": "리오레이아 희소종",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "ゴールドラティアンが登場する新しいエンドレスクエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。",
+    "official": "リオレイア希少種",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Se ha añadido una nueva misión de resistencia con Gold Rathian. ※ Desbloqueada tras completar todas las misiones de evento.",
+    "official": "Rathian Dorada",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 76,
+  "api_id": "mhw-monster-79",
+  "type": "pokemon",
+  "src": "Starting from HR 50, you can repeatedly take on the Velkhana quest, which could only be challenged once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 스토리에서는 한 번만 도전할 수 있었던 벨바노스 퀘스트를 반복해서 수행할 수 있습니다.\",\"ja\":\"HR 50から、物語では一度しか挑戦できなかったベルカーナクエストを繰り返し受けることができます。\",\"es\":\"A partir de HR 50, puedes repetir la misión de Velkhana, que solo podía desafiarse una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 스토리에서는 한 번만 도전할 수 있었던 벨바노스 퀘스트를 반복해서 수행할 수 있습니다.",
+    "official": "이베르카나",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 50から、物語では一度しか挑戦できなかったベルカーナクエストを繰り返し受けることができます。",
+    "official": "イヴェルカーナ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "A partir de HR 50, puedes repetir la misión de Velkhana, que solo podía desafiarse una vez en la historia.",
+    "official": "Velkhana",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 77,
+  "api_id": "mhw-monster-97",
+  "type": "pokemon",
+  "src": "Safi'jiiva will be shown in the environment overview once you clear the specific mission unlocked at HR 50.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"사피지이바는 HR 50에서 해금되는 특정 미션을 클리어하면 환경 개요에 표시됩니다.\",\"ja\":\"サフィジーヴァは、HR 50で解放される特定のミッションをクリアすると、環境概要に表示されます。\",\"es\":\"Safi'jiiva se mostrará en la descripción general del entorno una vez que completes la misión específica desbloqueada en HR 50.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "사피지이바는 HR 50에서 해금되는 특정 미션을 클리어하면 환경 개요에 표시됩니다.",
+    "official": "무페토-지바",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "サフィジーヴァは、HR 50で解放される特定のミッションをクリアすると、環境概要に表示されます。",
+    "official": "ムフェト・ジーヴァ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Safi'jiiva se mostrará en la descripción general del entorno una vez que completes la misión específica desbloqueada en HR 50.",
+    "official": "Safi'jiiva",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 78,
+  "api_id": "mhw-monster-30",
+  "type": "pokemon",
+  "src": "A new endurance quest featuring Tobi-Kadachi has been added. ※ Unlocked after clearing all event quests.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"토비카다치가 등장하는 새로운 지구력 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후 잠금 해제됩니다.\",\"ja\":\"トビカガチをフィーチャーした新しいエンデュランスクエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。\",\"es\":\"Se ha añadido una nueva misión de resistencia que presenta a Tobi-Kadachi. ※ Desbloqueado tras completar todas las misiones de evento.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "토비카다치가 등장하는 새로운 지구력 퀘스트가 추가되었습니다. ※ 모든 이벤트 퀘스트를 클리어한 후 잠금 해제됩니다.",
+    "official": "토비카가치",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "トビカガチをフィーチャーした新しいエンデュランスクエストが追加されました。※すべてのイベントクエストをクリアすると解放されます。",
+    "official": "トビカガチ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Se ha añadido una nueva misión de resistencia que presenta a Tobi-Kadachi. ※ Desbloqueado tras completar todas las misiones de evento.",
+    "official": "Tobi-Kadachi",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 79,
+  "api_id": "mhw-monster-87",
+  "type": "pokemon",
+  "src": "Tempered Alatreon now appears at HR 100 or above. ※ Unlocked after clearing the special investigation quest.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"템퍼드 알레이어론이 이제 HR 100 이상에서 등장합니다. ※ 특별 조사 퀘스트를 클리어한 후 잠금 해제됩니다.\",\"ja\":\"テンパード・アルテラオンはHR100以上で出現します。※特別調査クエストをクリアすると解放されます。\",\"es\":\"El Alatreon Templado ahora aparece en HR 100 o superior. ※ Se desbloquea tras completar la misión de investigación especial.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "템퍼드 알레이어론이 이제 HR 100 이상에서 등장합니다. ※ 특별 조사 퀘스트를 클리어한 후 잠금 해제됩니다.",
+    "official": "알바트리온",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "テンパード・アルテラオンはHR100以上で出現します。※特別調査クエストをクリアすると解放されます。",
+    "official": "アルバトリオン",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El Alatreon Templado ahora aparece en HR 100 o superior. ※ Se desbloquea tras completar la misión de investigación especial.",
+    "official": "Alatreon",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 80,
+  "api_id": "mhw-monster-37",
+  "type": "pokemon",
+  "src": "Arch-tempered Dodogama joins the high-difficulty optional quest lineup. ※ Requires HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"아크 템퍼드 도도감마가 고난도 선택 퀘스트 라인업에 합류합니다. ※ HR 100 이상 필요.\",\"ja\":\"アーキテンパードドドガマが高難易度オプションクエストラインナップに参加します。※HR100以上必要です。\",\"es\":\"El Dodogama Temperado Arcaico se une a la lista de misiones opcionales de alta dificultad. ※ Se requiere HR 100 o superior.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "아크 템퍼드 도도감마가 고난도 선택 퀘스트 라인업에 합류합니다. ※ HR 100 이상 필요.",
+    "official": "도도가마루",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "アーキテンパードドドガマが高難易度オプションクエストラインナップに参加します。※HR100以上必要です。",
+    "official": "ドドガマル",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El Dodogama Temperado Arcaico se une a la lista de misiones opcionales de alta dificultad. ※ Se requiere HR 100 o superior.",
+    "official": "Dodogama",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 81,
+  "api_id": "mhw-monster-4",
+  "type": "pokemon",
+  "src": "Starting from HR 50, you can repeatedly take on the Zorah Magdaros quest, which could only be challenged once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터는 스토리에서 한 번만 도전할 수 있었던 조라 마그다로스 퀘스트를 반복해서 수주할 수 있습니다.\",\"ja\":\"HR50から、物語では一度しか挑戦できなかったゾラ・マグダロスのクエストを繰り返し受注できるようになります。\",\"es\":\"A partir de HR 50, puedes aceptar repetidamente la misión de Zorah Magdaros, que solo podía ser desafiada una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터는 스토리에서 한 번만 도전할 수 있었던 조라 마그다로스 퀘스트를 반복해서 수주할 수 있습니다.",
+    "official": "조라-마그다라오스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR50から、物語では一度しか挑戦できなかったゾラ・マグダロスのクエストを繰り返し受注できるようになります。",
+    "official": "ゾラ・マグダラオス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "A partir de HR 50, puedes aceptar repetidamente la misión de Zorah Magdaros, que solo podía ser desafiada una vez en la historia.",
+    "official": "Zorah Magdaros",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 82,
+  "api_id": "mhw-monster-77",
+  "type": "pokemon",
+  "src": "Arch-tempered Beotodus joins the high-difficulty optional quest lineup. ※ Requires HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"아크 템퍼드 비토두스가 고난이도 선택 퀘스트 라인업에 합류합니다. ※ HR 100 이상 필요.\",\"ja\":\"アーク・テンパードのベオトルドスが高難易度のオプションクエストラインナップに加わります。※HR100以上必要。\",\"es\":\"El Beotodus Arch-temperado se une a la lista de misiones opcionales de alta dificultad. ※ Se requiere HR 100 o superior.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "아크 템퍼드 비토두스가 고난이도 선택 퀘스트 라인업에 합류합니다. ※ HR 100 이상 필요.",
+    "official": "브란토도스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "アーク・テンパードのベオトルドスが高難易度のオプションクエストラインナップに加わります。※HR100以上必要。",
+    "official": "ブラントドス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El Beotodus Arch-temperado se une a la lista de misiones opcionales de alta dificultad. ※ Se requiere HR 100 o superior.",
+    "official": "Beotodus",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 83,
+  "api_id": "mhw-monster-12",
+  "type": "pokemon",
+  "src": "Diablos will be shown in the environment overview once you clear the specific mission unlocked at HR 50.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"디아블로스는 HR 50에서 해금되는 특정 미션을 클리어하면 환경 개요에 표시됩니다.\",\"ja\":\"ディアブロスはHR 50で解放される特定のミッションをクリアすると、環境概要に表示されます。\",\"es\":\"Diablos se mostrará en la descripción general del entorno una vez que completes la misión específica desbloqueada en HR 50.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "디아블로스는 HR 50에서 해금되는 특정 미션을 클리어하면 환경 개요에 표시됩니다.",
+    "official": "디아블로스",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "ディアブロスはHR 50で解放される特定のミッションをクリアすると、環境概要に表示されます。",
+    "official": "ディアブロス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Diablos se mostrará en la descripción general del entorno una vez que completes la misión específica desbloqueada en HR 50.",
+    "official": "Diablos",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 84,
+  "api_id": "mhw-monster-16",
+  "type": "pokemon",
+  "src": "Kushala Daora appears with low probability in the Rotten Vale during the event period and can be turned into a quest.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"쿠샬다오라는 이벤트 기간 동안 썩은 계곡에 낮은 확률로 등장하며 퀘스트로 전환할 수 있습니다.\",\"ja\":\"クシャルダオラはイベント期間中、腐った谷に低確率で出現し、クエスト化できます。\",\"es\":\"Kushala Daora aparece con baja probabilidad en el Valle Podrido durante el período del evento y puede convertirse en una misión.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "쿠샬다오라는 이벤트 기간 동안 썩은 계곡에 낮은 확률로 등장하며 퀘스트로 전환할 수 있습니다.",
+    "official": "크샬다오라",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "クシャルダオラはイベント期間中、腐った谷に低確率で出現し、クエスト化できます。",
+    "official": "クシャルダオラ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Kushala Daora aparece con baja probabilidad en el Valle Podrido durante el período del evento y puede convertirse en una misión.",
+    "official": "Kushala Daora",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 85,
+  "api_id": "mhw-monster-57",
+  "type": "pokemon",
+  "src": "Starting from HR 50, you can repeatedly take on the Invalid Message quest, which could only be challenged once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 시작하여, 스토리에서는 한 번만 도전할 수 있었던 'Invalid Message' 퀘스트를 반복해서 수행할 수 있습니다.\",\"ja\":\"HR 50から、物語では一度しか挑戦できなかった「Invalid Message」クエストを繰り返し受注できるようになります。\",\"es\":\"A partir de HR 50, puedes aceptar repetidamente la misión Invalid Message, que solo podía desafiarse una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 시작하여, 스토리에서는 한 번만 도전할 수 있었던 'Invalid Message' 퀘스트를 반복해서 수행할 수 있습니다.",
+    "official": "Invalid Message",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "HR 50から、物語では一度しか挑戦できなかった「Invalid Message」クエストを繰り返し受注できるようになります。",
+    "official": "Invalid Message",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "A partir de HR 50, puedes aceptar repetidamente la misión Invalid Message, que solo podía desafiarse una vez en la historia.",
+    "official": "Invalid Message",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 86,
+  "api_id": "mhw-monster-35",
+  "type": "pokemon",
+  "src": "After reaching HR 21, talk to the Handler in Astera to unlock the Radobaan investigation mission.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"헌터 랭크 21에 도달한 후, 아스테라의 핸들러와 대화하여 라도반 조사 미션을 해제하세요.\",\"ja\":\"HR 21に到達したら、アステラのハンドラーに話しかけてラドバーン調査ミッションを解除してください。\",\"es\":\"Después de alcanzar HR 21, habla con el Handler en Astera para desbloquear la misión de investigación de Radobaan.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "헌터 랭크 21에 도달한 후, 아스테라의 핸들러와 대화하여 라도반 조사 미션을 해제하세요.",
+    "official": "라도발킨",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 21に到達したら、アステラのハンドラーに話しかけてラドバーン調査ミッションを解除してください。",
+    "official": "ラドバルキン",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Después de alcanzar HR 21, habla con el Handler en Astera para desbloquear la misión de investigación de Radobaan.",
+    "official": "Radobaan",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 87,
+  "api_id": "mhw-monster-78",
+  "type": "pokemon",
+  "src": "Known among hunters for its fierce attacks, Banbaro returns to the Rotten Vale. Craft resistant armor before you go!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"사냥꾼들 사이에서 격렬한 공격으로 유명한 Banbaro가 썩은 계곡으로 돌아옵니다. 가기 전에 저항력 있는 방어구를 제작하세요!\",\"ja\":\"狩猟者の間で激しい攻撃で知られるバンバロが腐った谷に戻ってきます。行く前に耐性のある防具を作りましょう！\",\"es\":\"Conocido entre los cazadores por sus ataques feroces, Banbaro regresa al Valle Podrido. ¡Fabrica armadura resistente antes de irte!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "사냥꾼들 사이에서 격렬한 공격으로 유명한 Banbaro가 썩은 계곡으로 돌아옵니다. 가기 전에 저항력 있는 방어구를 제작하세요!",
+    "official": "버프바로",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "狩猟者の間で激しい攻撃で知られるバンバロが腐った谷に戻ってきます。行く前に耐性のある防具を作りましょう！",
+    "official": "バフバロ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Conocido entre los cazadores por sus ataques feroces, Banbaro regresa al Valle Podrido. ¡Fabrica armadura resistente antes de irte!",
+    "official": "Banbaro",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 88,
+  "api_id": "mhw-monster-95",
+  "type": "pokemon",
+  "src": "Tempered Stygian Zinogre now appears at HR 100 or above. ※ Unlocked after clearing the special investigation quest.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"템퍼드 스티지안 지고그가 이제 HR 100 이상에서 등장합니다. ※ 특수 조사 퀘스트를 클리어하면 해제됩니다.\",\"ja\":\"猛り狂ったスティジアンジンオーがHR100以上で出現します。※特別調査クエストをクリアすると解放されます。\",\"es\":\"El Zinogre Estigio Templado ahora aparece en HR 100 o superior. ※ Desbloqueado tras completar la misión de investigación especial.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "템퍼드 스티지안 지고그가 이제 HR 100 이상에서 등장합니다. ※ 특수 조사 퀘스트를 클리어하면 해제됩니다.",
+    "official": "진오우거 아종",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "猛り狂ったスティジアンジンオーがHR100以上で出現します。※特別調査クエストをクリアすると解放されます。",
+    "official": "ジンオウガ亜種",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El Zinogre Estigio Templado ahora aparece en HR 100 o superior. ※ Desbloqueado tras completar la misión de investigación especial.",
+    "official": "Zinogre Estigio",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 89,
+  "api_id": "mhw-monster-73",
+  "type": "pokemon",
+  "src": "Starting from HR 50, you can repeatedly take on the Shrieking Legiana quest, which could only be challenged once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 시작하여, 스토리 중 단 한 번밖에 도전할 수 없었던 스크리킹 레기아나 퀘스트를 반복해서 수행할 수 있습니다.\",\"ja\":\"HR50から始めて、物語中に一度しか挑戦できなかった「シュリーキング・レギアナ」クエストを繰り返し受けることができます。\",\"es\":\"A partir de HR 50, puedes repetir la misión Shrieking Legiana, que solo podía desafiarse una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 시작하여, 스토리 중 단 한 번밖에 도전할 수 없었던 스크리킹 레기아나 퀘스트를 반복해서 수행할 수 있습니다.",
+    "official": "얼려 찌르는 레이기에나",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR50から始めて、物語中に一度しか挑戦できなかった「シュリーキング・レギアナ」クエストを繰り返し受けることができます。",
+    "official": "凍て刺すレイギエナ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "A partir de HR 50, puedes repetir la misión Shrieking Legiana, que solo podía desafiarse una vez en la historia.",
+    "official": "Legiana Aullador",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 90,
+  "api_id": "mhw-monster-18",
+  "type": "pokemon",
+  "src": "Tempered Teostra now appears at HR 100 or above. ※ Unlocked after clearing the special investigation quest.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"강화된 테오스트라는 이제 HR 100 이상에서 등장합니다. ※ 특수 조사 퀘스트를 클리어한 후 잠금 해제됩니다.\",\"ja\":\"激昂したテオ・テスカトルは、HR100以上から出現します。※特別調査クエストをクリアすると解放されます。\",\"es\":\"Teostra Templado ahora aparece en HR 100 o superior. ※ Desbloqueado tras completar la misión de investigación especial.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "강화된 테오스트라는 이제 HR 100 이상에서 등장합니다. ※ 특수 조사 퀘스트를 클리어한 후 잠금 해제됩니다.",
+    "official": "테오-테스카토르",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "激昂したテオ・テスカトルは、HR100以上から出現します。※特別調査クエストをクリアすると解放されます。",
+    "official": "テオ・テスカトル",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Teostra Templado ahora aparece en HR 100 o superior. ※ Desbloqueado tras completar la misión de investigación especial.",
+    "official": "Teostra",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 91,
+  "api_id": "mhw-monster-75",
+  "type": "pokemon",
+  "src": "Known among hunters for its fierce attacks, Blackveil Vaal Hazak returns to the Rotten Vale. Craft resistant armor before you go!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"사냥꾼들 사이에서 맹렬한 공격으로 알려진 블랙베일 발 하작이 썩은 계곡으로 돌아온다. 가기 전에 저항력 있는 방어구를 만들어라!\",\"ja\":\"狩猟者の間で激しい攻撃で知られるブラックベイル・ヴァル・ハザクが腐敗の谷に戻ってくる。行く前に耐性のある防具を作ろう！\",\"es\":\"Conocido entre los cazadores por sus ataques feroces, Blackveil Vaal Hazak regresa al Valle Podrido. ¡Fabrica armadura resistente antes de irte!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "사냥꾼들 사이에서 맹렬한 공격으로 알려진 블랙베일 발 하작이 썩은 계곡으로 돌아온다. 가기 전에 저항력 있는 방어구를 만들어라!",
+    "official": "죽음을 두른 발하자크",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "狩猟者の間で激しい攻撃で知られるブラックベイル・ヴァル・ハザクが腐敗の谷に戻ってくる。行く前に耐性のある防具を作ろう！",
+    "official": "死を纏うヴァルハザク",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Conocido entre los cazadores por sus ataques feroces, Blackveil Vaal Hazak regresa al Valle Podrido. ¡Fabrica armadura resistente antes de irte!",
+    "official": "Vaal Hazak Espóreo",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 92,
+  "api_id": "mhw-monster-66",
+  "type": "pokemon",
+  "src": "Glavenus appears with low probability in the Rotten Vale during the event period and can be turned into a quest.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"글레베누스는 이벤트 기간 중에 썩은 계곡에서 낮은 확률로 등장하며 퀘스트로 전환할 수 있다.\",\"ja\":\"グレイヴェナスはイベント期間中にロットンベイルに低確率で出現し、クエストにできる。\",\"es\":\"Glavenus aparece con baja probabilidad en el Valle Podrido durante el período del evento y puede convertirse en una misión.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "글레베누스는 이벤트 기간 중에 썩은 계곡에서 낮은 확률로 등장하며 퀘스트로 전환할 수 있다.",
+    "official": "디노발드",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "グレイヴェナスはイベント期間中にロットンベイルに低確率で出現し、クエストにできる。",
+    "official": "ディノバルド",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Glavenus aparece con baja probabilidad en el Valle Podrido durante el período del evento y puede convertirse en una misión.",
+    "official": "Glavenus",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 93,
+  "api_id": "mhw-monster-1",
+  "type": "pokemon",
+  "src": "Slay Rathalos twice in a row within 30 minutes to earn a limited guild card title.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"30분 이내에 라탈로스를 연속으로 두 번 처치하여 한정판 길드 카드 칭호를 획득하세요.\",\"ja\":\"30分以内にラタロスを連続して2回倒し、限定ギルドカードタイトルを獲得しよう。\",\"es\":\"Mata a Rathalos dos veces seguidas en un plazo de 30 minutos para obtener un título de carta de gremio limitada.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "30분 이내에 라탈로스를 연속으로 두 번 처치하여 한정판 길드 카드 칭호를 획득하세요.",
+    "official": "리오레우스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "30分以内にラタロスを連続して2回倒し、限定ギルドカードタイトルを獲得しよう。",
+    "official": "リオレウス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Mata a Rathalos dos veces seguidas en un plazo de 30 minutos para obtener un título de carta de gremio limitada.",
+    "official": "Rathalos",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 94,
+  "api_id": "mhw-monster-62",
+  "type": "pokemon",
+  "src": "Starting from HR 50, you can repeatedly take on the Nargacuga quest, which could only be challenged once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 시작하여, 스토리에서는 한 번만 도전할 수 있었던 나르가쿠르가 퀘스트를 반복해서 수행할 수 있습니다.\",\"ja\":\"HR50から、ストーリーでは一度しか挑戦できなかったナルガクルガのクエストを繰り返し受けることができます。\",\"es\":\"A partir de HR 50, puedes repetir la misión de Nargacuga que solo podía desafiarse una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 시작하여, 스토리에서는 한 번만 도전할 수 있었던 나르가쿠르가 퀘스트를 반복해서 수행할 수 있습니다.",
+    "official": "나르가쿠르가",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "HR50から、ストーリーでは一度しか挑戦できなかったナルガクルガのクエストを繰り返し受けることができます。",
+    "official": "ナルガクルガ",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "A partir de HR 50, puedes repetir la misión de Nargacuga que solo podía desafiarse una vez en la historia.",
+    "official": "Nargacuga",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 95,
+  "api_id": "mhw-monster-69",
+  "type": "pokemon",
+  "src": "After reaching HR 21, talk to the Handler in Astera to unlock the Coral Pukei-Pukei investigation mission.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 21에 도달한 후, 아스테라의 핸들러에게 말을 걸어 코랄 푸케푸케 조사 임무를 해금하세요.\",\"ja\":\"HR 21に到達したら、アステラのハンドラーに話しかけて、コーラル・プケプケ調査任務を解除してください。\",\"es\":\"Después de alcanzar HR 21, habla con el Handler en Astera para desbloquear la misión de investigación de Coral Pukei-Pukei.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 21에 도달한 후, 아스테라의 핸들러에게 말을 걸어 코랄 푸케푸케 조사 임무를 해금하세요.",
+    "official": "푸케푸케 아종",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR 21に到達したら、アステラのハンドラーに話しかけて、コーラル・プケプケ調査任務を解除してください。",
+    "official": "プケプケ亜種",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Después de alcanzar HR 21, habla con el Handler en Astera para desbloquear la misión de investigación de Coral Pukei-Pukei.",
+    "official": "Pukei-Pukei Coralino",
+    "placeholder_kept": null,
+    "match": false
+   }
+  }
+ },
+ {
+  "id": 96,
+  "api_id": "mhw-monster-101",
+  "type": "pokemon",
+  "src": "Known among hunters for its fierce attacks, Fatalis returns to the Rotten Vale. Craft resistant armor before you go!",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"사냥꾼들 사이에서 맹렬한 공격으로 알려진 Fatalis가 Rotten Vale로 돌아온다. 가기 전에 저항력 있는 방어구를 제작하라!\",\"ja\":\"狩猟者の間で激しい攻撃で知られるファタリスが、腐った谷に戻ってくる。行く前に耐性のある防具を作ろう！\",\"es\":\"Conocido entre los cazadores por sus ataques feroces, Fatalis regresa al Valle Podrido. ¡Fabrica armadura resistente antes de irte!\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "사냥꾼들 사이에서 맹렬한 공격으로 알려진 Fatalis가 Rotten Vale로 돌아온다. 가기 전에 저항력 있는 방어구를 제작하라!",
+    "official": "밀라보레아스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "狩猟者の間で激しい攻撃で知られるファタリスが、腐った谷に戻ってくる。行く前に耐性のある防具を作ろう！",
+    "official": "ミラボレアス",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "Conocido entre los cazadores por sus ataques feroces, Fatalis regresa al Valle Podrido. ¡Fabrica armadura resistente antes de irte!",
+    "official": "Fatalis",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 97,
+  "api_id": "mhw-monster-90",
+  "type": "pokemon",
+  "src": "Tempered Yian Garuga now appears at HR 100 or above. ※ Unlocked after clearing the special investigation quest.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"강화된 이안 가루가가 HR 100 이상부터 등장합니다. ※ 특별 조사 퀘스트를 클리어한 후 해제됩니다.\",\"ja\":\"猛化イヤガルガがHR100以上から出現します。※特別調査クエストをクリアすると解放されます。\",\"es\":\"El Yian Garuga Templado ahora aparece en HR 100 o superior. ※ Desbloqueado tras completar la misión de investigación especial.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "강화된 이안 가루가가 HR 100 이상부터 등장합니다. ※ 특별 조사 퀘스트를 클리어한 후 해제됩니다.",
+    "official": "얀가루루가",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "猛化イヤガルガがHR100以上から出現します。※特別調査クエストをクリアすると解放されます。",
+    "official": "イャンガルルガ",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "es": {
+    "out": "El Yian Garuga Templado ahora aparece en HR 100 o superior. ※ Desbloqueado tras completar la misión de investigación especial.",
+    "official": "Yian Garuga",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 98,
+  "api_id": "mhw-monster-29",
+  "type": "pokemon",
+  "src": "Starting from HR 50, you can repeatedly take on the Jyuratodus quest, which could only be challenged once in the story.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"HR 50부터 시작하여, 스토리에서는 한 번만 도전할 수 있었던 주라토두스를 반복해서 수주할 수 있습니다.\",\"ja\":\"HR50から、物語では一度しか挑戦できなかったジュラトドスのクエストを繰り返し受注できます。\",\"es\":\"A partir de HR 50, puedes aceptar repetidamente la misión de Jyuratodus, que solo podía ser desafiada una vez en la historia.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "HR 50부터 시작하여, 스토리에서는 한 번만 도전할 수 있었던 주라토두스를 반복해서 수주할 수 있습니다.",
+    "official": "쥬라토도스",
+    "placeholder_kept": null,
+    "match": false
+   },
+   "ja": {
+    "out": "HR50から、物語では一度しか挑戦できなかったジュラトドスのクエストを繰り返し受注できます。",
+    "official": "ジュラトドス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "A partir de HR 50, puedes aceptar repetidamente la misión de Jyuratodus, que solo podía ser desafiada una vez en la historia.",
+    "official": "Jyuratodus",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ },
+ {
+  "id": 99,
+  "api_id": "mhw-monster-65",
+  "type": "pokemon",
+  "src": "Arch-tempered Brachydios joins the high-difficulty optional quest lineup. ※ Requires HR 100 or above.",
+  "attempts": [
+   {
+    "finish": "stop",
+    "raw": "{\"ko\":\"아크 템퍼드 브라키디오스가 고난이도 선택 퀘스트 라인업에 추가됩니다. ※ HR 100 이상 필요.\",\"ja\":\"アークテンパード・ブラキディオスが高難易度のオプションクエストラインナップに加わります。※HR100以上必要。\",\"es\":\"Brachydios templado arcaico se une a la lista de misiones opcionales de alta dificultad. ※ Requiere HR 100 o superior.\"}"
+   }
+  ],
+  "langs": {
+   "ko": {
+    "out": "아크 템퍼드 브라키디오스가 고난이도 선택 퀘스트 라인업에 추가됩니다. ※ HR 100 이상 필요.",
+    "official": "브라키디오스",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "ja": {
+    "out": "アークテンパード・ブラキディオスが高難易度のオプションクエストラインナップに加わります。※HR100以上必要。",
+    "official": "ブラキディオス",
+    "placeholder_kept": null,
+    "match": true
+   },
+   "es": {
+    "out": "Brachydios templado arcaico se une a la lista de misiones opcionales de alta dificultad. ※ Requiere HR 100 o superior.",
+    "official": "Brachydios",
+    "placeholder_kept": null,
+    "match": true
+   }
+  }
+ }
+]
